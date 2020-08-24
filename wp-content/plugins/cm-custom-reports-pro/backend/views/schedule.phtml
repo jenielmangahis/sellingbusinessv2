@@ -1,0 +1,19 @@
+
+<div class="clear"></div>
+<?php do_action('CMCR_show_messages'); ?>
+<?php
+if( !empty($messages) ):
+    foreach($messages as $message):
+        ?><div class="updated"><p><?php echo $message; ?></p></div><?php
+    endforeach;
+endif;
+?>
+
+<div class="cmcr_single_report_wrapper">
+    <div id="cmcr_tabs">
+        <?php
+        CM_Custom_Reports_Backend::displayScheduleTabsControls();
+        CM_Custom_Reports_Backend::displayScheduleTabs();
+        ?>
+    </div>
+</div>

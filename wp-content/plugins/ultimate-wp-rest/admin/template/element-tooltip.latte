@@ -1,0 +1,5 @@
+{var $defaultAttr = ['data-delay' => 50, 'data-position' => 'top']}
+{var $attr = ('array_merge'|php:$defaultAttr,$attr)}
+{var $attr['value'] = '', $attr['name'] = ''}
+{default $icon = 'help'}
+<i class="material-icons tooltip prefix" n:attr="$attr">{$icon}</i>

@@ -1,0 +1,23 @@
+
+<div class="clear"></div>
+<?php do_action('CMCR_show_messages'); ?>
+<?php
+if( !empty($messages) ):
+    foreach($messages as $message):
+        ?><div class="updated"><p><?php echo $message; ?></p></div><?php
+    endforeach;
+endif;
+?>
+
+
+<h2 class="cmcr-email-templates-list-title"><?php echo apply_filters('cmcr-email-templates-list-title', CM_Custom_Reports::__('E-mail Templates')); ?> </h2>
+
+<?php
+$templatesTable = new CMCR_Email_Templates_List_Table();
+$templatesTable->prepare_items();
+?>
+
+<form id="cmcr-email-templates-table" method="GET">
+    <input type="hidden" name="page" value="<?php echo $_REQUEST['page'] ?>"/>
+    <?php $templatesTable->display() ?>
+</form>

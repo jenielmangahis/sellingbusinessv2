@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: SendPulse Web Push\n"
+"Language: ru\n"
+
+#. Plugin Name of the plugin/theme
+#: 
+msgid "SendPulse Web Push"
+msgstr ""
+
+#: sendpulsewebpush.php:124
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: settings.php:15
+msgid "Insert integration code"
+msgstr ""
+
+#: settings.php:16
+msgid "The code you put in here will be inserted into the &lt;head&gt; tag on every page."
+msgstr ""
+
+#: settings.php:39
+msgid "The code is not updated"
+msgstr ""
+
+#: settings.php:44
+msgid "Succesfully edited %s!"
+msgstr ""
+
+#: settings.php:116
+msgid "Manage which users can access the plugin"
+msgstr ""
+
+#: settings.php:120
+msgid "Succesfully updated user role support"
+msgstr ""
+
+#: settings.php:122
+msgid "User role support not updated"
+msgstr ""
+
+#: settings.php:135
+msgid "Send extra data about logged in Wordpress users to my SendPulse account"
+msgstr ""
+
+#: settings.php:136
+msgid "Note: this event is triggered only when a new user signs up"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: 
+msgid "https://sendpulse.com/webpush?utm_source=wordpress&utm_medium=referral&utm_campaign=wordpresspush"
+msgstr ""
+
+#. Description of the plugin/theme
+#: 
+msgid "SendPulse Web Push plugin adds your web push integration code into the &lt;"
+"head&gt; section of your website. The plugin will enable web push "
+"subscription requests to your website visitors and optionally pass  emails "
+"and names of logged in users for segmentation and personalization. To get "
+"started: 1)Click the \"Activate\" link to the left of this description, 2) "
+"Sign up for a free <a href=\"https://sendpulse.com/webpush/register?"
+"utm_source=wordpress&utm_medium=referral&utm_campaign=wordpresspush"
+"\">Sendpulse account</a>, and 3) Add your website to SendPulse, copy and "
+"paste the integation code into the plugin settings section"
+msgstr ""
+
+#. Author of the plugin/theme
+#: 
+msgid "SendPulse"
+msgstr ""
+
+#. 
+#: settings.php:120
+msgid "Pass emails and usernames of Wordpress users for personalization."
+msgstr ""
+
+#. 
+#: settings.php:116
+msgid ""
+"You need to <a target=\"_blank\" href=\"https://sendpulse.com/webpush?"
+"utm_source=wordpress\">create a free account</a> to get the web push integration code "
+"and send web push notifications."
+msgstr ""

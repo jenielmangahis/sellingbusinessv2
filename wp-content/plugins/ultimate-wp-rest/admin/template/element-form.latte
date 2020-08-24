@@ -1,0 +1,11 @@
+<form n:attr="$attr">
+    <div class="input-field" n:foreach="$fields as $field">
+        {ifset $field['icon']}
+            <i class="material-icons prefix">{$field['icon']}</i>
+        {/ifset}        
+        {ifset $field['label']}
+            <label for="{$field['attr']['id']}">{$field['label']}</label>
+        {/ifset}
+        <input n:attr="$field['attr']">
+    </div>
+</form>

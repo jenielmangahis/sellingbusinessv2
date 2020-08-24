@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SendPulse Web Push\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#. Plugin Name of the plugin/theme
+msgid "SendPulse Web Push"
+msgstr "Push-уведомления от SendPulse"
+
+#: sendpulsewebpush.php:124
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас нет доступа к просмотру этой страницы."
+
+#: settings.php:15
+msgid "Insert integration code"
+msgstr "Вставьте код интеграции"
+
+#: settings.php:16
+msgid ""
+"The code you put in here will be inserted into the &lt;head&gt; tag on every "
+"page."
+msgstr ""
+"Код, который вы вставите сюда, будет добавлен в блок \"head\" на каждой "
+"странице"
+
+#: settings.php:39
+msgid "The code is not updated"
+msgstr "Код не обновлен"
+
+#: settings.php:44
+msgid "Succesfully edited %s!"
+msgstr "Успешно отредактировано."
+
+#: settings.php:116
+msgid "Manage which users can access the plugin"
+msgstr "Укажите, какие пользователи будут иметь доступ к плагину"
+
+#: settings.php:120
+msgid "Succesfully updated user role support"
+msgstr "Роль пользователя успешно обновлена."
+
+#: settings.php:122
+msgid "User role support not updated"
+msgstr "Роль пользователя не обновлена."
+
+#: settings.php:135
+msgid "Send extra data about logged in Wordpress users to my SendPulse account"
+msgstr ""
+"Отправить дополнительные данные про залогиненных в Wordpress пользователей в "
+"мой аккаунт SendPulse."
+
+#: settings.php:136
+msgid "Note: this event is triggered only when a new user signs up"
+msgstr "Обратите внимение: данные отправляются при регистрации пользователя."
+
+#. Author URI of the plugin/theme
+msgid ""
+"https://sendpulse.com/webpush?"
+"utm_source=wordpress&utm_medium=referral&utm_campaign=wordpresspush"
+msgstr ""
+"https://sendpulse.com/ru/webpush?"
+"utm_source=wordpress&utm_medium=referral&utm_campaign=wordpresspush"
+
+#. Description of the plugin/theme
+msgid ""
+"SendPulse Web Push plugin adds your web push integration code into the &lt;"
+"head&gt; section of your website. The plugin will enable web push "
+"subscription requests to your website visitors and optionally pass  emails "
+"and names of logged in users for segmentation and personalization. To get "
+"started: 1)Click the \"Activate\" link to the left of this description, 2) "
+"Sign up for a free <a href=\"https://sendpulse.com/webpush/register?"
+"utm_source=wordpress&utm_medium=referral&utm_campaign=wordpresspush"
+"\">Sendpulse account</a>, and 3) Add your website to SendPulse, copy and "
+"paste the integation code into the plugin settings section"
+msgstr ""
+"Плагин Push-уведомлений от SendPulse вставляет код интеграции в блок \"head"
+"\" вашего сайта. Плагин предлагает подписаться посетителям вашего сайта, а "
+"также передает email адреса и логин пользователей для сегментации и "
+"персонализации.  Чтобы начать: 1) Нажмите на кнопку «Активировать» слева от "
+"данного описания 2) Зарегистрируйтесь бесплатно <a href=\"https://sendpulse."
+"com/ru/webpush/register?"
+"utm_source=wordpress&utm_medium=referral&utm_campaign=wordpresspush\"> в "
+"сервисе SendPulse </a>.  3) Добавьте свой сайт в личном кабинете сервиса, "
+"скопируйте и вставьте код интеграции в настройки плагина."
+
+#. Author of the plugin/theme
+msgid "SendPulse"
+msgstr "SendPulse"
+
+#.
+#: settings.php:120
+msgid "Pass emails and usernames of Wordpress users for personalization."
+msgstr ""
+"Передавать email адреса и имена зарегистрированных пользователей для "
+"персонализации."
+
+#.
+#: settings.php:116
+msgid ""
+"You need to <a target=\"_blank\" href=\"https://sendpulse.com/webpush?"
+"utm_source=wordpress\">create a free account</a> to get the web push "
+"integration code and send web push notifications."
+msgstr ""
+"<a target=\"_blank\" href=\"https://sendpulse.com/webpush?"
+"utm_source=wordpress\">Создайте бесплатный аккаунт</a>, чтобы получить код "
+"интеграции и отправлять push уведомления."
+
+#~ msgid "Send additional information"
+#~ msgstr ""
+#~ "Передавать email адреса и имена зарегистрированных пользователей для "
+#~ "персонализации."
+
+#~ msgid ""
+#~ "You need to create a free account to get the web push integration code "
+#~ "and send web push notifications."
+#~ msgstr ""
+#~ "<a target=\"_blank\" href=\"https://sendpulse.com/webpush?"
+#~ "utm_source=wordpress\">Создайте бесплатный аккаунт</a>, чтобы получить "
+#~ "код интеграции и отправлять push уведомления."

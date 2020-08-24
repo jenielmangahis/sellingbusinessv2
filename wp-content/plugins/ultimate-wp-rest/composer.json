@@ -1,0 +1,9 @@
+{ 
+  "require": { 
+    "tracy/tracy": "^2.5",
+    "latte/latte": "^2.4",
+    "nette/utils": "^2.5",
+    "nette/caching": "^2.5",
+    "lcobucci/jwt": "^3.2"
+  } 
+}

@@ -1,0 +1,209 @@
+/**
+ * All of the CSS for your dashboard-specific functionality should be
+ * included in this file.
+ */
+ @import url('tooltipster.css');
+ .hide{
+ 	display: none;
+ }
+ .cwa-warning{
+ 	color: red;
+ }
+ .cwa-success{
+ 	color: green;
+ }
+ .cwa-error{
+ 	border: 1px solid transparent;
+ 	padding: 10px;
+ 	margin-bottom: 10px;
+	width: 96%;
+	font-size: 14px;
+	border-radius: 5px;
+	background: rgba(255,255,255,0.8);
+ }
+ .cwa-error.cwa-success{
+ 	border-color: green;
+ }
+
+ .cwa-error.cwa-warning{
+ 	border-color: red;
+ }
+ .col{
+ 	float: left;
+ }
+ .col-8{
+ 	min-width: 400px;
+ 	width: 60%;
+ }
+ .col-4{
+ 	min-width: 300px;
+ 	width: 40%;
+ }
+.cwa-form{
+	margin-right: 20px;
+	border: 1px solid #ddd;
+	/* margin-top: 10px; */
+	padding: 10px;
+	border-radius: 5px;
+}
+ .cwa-form-label{
+ 	min-width: 200px;
+ 	display: inline-block;
+ 	font-size: 14px;
+ 	vertical-align: top;
+ 	line-height: 30px;
+ }
+ .cwa-form-row{
+ 	margin-bottom: 5px;
+ 	padding: 5px;
+ 	position: relative;
+ }	
+ .cwa-form input[type=text], .cwa-form input[type=password], .cwa-form input[type=email], .cwa-form select, .cwa-form textarea{
+ 	padding: 5px 10px;
+ 	border-radius: 5px;
+ 	min-width: 40%;
+ 	line-height: 25px;
+ }
+ .custom-wp{
+ 	padding: 20px 10px;
+ }
+
+ .cwa-table{
+ 	width: 98%;
+ 	background: #fff;
+ 	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	line-height: 30px;
+	border-collapse:collapse;
+ }
+ .cwa-table>thead{
+ 	text-align: left;
+ }
+ .cwa-table>thead tr{
+ 	background-color: #167F92;
+ 	color: #fff;
+ }
+ .cwa-table th{
+ 	border-left: 1px solid #fff;
+
+ }
+ .cwa-table th, .cwa-table td {
+ 	padding: 0.5em 1em;	
+ }
+ .cwa-table th:first-child, .cwa-table td:first-child{
+ 	padding-left: 15px;
+ 	border-left: 0;
+ 	text-align: center;
+ }
+ .cwa-table td{
+ 	border-left: 1px solid #D9E4E6;
+ }
+ .cwa-table th:last-child, .cwa-table td:last-child{
+ 	padding-right: 15px;
+ }
+.cwa-table>tbody tr:nth-child(even){
+	//background-color: rgba(0, 0, 0, 0.1);
+	background-color: #EAF3F3;
+}
+
+ .cwa-btn{
+ 	border-radius: 5px;
+	border: 1px solid transparent;
+	padding: 8px 15px !important;
+	min-width: 120px !important;
+ 	font-weight: bold;
+ }
+ .cwa-btn.cwa-btn-primary{
+ 	background-color: #0074a2;
+ 	color: #fff;
+ }
+ .cwa-btn.cwa-btn-danger{
+ 	background-color: #B40404 !important;
+ 	color: #fff !important;
+ }
+ input[type=submit], input[type=reset], button{
+ 	cursor: pointer;
+ }
+ .how-to{
+ 	padding: 2em;
+	//background: #ddd;
+	border-radius: 5px;
+	color: #333;
+	//transition: all 0.5s ease;
+	overflow: hidden;
+	height: 100%;
+	position: relative;
+ }
+.how-to:after {
+  display: block;
+  position: absolute;
+  content: "";
+  height: 40px;
+  //background: #ddd;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
+ .show-less{
+ 	height: 320px;
+ }
+
+ .tabs li{
+ 	display: inline-block;
+ 	margin-bottom: 0;
+ 	background: #fff;
+ 	border-top: 1px solid #e5e5e5;
+ 	border-left: 1px solid #e5e5e5;
+ 	border-right: 1px solid #e5e5e5;	
+ }
+ .tabs li.active{
+ 	position: relative;
+ 	z-index: 5;
+ }
+ .tabs{
+ 	margin-bottom: -1px;
+ }
+ .tabs li a{
+ 	padding: 10px 20px;
+ 	text-decoration: none;
+ }
+.cwa .welcome-panel{
+	margin-top: 0;
+}
+
+.tab-container{
+
+}
+.etabs { margin: 0; padding: 0; }
+.tab { display: inline-block; zoom:1; *display:inline; background: #eee; border: solid 1px #e5e5e5	; border-bottom: none; -moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; margin-bottom: 0; }
+.tab a { font-size: 14px; line-height: 2em; display: block; padding: 5px 10px; outline: none; text-decoration: none; }
+.tab.active { background: #fff; position: relative; top: 1px; border-color: #e5e5e5; }
+.tab a.active { font-weight: bold;  padding-top: 12px; }
+.tab-container .panel-container { background: #fff; border: solid #666 1px; padding: 10px; -moz-border-radius: 0 4px 4px 4px; -webkit-border-radius: 0 4px 4px 4px; }
+.tab a .dashicons-before:before{
+	vertical-align: top;
+	font-size: 24px;
+	margin-right: 5px;
+}
+
+.tab-content{
+	border: solid 1px #e5e5e5	;
+	padding: 20px 10px;
+}
+
+.help-page img{
+	max-width: 1100px;
+	width: 100%;
+	min-width:  500px;
+}
+.help-page h2{
+	font-weight: bold;
+	color: #343434;
+}
+.no-data{
+	color: #999;
+}
+.fieldSwitcher{
+	cursor: pointer;
+	vertical-align: top;
+}

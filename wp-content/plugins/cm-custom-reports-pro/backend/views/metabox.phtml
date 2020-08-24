@@ -1,0 +1,145 @@
+<?php
+// Add an nonce field so we can check for it later.
+wp_nonce_field(CMCR_SLUG_NAME.'-custom-fields', CMCR_SLUG_NAME.'-custom-fields-nonce');
+?>
+
+<p>
+    <label for="purchase">
+        <span>
+            <?php _e('Product Purchase Link:', CMCR_SLUG_NAME); ?>
+        </span>
+    </label>
+    <br>
+    <input type="text" name="cmcr_purchase" id="purchase" class="regular-text" value="<?php echo CM_Custom_Reports::meta($post->ID, 'cmcr_purchase'); ?>">
+    <!--<input type="color" name="cmcr_purchase_color" id="client-color" value="<?php echo CM_Custom_Reports::meta($post->ID, 'cmcr_purchase_color'); ?>">-->
+</p>
+
+<p>
+    <label for="display_purchase">
+        <span>
+            <?php _e('Hide the button with Product Purchase link?', CMCR_SLUG_NAME); ?>
+        </span>
+    </label>
+    <input type="hidden" name="cmcr_hide_purchase" value="0">
+    <input type="checkbox" name="cmcr_hide_purchase" id="display_purchase" value="1" <?php checked('1', CM_Custom_Reports::meta($post->ID, 'cmcr_hide_purchase')); ?> >
+</p>
+
+<p>
+    <label for="link">
+        <span>
+            <?php _e('Product Info Link :', CMCR_SLUG_NAME); ?>
+        </span>
+    </label>
+    <br>
+    <input type="text" name="cmcr_link" id="link" class="regular-text" value="<?php echo CM_Custom_Reports::meta($post->ID, 'cmcr_link'); ?>">
+    <!--<input type="color" name="cmcr_link_color" id="link-color" value="<?php echo CM_Custom_Reports::meta($post->ID, 'cmcr_link_color'); ?>">-->
+</p>
+
+<p>
+    <label for="display_purchase">
+        <span>
+            <?php _e('Hide the button with Product Info link?', CMCR_SLUG_NAME); ?>
+        </span>
+    </label>
+    <input type="hidden" name="cmcr_hide_info" value="0">
+    <input type="checkbox" name="cmcr_hide_info" id="display_purchase" value="1" <?php checked('1', CM_Custom_Reports::meta($post->ID, 'cmcr_hide_info')); ?> >
+</p>
+
+<p>
+    <label for="hide_add_to_cart">
+        <span>
+            <?php _e('Hide the "Add to cart" button?', CMCR_SLUG_NAME); ?>
+        </span>
+    </label>
+    <input type="hidden" name="cmcr_hide_addtocart" value="0">
+    <input type="checkbox" name="cmcr_hide_addtocart" id="hide_add_to_cart" value="1" <?php checked('1', CM_Custom_Reports::meta($post->ID, 'cmcr_hide_addtocart')); ?> >
+</p>
+
+<p>
+    <label for="add1">
+        <span>
+            <?php echo CMCR_Labels::getLocalized('add1_link'); ?>
+        </span>
+    </label>
+    <br>
+    <input type="text" name="cmcr_add1" id="add1" class="regular-text" value="<?php echo CM_Custom_Reports::meta($post->ID, 'cmcr_add1'); ?>">
+</p>
+
+<p>
+    <label for="add2">
+        <span>
+            <?php echo CMCR_Labels::getLocalized('add2_link'); ?>
+        </span>
+    </label>
+    <br>
+    <input type="text" name="cmcr_add2" id="add2" class="regular-text" value="<?php echo CM_Custom_Reports::meta($post->ID, 'cmcr_add2'); ?>">
+</p>
+
+<p>
+    <label for="add3">
+        <span>
+            <?php echo CMCR_Labels::getLocalized('add3_link'); ?>
+        </span>
+    </label>
+    <br>
+    <input type="text" name="cmcr_add3" id="free" class="regular-text" value="<?php echo CM_Custom_Reports::meta($post->ID, 'cmcr_add3'); ?>">
+</p>
+
+<p>
+    <label for="add4">
+        <span>
+            <?php echo CMCR_Labels::getLocalized('add4_link'); ?>
+        </span>
+    </label>
+    <br>
+    <input type="text" name="cmcr_add4" id="video" class="regular-text" value="<?php echo CM_Custom_Reports::meta($post->ID, 'cmcr_add4'); ?>">
+</p>
+
+<p>
+    <label for="price">
+        <span>
+            <?php _e('Price :', CMCR_SLUG_NAME); ?>
+        </span>
+    </label>
+    <br>
+    <input type="text" name="cmcr_price" id="price" class="regular-text" value="<?php echo CM_Custom_Reports::meta($post->ID, 'cmcr_price', ''); ?>">
+</p>
+
+<p>
+    <label for="discount">
+        <span>
+            <?php _e('Discount Text :', CMCR_SLUG_NAME); ?>
+        </span>
+    </label>
+    <br>
+    <input type="text" name="cmcr_discount" id="discount" class="regular-text" value="<?php echo CM_Custom_Reports::meta($post->ID, 'cmcr_discount'); ?>">
+</p>
+
+<p>
+    <label for="newprod">
+        <span>
+            <?php _e('Is this a new Product:', CMCR_SLUG_NAME); ?>
+        </span>
+    </label>
+    <input type="hidden" name="cmcr_new_prod" value="0">
+    <input type="checkbox" name="cmcr_new_prod" id="newprod" value="1" <?php checked('1', CM_Custom_Reports::meta($post->ID, 'cmcr_new_prod')); ?> >
+</p>
+
+<p>
+    <label for="featuredprod">
+        <span>
+            <?php _e('Is this a Featured Product:', CMCR_SLUG_NAME); ?>
+        </span>
+    </label>
+    <input type="hidden" name="cmcr_featured_prod" value="0">
+    <input type="checkbox" name="cmcr_featured_prod" id="featuredprod" value="1" <?php checked('1', CM_Custom_Reports::meta($post->ID, 'cmcr_featured_prod')); ?> >
+</p>
+
+<!--<p>
+    <label for="pauseprod"><span>
+            <?php _e('Pause this Product:', CMCR_SLUG_NAME); ?>
+        </span>
+    </label>
+    <input type="hidden" name="cmcr_pause_prod" value="0">
+    <input type="checkbox" name="cmcr_pause_prod" id="pauseprod" value="1" <?php checked('1', CM_Custom_Reports::meta($post->ID, 'cmcr_pause_prod')); ?>>
+</p>-->

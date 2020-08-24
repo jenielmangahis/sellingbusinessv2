@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AfterPay for WooCommerce\n"
+"POT-Creation-Date: 2016-09-12 14:53+0200\n"
+"PO-Revision-Date: 2016-10-27 13:34+0200\n"
+"Last-Translator: Niklas Högefjord <info@krokedil.se>\n"
+"Language-Team: Niklas Högefjord <info@krokedil.se>\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: afterpay-for-woocommerce.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: afterpay-for-woocommerce.php:41 afterpay-for-woocommerce.php:68
+msgid ""
+"WooCommerce AfterPay Gateway requires PHP SOAP extension. Please get in "
+"touch with \n"
+"\tyour hosting provider to see how you can enable it."
+msgstr ""
+
+#: includes/class-cancel-reservation.php:95
+msgid ""
+"Could not cancel AfterPay reservation, AfterPay reservation is already "
+"cancelled."
+msgstr ""
+
+#: includes/class-cancel-reservation.php:130
+msgid "AfterPay reservation was successfully cancelled."
+msgstr ""
+
+#: includes/class-cancel-reservation.php:132
+msgid "AfterPay reservation could not be cancelled."
+msgstr ""
+
+#: includes/class-cancel-reservation.php:136
+#, php-format
+msgid "AfterPay reservation could not be cancelled, reason: %s."
+msgstr ""
+
+#: includes/class-capture.php:108
+msgid ""
+"Could not capture AfterPar reservation, AfterPay reservation is already "
+"captured."
+msgstr ""
+
+#: includes/class-capture.php:173
+#, php-format
+msgid "AfterPay reservation was successfully captured, invoice number: %s."
+msgstr ""
+
+#: includes/class-capture.php:176
+msgid "AfterPay reservation could not be captured."
+msgstr ""
+
+#: includes/class-capture.php:180
+#, php-format
+msgid "AfterPay reservation could not be captured, reason: %s."
+msgstr ""
+
+#: includes/class-create-contract.php:90
+#, php-format
+msgid "AfterPay contract created, contract ID: %s."
+msgstr ""
+
+#: includes/class-create-contract.php:96
+msgid "CreateContract request failed."
+msgstr ""
+
+#: includes/class-error-notice.php:26 includes/class-error-notice.php:29
+#: includes/class-error-notice.php:81 includes/class-error-notice.php:90
+#: includes/class-error-notice.php:93
+msgid "Please try again"
+msgstr "Vennligst forsøk igjen"
+
+#: includes/class-error-notice.php:32
+msgid "Please verify "
+msgstr ""
+"Vennligst kontroller at du har angitt riktige opplysninger og forsøk igjen"
+
+#: includes/class-error-notice.php:35 includes/class-error-notice.php:53
+#: includes/class-error-notice.php:56 includes/class-error-notice.php:59
+#: includes/class-error-notice.php:62 includes/class-error-notice.php:65
+#: includes/class-error-notice.php:68 includes/class-error-notice.php:71
+#: includes/class-error-notice.php:74 includes/class-error-notice.php:77
+#: includes/class-error-notice.php:96 includes/class-error-notice.php:102
+#: includes/class-error-notice.php:105 includes/class-error-notice.php:108
+#: includes/class-error-notice.php:111 includes/class-error-notice.php:114
+#: includes/class-error-notice.php:117 includes/class-error-notice.php:120
+msgid "Please select a different payment method"
+msgstr "Vennligst velg en annen betalingsmetode"
+
+#: includes/class-error-notice.php:38 includes/class-error-notice.php:41
+#: includes/class-error-notice.php:44 includes/class-error-notice.php:47
+#: includes/class-error-notice.php:50 includes/class-error-notice.php:99
+#: includes/class-error-notice.php:123 includes/class-error-notice.php:126
+#: includes/class-error-notice.php:129 includes/class-error-notice.php:133
+msgid "Please verify your information and try again "
+msgstr ""
+"Vennligst kontroller at du har angitt riktige opplysninger og forsøk igjen"
+
+#: includes/class-pre-check-customer.php:126
+msgid "Personal/organization number is a required field."
+msgstr "Person/organisasjons nummer er et obligatorisk felt"
+
+#: includes/class-pre-check-customer.php:129
+msgid ""
+"Please use get address feature first, before using one of AfterPay payment "
+"methods."
+msgstr ""
+
+#: includes/class-pre-check-customer.php:148
+msgid "Personal/organization number"
+msgstr "Personnummer/Organisasjonsnummer"
+
+#: includes/class-pre-check-customer.php:151
+msgid "Person"
+msgstr "Person"
+
+#: includes/class-pre-check-customer.php:156
+msgid "Company"
+msgstr "Selskap"
+
+#: includes/class-pre-check-customer.php:161
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:337
+msgid "YYMMDDNNNN"
+msgstr "DDMMYYNNNNN"
+
+#: includes/class-pre-check-customer.php:164
+msgid "Get address"
+msgstr ""
+
+#: includes/class-pre-check-customer.php:206
+msgid "Address found and added to checkout form."
+msgstr ""
+
+#: includes/class-pre-check-customer.php:212
+msgid ""
+"No address was found. Please check your personal number or choose another "
+"payment method."
+msgstr ""
+"Ingen adresse ble funnet. Vennligst sjekk din personnummer eller velge en "
+"annen betalingsmåte."
+
+#: includes/class-refund.php:123
+msgid "AfterPay refund was successfully processed."
+msgstr ""
+
+#: includes/class-refund.php:127
+msgid "AfterPay refund could not be processed."
+msgstr ""
+
+#: includes/class-refund.php:129
+msgid "Refund failed."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-account.php:33
+msgid "AfterPay Account"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-account.php:37
+#: includes/gateways/class-wc-gateway-afterpay-invoice.php:37
+#: includes/gateways/class-wc-gateway-afterpay-part-payment.php:37
+msgid "Allows payments through "
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:107
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:109
+msgid "Enable "
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:113
+msgid "Title"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:115
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:120
+msgid "Description"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:123
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:126
+msgid "AfterPay Username - Sweden"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:128
+msgid ""
+"Please enter your AfterPay username for Sweden; this is needed in order to "
+"take payment."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:132
+msgid "AfterPay Password - Sweden"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:134
+msgid ""
+"Please enter your AfterPay password for Sweden; this is needed in order to "
+"take payment."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:138
+msgid "AfterPay Client ID - Sweden"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:140
+msgid ""
+"Please enter your AfterPay client ID for Sweden; this is needed in order to "
+"take payment."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:144
+msgid "AfterPay Username - Norway"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:146
+msgid ""
+"Please enter your AfterPay username for Norway; this is needed in order to "
+"take payment."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:150
+msgid "AfterPay Password - Norway"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:152
+msgid ""
+"Please enter your AfterPay password for Norway; this is needed in order to "
+"take payment."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:156
+msgid "AfterPay Client ID - Norway"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:158
+msgid ""
+"Please enter your AfterPay client ID for Norway; this is needed in order to "
+"take payment."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:166
+msgid "Invoice Fee"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:168
+msgid ""
+"Create a hidden (simple) product that acts as the invoice fee. Enter the ID "
+"number in this textfield. Leave blank to disable."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:176
+msgid "Enable Order Management"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:178
+msgid ""
+"Enable AfterPay order capture on WooCommerce order completion and AfterPay "
+"order cancellation on WooCommerce order cancellation"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:182
+msgid "AfterPay testmode"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:184
+msgid "Enable AfterPay testmode"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:188
+msgid "Debug Log"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:190
+msgid "Enable logging"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:192
+msgid "Log "
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:247
+#, php-format
+msgid "AfterPay reservation created, reservation ID: %s."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:316
+msgid "Refund failed: No AfterPay invoice number ID."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:322
+msgid "Refund failed: Only full order amount can be refunded via AfterPay."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:338
+#, php-format
+msgid ""
+"<strong>Personal/organization number</strong> needs to be numeric and in the "
+"following format: %s."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-factory.php:399
+#, php-format
+msgid ""
+"The registered address did not match the one specified in WooCommerce. The "
+"order has been updated. The following fields was changed: %s."
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-invoice.php:33
+msgid "AfterPay Invoice"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-part-payment.php:33
+msgid "AfterPay Part Payment"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-part-payment.php:105
+msgid "Please select a payment plan:"
+msgstr ""
+
+#: includes/gateways/class-wc-gateway-afterpay-part-payment.php:128
+msgid ""
+"Example: 10000 kr over 12 months, effective interest rate 16.82%. Total "
+"credit amount 1682SEK, total repayment amount 11682 SEK."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "AfterPay for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://krokedil.se/produkt/afterpay/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provides AfterPay payment gateway for WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Krokedil"
+msgstr "Krokedil"
+
+#. Author URI of the plugin/theme
+msgid "http://krokedil.com/"
+msgstr "http://krokedil.com/"
+
+#~ msgid "Not set."
+#~ msgstr "Vennligst forsøk igjen."
+
+#~ msgid "Ok."
+#~ msgstr "Vennligst forsøk igjen."
+
+#~ msgid "Illegal values."
+#~ msgstr ""
+#~ "Vennligst kontroller at du har angitt riktige opplysninger og forsøk "
+#~ "igjen."
+
+#~ msgid "Limit exceeded."
+#~ msgstr "Vennligst velg en annen betalingsmetode."
+
+#~ msgid "Order already exists."
+#~ msgstr ""
+#~ "Vennligst kontroller at du har angitt riktige opplysninger og forsøk "
+#~ "igjen."
+
+#~ msgid "Amount does not match PreCheck."
+#~ msgstr ""
+#~ "Vennligst kontroller at du har angitt riktige opplysninger og forsøk igjen"
+
+#~ msgid "Invalid Checkout ID."
+#~ msgstr ""
+#~ "Vennligst kontroller at du har angitt riktige opplysninger og forsøk igjen"
+
+#~ msgid "System error."
+#~ msgstr ""
+#~ "Vennligst kontroller at du har angitt riktige opplysninger og forsøk igjen"
+
+#~ msgid "Invalid Contract ID."
+#~ msgstr ""
+#~ "Vennligst kontroller at du har angitt riktige opplysninger og forsøk igjen"
+
+#~ msgid "Invalid Client ID."
+#~ msgstr "Vennligst velg en annen betalingsmetode"
+
+#~ msgid "Customer related risk."
+#~ msgstr "Vennligst velg en annen betalingsmetode"
+
+#~ msgid "Other risk. Please select another payment method."
+#~ msgstr "Vennligst velg en annen betalingsmetode"
+
+#~ msgid "Invalid payment method."
+#~ msgstr "Noe gikk feil, vennligst velg annen betalingsmetode"
+
+#~ msgid "Invalid Order No."
+#~ msgstr "Noe gikk feil, vennligst velg annen betalingsmetode"
+
+#~ msgid "Invalid Customer No."
+#~ msgstr "Noe gikk feil, vennligst velg annen betalingsmetode"
+
+#~ msgid "Invalid currency code."
+#~ msgstr "Noe gikk feil, vennligst velg annen betalingsmetode"
+
+#~ msgid "Contract duration not allowed."
+#~ msgstr "Noe gikk feil, vennligst velg annen betalingsmetode"
+
+#~ msgid "Monthly installment below minimum amount."
+#~ msgstr "Noe gikk feil, vennligst velg annen betalingsmetode"
+
+#~ msgid "Unknown response code."
+#~ msgstr "Vennligst forsøk igjen"
+
+#~ msgid "Delivery related risk."
+#~ msgstr "Vennligst velg en annen betalingsmetode"
+
+#~ msgid "Address related risk."
+#~ msgstr "Vennligst velg en annen betalingsmetode"
+
+#~ msgid "Order related risk."
+#~ msgstr "Vennligst velg en annen betalingsmetode"
+
+#~ msgid "Profile related risk."
+#~ msgstr "Vennligst velg en annen betalingsmetode"
+
+#~ msgid "Limit exceed risk."
+#~ msgstr "Vennligst velg en annen betalingsmetode"
+
+#~ msgid "Validation error – wrong/missing input data."
+#~ msgstr ""
+#~ "Vennligst kontroller at du har angitt riktige opplysninger og forsøk igjen"
+
+#~ msgid "Unknown response code"
+#~ msgstr ""
+#~ "Vennligst kontroller at du har angitt riktige opplysninger og forsøk igjen"
+
+#~ msgid "CompleteCheckout request failed."
+#~ msgstr "CompleteCheckout-anropet misslyckades."
+
+#~ msgid "AfterPay Username"
+#~ msgstr "AfterPay användarnamn"
+
+#~ msgid ""
+#~ "Please enter your AfterPay username; this is needed in order to take "
+#~ "payment."
+#~ msgstr ""
+#~ "Vänligen ange ditt användarnamn för AfterPay. Detta är nödvändigt för att "
+#~ "ta betalning."
+
+#~ msgid "AfterPay Password"
+#~ msgstr "AfterPay lösenord"
+
+#~ msgid ""
+#~ "Please enter your AfterPay password; this is needed in order to take "
+#~ "payment."
+#~ msgstr ""
+#~ "Skriv in lösenordet för AfterPay. Detta är nödvändigt för att ta "
+#~ "betalning."
+
+#~ msgid "AfterPay Client ID"
+#~ msgstr "AfterPay klient-ID"
+
+#~ msgid ""
+#~ "Please enter your AfterPay client ID; this is needed in order to take "
+#~ "payment."
+#~ msgstr ""
+#~ "Vänligen ange ditt klient-ID för AfterPay. Detta är nödvändigt för att ta "
+#~ "betalning."

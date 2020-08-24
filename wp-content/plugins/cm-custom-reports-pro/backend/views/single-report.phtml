@@ -1,0 +1,26 @@
+<?php
+$data = $this->getData();
+?>
+<div class="clear"></div>
+
+<br/>
+
+<a href="<?php echo CM_Custom_Reports_Backend::getReportListUrl(); ?>" class="button-primary"><?php echo CMCR_Labels::getLocalized('back_to_list') ?></a>
+
+<h2 class="cmcr-report-name"><?php echo $this->getReportNameFiltered(); ?> </h2>
+
+<div class="cmcr-report-description">
+    <?php echo $this->getReportDescription(); ?>
+</div>
+
+<br/>
+<hr>
+
+<div class="cmcr_single_report_wrapper">
+    <div id="cmcr_tabs">
+        <?php
+        $this->displayReportTabsControls();
+        $this->displayReportTabs();
+        ?>
+    </div>
+</div>

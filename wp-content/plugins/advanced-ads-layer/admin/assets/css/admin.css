@@ -1,0 +1,4 @@
+.advads-sticky-assistant table { border: 1px solid #ddd; }
+.advads-layer-ads-position div.clear { content: ' '; display: block; float: none; clear: both; }
+.advads-placements-table .advads-placements-table-options input[type=number] { width: 5em; }
+.advads-placements-table .advads-layer-ads-position .advads-sticky-assistant table tbody tr td { width: 3em; height: 2em; text-align: center; vertical-align: middle; padding: 0; }

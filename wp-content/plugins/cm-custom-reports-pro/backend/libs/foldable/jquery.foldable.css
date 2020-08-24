@@ -1,0 +1,96 @@
+/*
+jquery.foldable.css
+*/
+.btn,
+[class^="btn"] {
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0 10px;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    margin: 2px 0 2px 2px;
+    padding: 2px 8px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    color: #444;
+    text-shadow: 0 1px white;
+    border: solid 1px #999;
+    cursor: pointer;
+    background: #f0f0f0;
+    background: -moz-linear-gradient(top,  #ffffff 0%, #bababa 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#bababa)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#bababa 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ffffff 0%,#bababa 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ffffff 0%,#bababa 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #ffffff 0%,#bababa 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#bababa',GradientType=0 ); /* IE6-9 */
+    -webkit-transition: all 0.1s;
+    -moz-transition: all 0.1s;
+    -o-transition: all 0.1s;
+    transition: all 0.1s;
+    -webkit-transition: padding 0;
+    -moz-transition: all 0.1s;
+    -o-transition: all 0.1s;
+    transition: all 0.1s;
+    -webkit-user-select: none;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.pull-right{
+    float: right;
+}
+
+.foldable{
+    border-top: 1px solid #ccc;
+}
+
+.foldable-title{
+    padding: 0;
+    margin: 0;
+}
+
+.foldable:first-of-type{
+    border-top: none;
+}
+
+.foldable:nth-child(even) .foldable-row.folded{
+    background-color: rgba(232,232,232,0.7);
+}​
+
+.foldable:nth-child(odd) .foldable-row.folded{
+    background-color: rgba(255,255,255,1);
+}​
+
+.foldable-row{
+    padding: 5px;
+}
+
+.foldable > .foldable-row > .foldable-button{
+    min-width: 40px;
+}
+
+.foldable .foldable-row.folded,
+.foldable .foldable-row.unfolded{
+    padding: 5px;
+}
+
+.foldable .foldable-row.folded{
+}
+.foldable .foldable-row.unfolded{
+}
+
+.foldable .foldable-row:hover,
+.foldable:nth-child(even) .foldable-row:hover{
+    background-color: rgba(204,204,204,0.5);
+}
+
+.foldable .foldable-row:after{
+    content: "";
+    display: table;
+    clear: both;
+}

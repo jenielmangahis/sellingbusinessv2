@@ -1,0 +1,16 @@
+<ul class="collapsible" n:attr="$attr" n:inner-foreach="$data as $aData">
+  <li>
+    <div class="collapsible-header">
+      <i class="material-icons">
+        {$aData['icon']|noescape}
+      </i>
+      {$aData['title']|noescape}
+      <span class="new badge" data-badge-caption="">
+        {$aData['badge']|noescape}
+      </span>
+    </div>
+    <div class="collapsible-body">
+      {$aData['content']|noescape}
+    </div>
+  </li>
+</ul>

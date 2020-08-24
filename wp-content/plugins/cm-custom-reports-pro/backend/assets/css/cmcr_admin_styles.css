@@ -1,0 +1,127 @@
+.cmcr_reports_group_label, .foldable-title {
+    cursor: pointer;
+    background-color: #DFDFDF;
+    padding: 10px;
+    margin: 10px 20px;
+}
+
+.cmcr_reports_group_label:after{
+    content: '(click to fold)';
+    font-style: italic;
+    font-size: 8pt;
+}
+
+.foldable-title:after{
+    content: '(click to unfold)';
+    font-style: italic;
+    font-size: 8pt;
+}
+
+.foldable-row.folded{
+    margin: 1em 0;
+}
+
+li.cmcr_reports_list_item {
+    float: left;
+    width: 17%;
+    background: #FFF;
+    padding: 10px;
+    margin: 10px 20px;
+}
+
+li.cmcr_reports_list_item .cmcr_report_icon_container {
+    float: left;
+    margin-right: 10px;
+}
+
+li.cmcr_reports_list_item .cmcr_report_info_container {
+    float: left;
+    max-width: 72%;
+}
+
+li.cmcr_reports_list_item .cmcr_report_info_container .cmcr_report_fav,
+li.cmcr_reports_list_item .cmcr_report_info_container .cmcr_report_unfav
+{
+    float: right;
+}
+
+.cmcr_report_additional_info span{
+    font-style: italic;
+}
+
+#cmcr_graph_placeholder{
+    background: #fff;
+    min-height: 500px;
+    min-width: 500px;
+}
+
+table.cmcr_schedule_settings span.error{
+    color: #cc0000;
+}
+
+.cmcr_single_template_wrapper{
+    background-color: #FFF;
+    padding: 0 10px 15px;
+    max-width: 900px;
+}
+
+/* cmcr-graph-controls-container */
+.cmcr-graph-controls-container{
+    margin-bottom: 20px;
+}
+
+.cmcr-graph-controls-container a.cmcr-float-right{
+    float: right;
+    margin-left: 10px;
+}
+
+.cmcr-center{
+    text-align: center;
+    margin: 0 auto;
+}
+.cmcr-middle{
+    vertical-align: middle;
+}
+
+.cmcr-graph-controls-container input{
+    max-width: 120px;
+}
+
+.cmcr-graph-controls-container input.small{
+    max-width: 60px;
+}
+
+.cmcr-graph-controls-container input.tiny{
+    max-width: 30px;
+}
+
+.cmcr-preview-container{
+    max-width: 95%;
+    padding: 5%;
+    margin: 0 auto;
+    background: white;
+}
+
+#cmcr-graph-tooltip{
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #999;
+}
+
+a.button img{
+    max-height: 100%;
+}
+
+.cmcr_license_inactive_wrapper{
+    margin: 20px;
+    padding: 0;
+}
+
+.cmcr_license_inactive_wrapper .cmcr_license_inactive_message{
+    font-size: 20pt;
+}
+
+#cmcr_tabs .long-text{
+    width: 600px;
+}

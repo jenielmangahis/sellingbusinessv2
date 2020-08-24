@@ -1,0 +1,4155 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Realteo - Real Estate Plugin by Purethemes\n"
+"POT-Creation-Date: 2018-08-09 12:30+0200\n"
+"PO-Revision-Date: 2017-09-20 00:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: realteo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-realteo-agency.php:131 templates/account/agency_submit.php:90
+msgid "Submit Agency"
+msgstr ""
+
+#: includes/class-realteo-agency.php:137 includes/class-realteo-submit.php:121
+#: includes/class-realteo-submit.php:717 realteo-template-functions.php:1014
+msgid "Preview"
+msgstr ""
+
+#: includes/class-realteo-agency.php:143 includes/class-realteo-submit.php:127
+#: lib/cmb2/includes/CMB2_JS.php:207 lib/cmb2/includes/CMB2_JS.php:217
+#: lib/cmb2_old/includes/CMB2_JS.php:146 lib/cmb2_old/includes/CMB2_JS.php:156
+msgid "Done"
+msgstr ""
+
+#: includes/class-realteo-agency.php:255 includes/class-realteo-agency.php:261
+#: includes/class-realteo-agency.php:267
+msgid "Agencies"
+msgstr ""
+
+#: includes/class-realteo-agency.php:256 templates/account/my_agency.php:30
+#: templates/account/my_agency.php:85 templates/account/my_agency.php:133
+msgid "Agency"
+msgstr ""
+
+#: includes/class-realteo-agency.php:257 includes/class-realteo-agency.php:258
+msgid "Add New Agency"
+msgstr ""
+
+#: includes/class-realteo-agency.php:259
+msgid "Edit Agency"
+msgstr ""
+
+#: includes/class-realteo-agency.php:260
+msgid "New Agency"
+msgstr ""
+
+#: includes/class-realteo-agency.php:262
+msgid "View Agency"
+msgstr ""
+
+#: includes/class-realteo-agency.php:263
+msgid "Search Agency"
+msgstr ""
+
+#: includes/class-realteo-agency.php:264
+msgid "No agencies found"
+msgstr ""
+
+#: includes/class-realteo-agency.php:265
+msgid "No agencies found in Trash"
+msgstr ""
+
+#: includes/class-realteo-agency.php:280
+msgid "agencies"
+msgstr ""
+
+#: includes/class-realteo-agency.php:296
+#: includes/class-realteo-meta-boxes.php:165
+#: includes/class-realteo-widgets.php:229
+#: includes/class-realteo-widgets.php:588
+#: includes/class-realteo-widgets.php:665 lib/cmb2-tabs/example.php:28
+#: lib/cmb2-tabs/example.php:52 lib/cmb2-tabs/example.php:134
+#: lib/cmb2-tabs/example.php:158
+msgid "Title"
+msgstr ""
+
+#: includes/class-realteo-agency.php:297
+msgid "Logo"
+msgstr ""
+
+#: includes/class-realteo-agency.php:298
+msgid "E-mail"
+msgstr ""
+
+#: includes/class-realteo-agency.php:299
+msgid "Web"
+msgstr ""
+
+#: includes/class-realteo-agency.php:300 includes/class-realteo-agency.php:470
+#: includes/class-realteo-agency.php:471
+#: includes/class-realteo-meta-boxes.php:433
+#: includes/class-realteo-meta-boxes.php:434
+#: includes/class-realteo-meta-boxes.php:482
+#: includes/class-realteo-meta-boxes.php:483
+#: includes/class-realteo-meta-boxes.php:531
+#: includes/class-realteo-meta-boxes.php:532
+msgid "Phone"
+msgstr ""
+
+#: includes/class-realteo-agency.php:301
+msgid "Agents"
+msgstr ""
+
+#: includes/class-realteo-agency.php:302
+msgid "Author"
+msgstr ""
+
+#: includes/class-realteo-agency.php:390 includes/class-realteo-agency.php:391
+msgid "License"
+msgstr ""
+
+#: includes/class-realteo-agency.php:396 includes/class-realteo-agency.php:397
+msgid "Tax Number"
+msgstr ""
+
+#: includes/class-realteo-agency.php:401 includes/class-realteo-agency.php:402
+#: includes/class-realteo-meta-boxes.php:390
+#: includes/class-realteo-submit.php:370
+#: templates/single-partials/single-property-location.php:13
+msgid "Location"
+msgstr ""
+
+#: includes/class-realteo-agency.php:408 includes/class-realteo-agency.php:409
+#: includes/class-realteo-meta-boxes.php:399
+#: includes/class-realteo-submit.php:375
+msgid "Google Maps Address"
+msgstr ""
+
+#: includes/class-realteo-agency.php:418 includes/class-realteo-agency.php:419
+#: includes/class-realteo-submit.php:386
+msgid "Friendly Address"
+msgstr ""
+
+#: includes/class-realteo-agency.php:424 includes/class-realteo-submit.php:391
+msgid "Human readable address, if not set, the Google address will be used"
+msgstr ""
+
+#: includes/class-realteo-agency.php:429 includes/class-realteo-agency.php:430
+#: includes/class-realteo-meta-boxes.php:410
+#: includes/class-realteo-submit.php:398
+msgid "Longitude"
+msgstr ""
+
+#: includes/class-realteo-agency.php:440 includes/class-realteo-agency.php:441
+#: includes/class-realteo-meta-boxes.php:405
+#: includes/class-realteo-submit.php:409
+msgid "Latitude"
+msgstr ""
+
+#: includes/class-realteo-agency.php:463 includes/class-realteo-agency.php:464
+#: templates/account/login.php:171
+msgid "Email"
+msgstr ""
+
+#: includes/class-realteo-agency.php:477 includes/class-realteo-agency.php:478
+msgid "Mobile"
+msgstr ""
+
+#: includes/class-realteo-agency.php:483 includes/class-realteo-agency.php:484
+msgid "Fax"
+msgstr ""
+
+#: includes/class-realteo-agency.php:489 includes/class-realteo-agency.php:490
+#: lib/cmb2/example-functions.php:184 lib/cmb2_old/example-functions.php:184
+msgid "Website URL"
+msgstr ""
+
+#: includes/class-realteo-agency.php:508 includes/class-realteo-agency.php:509
+#: lib/cmb2/example-functions.php:576 lib/cmb2_old/example-functions.php:562
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/class-realteo-agency.php:514 includes/class-realteo-agency.php:515
+#: lib/cmb2/example-functions.php:583 lib/cmb2_old/example-functions.php:569
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/class-realteo-agency.php:520 includes/class-realteo-agency.php:521
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/class-realteo-agency.php:526 includes/class-realteo-agency.php:527
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/class-realteo-agency.php:545
+msgid "Agency General Informations"
+msgstr ""
+
+#: includes/class-realteo-agency.php:569
+msgid "Agency Fields"
+msgstr ""
+
+#: includes/class-realteo-agency.php:595
+msgid "Agency Social Fields"
+msgstr ""
+
+#: includes/class-realteo-agency.php:615 templates/account/my_agency.php:134
+msgid "Assigned Agents"
+msgstr ""
+
+#: includes/class-realteo-agency.php:625
+msgid "Select Users"
+msgstr ""
+
+#: includes/class-realteo-agency.php:626 lib/cmb2/example-functions.php:131
+#: lib/cmb2/example-functions.php:144 lib/cmb2/example-functions.php:157
+#: lib/cmb2/example-functions.php:164 lib/cmb2/example-functions.php:177
+#: lib/cmb2/example-functions.php:185 lib/cmb2/example-functions.php:194
+#: lib/cmb2/example-functions.php:202 lib/cmb2/example-functions.php:217
+#: lib/cmb2/example-functions.php:225 lib/cmb2/example-functions.php:233
+#: lib/cmb2/example-functions.php:250 lib/cmb2/example-functions.php:259
+#: lib/cmb2/example-functions.php:275 lib/cmb2/example-functions.php:282
+#: lib/cmb2/example-functions.php:289 lib/cmb2/example-functions.php:314
+#: lib/cmb2/example-functions.php:327 lib/cmb2/example-functions.php:340
+#: lib/cmb2/example-functions.php:352 lib/cmb2/example-functions.php:361
+#: lib/cmb2/example-functions.php:369 lib/cmb2/example-functions.php:378
+#: lib/cmb2/example-functions.php:385 lib/cmb2/example-functions.php:399
+#: lib/cmb2/example-functions.php:471 lib/cmb2/example-functions.php:562
+#: lib/cmb2/example-functions.php:570 lib/cmb2/example-functions.php:577
+#: lib/cmb2/example-functions.php:584 lib/cmb2/example-functions.php:591
+#: lib/cmb2/example-functions.php:598 lib/cmb2/example-functions.php:605
+#: lib/cmb2/example-functions.php:632 lib/cmb2/example-functions.php:640
+#: lib/cmb2/example-functions.php:647 lib/cmb2/example-functions.php:696
+#: lib/cmb2_old/example-functions.php:131
+#: lib/cmb2_old/example-functions.php:144
+#: lib/cmb2_old/example-functions.php:157
+#: lib/cmb2_old/example-functions.php:164
+#: lib/cmb2_old/example-functions.php:177
+#: lib/cmb2_old/example-functions.php:185
+#: lib/cmb2_old/example-functions.php:194
+#: lib/cmb2_old/example-functions.php:202
+#: lib/cmb2_old/example-functions.php:217
+#: lib/cmb2_old/example-functions.php:225
+#: lib/cmb2_old/example-functions.php:233
+#: lib/cmb2_old/example-functions.php:250
+#: lib/cmb2_old/example-functions.php:259
+#: lib/cmb2_old/example-functions.php:272
+#: lib/cmb2_old/example-functions.php:279
+#: lib/cmb2_old/example-functions.php:286
+#: lib/cmb2_old/example-functions.php:300
+#: lib/cmb2_old/example-functions.php:313
+#: lib/cmb2_old/example-functions.php:326
+#: lib/cmb2_old/example-functions.php:338
+#: lib/cmb2_old/example-functions.php:347
+#: lib/cmb2_old/example-functions.php:355
+#: lib/cmb2_old/example-functions.php:364
+#: lib/cmb2_old/example-functions.php:371
+#: lib/cmb2_old/example-functions.php:385
+#: lib/cmb2_old/example-functions.php:457
+#: lib/cmb2_old/example-functions.php:548
+#: lib/cmb2_old/example-functions.php:556
+#: lib/cmb2_old/example-functions.php:563
+#: lib/cmb2_old/example-functions.php:570
+#: lib/cmb2_old/example-functions.php:577
+#: lib/cmb2_old/example-functions.php:584
+#: lib/cmb2_old/example-functions.php:591
+#: lib/cmb2_old/example-functions.php:618
+#: lib/cmb2_old/example-functions.php:626
+#: lib/cmb2_old/example-functions.php:633
+#: lib/cmb2_old/example-functions.php:677
+msgid "field description (optional)"
+msgstr ""
+
+#: includes/class-realteo-agency.php:651 includes/class-realteo-submit.php:240
+msgid "Basic Information"
+msgstr ""
+
+#: includes/class-realteo-agency.php:655
+msgid "Agency Name "
+msgstr ""
+
+#: includes/class-realteo-agency.php:664 includes/class-realteo-submit.php:438
+#: lib/cmb2/example-functions.php:522 lib/cmb2_old/example-functions.php:508
+#: templates/account/my_packages.php:7 templates/form-fields/floorplans.php:34
+#: templates/form-fields/floorplans.php:66 templates/property-preview.php:66
+#: templates/single-property.php:84
+msgid "Description"
+msgstr ""
+
+#: includes/class-realteo-agency.php:671
+msgid "Agency Logo"
+msgstr ""
+
+#: includes/class-realteo-agency.php:723 includes/class-realteo-agency.php:777
+msgid "You need to be signed in to manage your agency."
+msgstr ""
+
+#: includes/class-realteo-agency.php:873 includes/class-realteo-agency.php:931
+msgid "You must be signed in to post a new agency."
+msgstr ""
+
+#: includes/class-realteo-agency.php:913 includes/class-realteo-submit.php:1266
+#: realteo-template-functions.php:1012 templates/account/agency_preview.php:14
+#: templates/my-account.php:96 templates/search-form/submit.php:7
+msgid "Submit"
+msgstr ""
+
+#: includes/class-realteo-agency.php:977 includes/class-realteo-submit.php:619
+#, php-format
+msgid "%s is a required field"
+msgstr ""
+
+#: includes/class-realteo-agency.php:988 includes/class-realteo-submit.php:630
+#, php-format
+msgid "%s is invalid"
+msgstr ""
+
+#: includes/class-realteo-agency.php:1004 includes/class-realteo-submit.php:646
+#: realteo-template-functions.php:1111
+#, php-format
+msgid "\"%s\" (filetype %s) needs to be one of the following file types: %s"
+msgstr ""
+
+#: includes/class-realteo-agency.php:1205
+msgid "Please provide search term"
+msgstr ""
+
+#: includes/class-realteo-agency.php:1232
+msgid "There are no agents matching this criteria"
+msgstr ""
+
+#: includes/class-realteo-agency.php:1252
+msgid "This agent is already assigned to your agency"
+msgstr ""
+
+#: includes/class-realteo-agency.php:1263
+msgid ""
+"This agent is already invited to your agency. Please wait for his "
+"confirmation"
+msgstr ""
+
+#: includes/class-realteo-agency.php:1280
+#: includes/class-realteo-agency.php:1329
+#: includes/class-realteo-bookmarks.php:52
+#: includes/class-realteo-bookmarks.php:91
+#: includes/class-realteo-compare.php:84 includes/class-realteo-compare.php:205
+#: includes/class-realteo-compare.php:246
+msgid "Oops, something went wrong, please try again"
+msgstr ""
+
+#: includes/class-realteo-agency.php:1283
+msgid "Invitation was sent "
+msgstr ""
+
+#: includes/class-realteo-agency.php:1332
+msgid "Agent was removed from your agency"
+msgstr ""
+
+#: includes/class-realteo-agency.php:1374 includes/class-realteo-agents.php:185
+#, php-format
+msgid "%s has been deleted"
+msgstr ""
+
+#: includes/class-realteo-agency.php:1397
+#, php-format
+msgid "Invitation to agency %s has been rejected"
+msgstr ""
+
+#: includes/class-realteo-agency.php:1444
+#, php-format
+msgid "You are now agent in %s"
+msgstr ""
+
+#: includes/class-realteo-agency.php:1469
+#: includes/class-realteo-agency.php:1487
+#, php-format
+msgid "You have been removed from agency %s"
+msgstr ""
+
+#: includes/class-realteo-agents.php:238
+msgid "The Email you entered is not valid.  please try again."
+msgstr ""
+
+#: includes/class-realteo-agents.php:240
+msgid "This email is already used by another user.  try a different one."
+msgstr ""
+
+#: includes/class-realteo-agents.php:352
+msgid "Realteo Avatar"
+msgstr ""
+
+#: includes/class-realteo-agents.php:369
+#: templates/form-fields/floorplans.php:28
+#: templates/form-fields/floorplans.php:62
+msgid "Upload Image"
+msgstr ""
+
+#: includes/class-realteo-agents.php:370
+msgid "This avatar will be displayed instead of default one"
+msgstr ""
+
+#: includes/class-realteo-agents.php:376
+msgid "Extra profile information"
+msgstr ""
+
+#: includes/class-realteo-agents.php:386
+msgid "This text will be displayed below your Name on Agents list"
+msgstr ""
+
+#: includes/class-realteo-agents.php:460 templates/account/login.php:158
+msgid "You are already signed in."
+msgstr ""
+
+#: includes/class-realteo-agents.php:478
+msgid "Password has been changed."
+msgstr ""
+
+#: includes/class-realteo-agents.php:480
+msgid "A confirmation link has been sent to your email address."
+msgstr ""
+
+#: includes/class-realteo-agents.php:483
+msgid "Invalid password reset link."
+msgstr ""
+
+#: includes/class-realteo-agents.php:496
+msgid "You need to be signed in to manage your properties."
+msgstr ""
+
+#: includes/class-realteo-agents.php:523
+msgid "You need to be signed in to manage your packages."
+msgstr ""
+
+#: includes/class-realteo-agents.php:740 templates/account/login.php:10
+msgid "You do have an email address, right?"
+msgstr ""
+
+#: includes/class-realteo-agents.php:743 templates/account/login.php:13
+msgid "You need to enter a password to login."
+msgstr ""
+
+#: includes/class-realteo-agents.php:747 templates/account/login.php:17
+msgid ""
+"We don't have any users with that email address. Maybe you used a different "
+"one when signing up?"
+msgstr ""
+
+#: includes/class-realteo-agents.php:753 templates/account/login.php:23
+#: templates/account/login.php:61
+#, php-format
+msgid ""
+"The password you entered wasn't quite right. <a href='%s'>Did you forget "
+"your password</a>?"
+msgstr ""
+
+#: includes/class-realteo-agents.php:762
+msgid "An unknown error occurred. Please try again later."
+msgstr ""
+
+#: includes/class-realteo-agents.php:1024
+#, php-format
+msgid "New user registration on your blog %s:"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1025
+#: includes/class-realteo-agents.php:1041
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1026
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1028
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1038
+msgid "Hi,"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1039
+#, php-format
+msgid "Welcome to %s! You can log in:"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1042
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1043
+#, php-format
+msgid "If you have any problems, please contact me at %s."
+msgstr ""
+
+#: includes/class-realteo-agents.php:1044
+msgid "Thank you!"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1046
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1064
+msgid "Realteo Properties & Accounts"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1104 includes/class-realteo-submit.php:244
+msgid "Property Title"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1108
+msgid "Property URL"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1123
+msgid "Realteo Properties"
+msgstr ""
+
+#: includes/class-realteo-agents.php:1138
+msgid "Agent Data"
+msgstr ""
+
+#: includes/class-realteo-bookmarks.php:43
+#: includes/class-realteo-compare.php:71 includes/class-realteo-compare.php:137
+msgid "You've already added that post"
+msgstr ""
+
+#: includes/class-realteo-bookmarks.php:59
+msgid "Property was bookmarked"
+msgstr ""
+
+#: includes/class-realteo-bookmarks.php:98
+#: includes/class-realteo-compare.php:208
+#: includes/class-realteo-compare.php:221
+msgid "Property was removed from the list"
+msgstr ""
+
+#: includes/class-realteo-bookmarks.php:142
+msgid "You need to be signed in to manage your bookmarks."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:41
+msgid "Realteo Options"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:137
+#: includes/class-realteo-settings.php:117
+msgid "Currency"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:138
+msgid "Choose a currency used."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:142
+#: includes/class-realteo-settings.php:121
+msgid "Disable Currency Symbol"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:143
+#: includes/class-realteo-cmb2-admin.php:194
+#: includes/class-realteo-settings.php:122
+#: includes/class-realteo-settings.php:169
+msgid "US Dollars"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:144
+#: includes/class-realteo-settings.php:123
+msgid "United Arab Emirates Dirham"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:145
+#: includes/class-realteo-settings.php:124
+msgid "Argentine Peso"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:146
+#: includes/class-realteo-settings.php:125
+msgid "Australian Dollars"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:147
+#: includes/class-realteo-settings.php:126
+msgid "Bangladeshi Taka"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:148
+#: includes/class-realteo-settings.php:127
+msgid "Bahraini Dinar"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:149
+#: includes/class-realteo-settings.php:128
+msgid "Brazilian Real"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:150
+#: includes/class-realteo-settings.php:129
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:151
+#: includes/class-realteo-settings.php:130
+msgid "Canadian Dollars"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:152
+#: includes/class-realteo-settings.php:131
+msgid "Chilean Peso"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:153
+#: includes/class-realteo-settings.php:132
+msgid "Chinese Yuan"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:154
+#: includes/class-realteo-settings.php:133
+msgid "Colombian Peso"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:155
+#: includes/class-realteo-settings.php:134
+msgid "Czech Koruna"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:156
+#: includes/class-realteo-settings.php:135
+msgid "Danish Krone"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:157
+#: includes/class-realteo-settings.php:136
+msgid "Dominican Peso"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:158
+msgid "Moroccan Dirham"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:159
+#: includes/class-realteo-settings.php:137
+msgid "Euros"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:160
+msgid "Ghanaian Cedi"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:161
+#: includes/class-realteo-settings.php:138
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:162
+#: includes/class-realteo-settings.php:139
+msgid "Croatia kuna"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:163
+#: includes/class-realteo-settings.php:140
+msgid "Hungarian Forint"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:164
+#: includes/class-realteo-settings.php:141
+msgid "Icelandic krona"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:165
+#: includes/class-realteo-settings.php:142
+msgid "Indonesia Rupiah"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:166
+#: includes/class-realteo-settings.php:143
+msgid "Indian Rupee"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:167
+#: includes/class-realteo-settings.php:144
+msgid "Nepali Rupee"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:168
+#: includes/class-realteo-settings.php:145
+msgid "Israeli Shekel"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:169
+#: includes/class-realteo-settings.php:146
+msgid "Japanese Yen"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:170
+msgid "Jordanian Dinar"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:171
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:172
+#: includes/class-realteo-settings.php:147
+msgid "Lao Kip"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:173
+#: includes/class-realteo-settings.php:148
+msgid "South Korean Won"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:174
+#: includes/class-realteo-settings.php:149
+msgid "Sri Lankan Rupee"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:175
+#: includes/class-realteo-settings.php:150
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:176
+#: includes/class-realteo-settings.php:151
+msgid "Mexican Peso"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:177
+#: includes/class-realteo-settings.php:152
+msgid "Nigerian Naira"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:178
+#: includes/class-realteo-settings.php:153
+msgid "Norwegian Krone"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:179
+#: includes/class-realteo-settings.php:154
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:180
+#: includes/class-realteo-settings.php:155
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:181
+#: includes/class-realteo-settings.php:156
+msgid "Philippine Pesos"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:182
+#: includes/class-realteo-settings.php:157
+msgid "Polish Zloty"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:183
+#: includes/class-realteo-settings.php:158
+msgid "Pounds Sterling"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:184
+#: includes/class-realteo-settings.php:159
+msgid "Romanian Leu"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:185
+#: includes/class-realteo-settings.php:160
+msgid "Russian Ruble"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:186
+#: includes/class-realteo-settings.php:161
+msgid "Singapore Dollar"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:187
+#: includes/class-realteo-settings.php:162
+msgid "South African rand"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:188
+#: includes/class-realteo-settings.php:163
+msgid "Swedish Krona"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:189
+#: includes/class-realteo-settings.php:164
+msgid "Swiss Franc"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:190
+#: includes/class-realteo-settings.php:165
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:191
+#: includes/class-realteo-settings.php:166
+msgid "Thai Baht"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:192
+#: includes/class-realteo-settings.php:167
+msgid "Turkish Lira"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:193
+#: includes/class-realteo-settings.php:168
+msgid "Ukrainian Hryvnia"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:195
+#: includes/class-realteo-settings.php:170
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:196
+#: includes/class-realteo-settings.php:171
+msgid "Egyptian Pound"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:197
+#: includes/class-realteo-settings.php:172
+msgid "Zambian Kwacha"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:202
+msgid "Currency position"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:203
+msgid "Set currency symbol before or after"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:213
+#: includes/class-realteo-settings.php:194
+msgid "Scale"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:214
+msgid "Choose a scale"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:218
+#: includes/class-realteo-settings.php:198
+msgid "Square meter"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:219
+msgid "Square meter(m²)"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:220
+#: includes/class-realteo-settings.php:199
+msgid "Square feet"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:225
+msgid "Agents contact form"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:226
+msgid ""
+"Choose which form will be displayed over the gallery if this style is used"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:232
+msgid "Agency contact form"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:233
+msgid "Choose which form will be displayed in single Agency view"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:239
+msgid "Property name autocomplete"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:240
+msgid ""
+"Enable it to use property name autocomplete instead of Google Maps locations "
+"autocomplete on keyword search"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:245
+msgid "Combine text search results with geolocalization search results"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:246
+msgid ""
+"By enabling this option, results page will have all properties searched by a "
+"radius and all properties with matching title/content/custom field"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:252
+msgid "Gooogle Maps API key"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:253
+msgid ""
+"Generate API key for google maps functionality (can be domain restricted)."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:259
+msgid "Google Maps API key for server side geocoding"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:260
+msgid ""
+"Generate API key for google maps functionality without any domain/key "
+"restriction."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:265
+msgid "Radius search unit"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:266
+msgid "Choose a unit"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:270
+msgid "km"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:271
+msgid "miles"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:276
+msgid "Default radius search value"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:277
+msgid ""
+"Set default radius for search, leave empty to disable default radius search."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:283
+msgid "Restrict search results to one country"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:284
+msgid ""
+"Put symbol of country you want to restrict your results to (eg. uk for "
+"United Kingdon). Leave empty to search whole world."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:289
+msgid "Properties map center point"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:290
+#: includes/class-realteo-cmb2-admin.php:498
+msgid ""
+"Write latitude and longitude separated by come, for example -34.397,150.644"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:296
+msgid "By default sort properties by:"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:297
+msgid "sort by"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:301 templates/archive/sorting.php:14
+msgid "Oldest Properties"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:302 templates/archive/sorting.php:13
+msgid "Newest Properties"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:303
+#: includes/class-realteo-meta-boxes.php:131 templates/archive/sorting.php:15
+#: templates/content-property-compact-shortcode.php:17
+#: templates/content-property-compact.php:17 templates/content-property.php:14
+#: templates/property-submit-package.php:81
+#: templates/property-widget-content.php:8
+msgid "Featured"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:304 templates/archive/sorting.php:11
+msgid "Price Low to High"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:305 templates/archive/sorting.php:12
+msgid "Price High to Low"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:306 templates/archive/sorting.php:16
+msgid "Random"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:311
+msgid "Enable front-end login and registration"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:312
+msgid "Check to enable redirection to front-end forms"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:318
+msgid "Hide price per scale under Property Price"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:319
+msgid ""
+"Enabling this field will hide the price per scale, but won't hide the rental "
+"period  "
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:324
+msgid "Hide Listing Footer on properties list"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:325
+msgid ""
+"Enabling this field will hide the property section that shows property "
+"author and date"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:331
+msgid "Placeholder Image"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:332
+msgid ""
+"This image will be used in various places (map markers, compare table etc) "
+"if the property does not have any Featured Image or Gallery added."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:337
+msgid "Region in property permalinks"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:338
+msgid ""
+"By enabling this option the links to properties will <br> be prepended  with "
+"regions (e.g /property/las-vegas/arlo-apartment/).<br> After enabling this "
+"go to Settings-> Permalinks and click ' Save Changes ' "
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:352
+msgid "My Account Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:353
+msgid "Select page that holds [realteo_my_account] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:359
+msgid "Bookmarks Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:360
+msgid "Select page that holds [realteo_bookmarks] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:366
+msgid "My Properties Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:367
+msgid "Select page that holds [realteo_my_properties] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:373
+msgid "Compare Properties Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:374
+msgid "Select page that holds [realteo_compare] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:380
+msgid "Submit Property Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:381
+msgid "Select page that holds [realteo_submit_property] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:387
+msgid "Property Packages Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:388
+msgid "Select page that holds [realteo_my_packages] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:394
+msgid "Change Password Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:395
+msgid "Select page that holds [realteo_change_password] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:401
+msgid "Lost Password Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:402
+msgid "Select page that holds [realteo_lost_password] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:408
+msgid "Reset Password Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:409
+msgid "Select page that holds [realteo_reset_password] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:415
+msgid "Agency Management Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:416
+msgid "Select page that holds [realteo_agency_managment] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:422
+msgid "Agency Submit/Edit Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:423
+msgid "Select page that holds [realteo_agency_submit] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:429
+msgid "My Orders Page"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:430
+msgid "Select page that holds [realteo_my_orders] shortcode"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:452
+msgid "Admin approval required"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:453
+msgid "Require admin approval for any new properties added"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:458
+msgid "Paid properties"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:459
+msgid "Adding properties by users will require purchasing a Listing Package"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:464
+msgid "Remove Preview step from Submit Property"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:465
+msgid "Enable this option to remove Preview step"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:470
+#: includes/paid-properties/class-realteo-paid-properties.php:62
+msgid "Property duration"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:471
+msgid ""
+"Set default property duration (if not set via property package). Set to 0 if "
+"you don't want properties to have an expiration date."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:477
+msgid "Property images upload limit"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:478
+msgid "Number of images that can be uploaded to one property"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:484
+msgid "Create and assign Region based on Google geocoding"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:485
+msgid ""
+"Enabling this field will use 'state_long' value from geolocalization request "
+"to add new term for Region taxonomy and assign property to this term."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:490
+msgid "Property image maximum size (in MB)"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:491
+msgid "Maximum file size to upload "
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:497
+msgid "Submit Property map center point"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:504
+msgid "Default gallery style"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:505
+msgid "Choose a default gallery style for all newly created properties"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:509
+#: includes/class-realteo-meta-boxes.php:105
+msgid "Style 1"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:510
+#: includes/class-realteo-meta-boxes.php:106
+msgid "Style 2 (with contact form)"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:511
+#: includes/class-realteo-meta-boxes.php:107
+msgid "Style 3"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:524
+msgid "Enable comments on single properties"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:525
+msgid ""
+"You might need to enable them also on single properties https://codex."
+"wordpress.org/Comments_in_WordPress#Enabling_Comments_on_Your_Site"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:530
+msgid "Enable \"show more\" on single properties"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:531
+msgid "Check this checkbox to limit the property content text."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:536
+msgid "Disable \"similar properties\" on single properties"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:537
+msgid "Check this checkbox to hide the default \"Similar Properties\" section."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:542
+msgid "\"Similar properties\" layout"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:543
+msgid "Choose layout for the similar properties section\" section."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:547
+msgid "List"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:548
+msgid "Grid"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:554
+msgid "Show approximate location on single property view"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:555
+msgid ""
+"Check this checkbox to hide the exact position of the locations on the map."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:560
+msgid "Walk Score ID"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:561
+msgid ""
+"Add here your Walk Score ID to show Walks Score widget in your single "
+"property. Apply on https://www.walkscore.com/professional/sign-up.php"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:575
+msgid "Enable reCAPTCHA on registration form"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:576
+msgid ""
+"Check this checkbox to add reCAPTCHA to form. You need to provide API keys "
+"for that"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:581
+msgid "reCAPTCHA Site Key"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:582
+#: includes/class-realteo-cmb2-admin.php:588
+#, php-format
+msgid "Get the sitekey from %s."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:587
+msgid "reCAPTCHA Secret Key"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:603
+msgid "\"From name\" in email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:604
+msgid ""
+"The name from who the email is received, by default it is your site name."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:611
+msgid "\"From\" email "
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:612
+msgid "This will act as the \"from\" and \"reply-to\" address."
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:619
+msgid "Published property notification email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:620
+msgid "Settings for email sent when property is published"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:625
+msgid "Enable property published notification email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:626
+#: includes/class-realteo-cmb2-admin.php:655
+#: includes/class-realteo-cmb2-admin.php:683
+#: includes/class-realteo-cmb2-admin.php:713
+msgid "Check this checkbox to enable sending emails to property authors"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:631
+msgid "Published notification Email Subject"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:632
+msgid "Your property was published - {property_name}"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:637
+msgid "Published notification Email Content"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:648
+msgid "New property notification email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:649
+msgid "Settings for email sent when property is submitted by user"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:654
+msgid "Enable new property notification email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:660
+msgid "New Property notification email subject"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:661
+msgid "Thank you for adding a property"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:666
+msgid "New Property notification email content"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:676
+msgid "Expired property notification email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:677
+msgid "Settings for email sent when property has expired"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:682
+msgid "Enable expired property notification email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:688
+msgid "Expired Property notification email subject"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:689
+msgid "Your property has expired - {property_name}"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:694
+msgid "Expired Property notification email content"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:706
+msgid "Expiring soon property notification email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:707
+msgid "Settings for email sent when property is expiring in next 5 days"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:712
+msgid "Enable Expiring soon property notification email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:718
+msgid "Expiring soon property notification email subject"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:719
+msgid "Your property is expiring in 5 days - {property_name}"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:724
+msgid "Expiring soon property notification email content"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:736
+msgid "Agent invitation notification email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:737
+msgid "Settings for email sent when agency manager adds "
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:742
+msgid "Enable agent invitation notification email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:743
+msgid "Check this checkbox to enable sending emails to agents "
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:748
+msgid "Agent invitation notification email subject"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:749
+msgid "You have been invited to agency - {agency_name}. Please confirm"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:754
+msgid "Agent invitation notification email content"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:776
+msgid "Agent contact details visibility"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:777
+msgid "Check this checkbox to show agent phone/email only to logged in users"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:781
+msgid "Always show agent phone/email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:782
+msgid "Show agent phone/email only to logged in users"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:783
+msgid "Never show agent phone/email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:787
+msgid "Hide agents email address"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:788
+msgid "Check this checkbox to hide email address from agent profiles"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:793
+msgid "Disable role dropdown on registration"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:794
+msgid "Check this checkbox to hide role dropdown"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:799
+msgid "Add Password pickup field to registration form"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:800
+msgid "If disabled password will be randomly generated and sent via email"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:805
+msgid "Require \"Privacy Policy\"  checkbox on registration"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:806
+msgid "Set your Privacy Policy page in Settings -> Privacy"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:811
+msgid "Fixing options\"  checkbox on registration"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:812
+msgid "something to fix"
+msgstr ""
+
+#: includes/class-realteo-cmb2-admin.php:865
+#: includes/class-realteo-widgets.php:543
+msgid "Please select a form"
+msgstr ""
+
+#: includes/class-realteo-compare.php:77 includes/class-realteo-compare.php:133
+msgid "You can only compare 4 properties"
+msgstr ""
+
+#: includes/class-realteo-compare.php:87 includes/class-realteo-compare.php:174
+msgid "Property was added to compare list"
+msgstr ""
+
+#: includes/class-realteo-compare.php:249
+#: includes/class-realteo-compare.php:255
+msgid "Properties were removed from the list"
+msgstr ""
+
+#: includes/class-realteo-geocode.php:110
+msgid "No results found"
+msgstr ""
+
+#: includes/class-realteo-geocode.php:113
+msgid "Query limit reached"
+msgstr ""
+
+#: includes/class-realteo-geocode.php:119
+#: includes/class-realteo-geocode.php:123
+#: includes/class-realteo-geocode.php:127
+msgid "Geocoding error"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:26
+msgid "Property fields"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:60
+msgid "Property admin data"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:68
+msgid "Expiration date"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:78
+#: includes/class-realteo-meta-boxes.php:87
+msgid "Property gallery"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:100
+msgid "Gallery display layout"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:119
+msgid "Featured Property"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:134
+msgid "Tick the checkbox to make it Featured"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:143
+#: includes/class-realteo-submit.php:589 includes/class-realteo-submit.php:594
+#: templates/single-partials/single-property-floorplans.php:5
+msgid "Floorplans"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:156
+msgid "Floorplan"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:157
+msgid "Add another Editor"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:158
+msgid "Remove Editor"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:171
+#: includes/class-realteo-meta-boxes.php:295
+#: includes/class-realteo-submit.php:305
+#: templates/form-fields/floorplans.php:32
+#: templates/form-fields/floorplans.php:65
+msgid "Area"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:178
+msgid "Short description"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:195
+msgid "Location details"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:211
+#: includes/class-realteo-meta-boxes.php:214
+#: includes/class-realteo-search.php:950 includes/class-realteo-submit.php:292
+msgid "Price"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:217
+msgid "No currency symbols or thousands separators"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:221
+msgid "Price per  sq meter/sq ft"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:224
+msgid "If empty it will be auto calculated based on the area of property"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:227
+msgid "Offer Type"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:235
+#: includes/class-realteo-submit.php:279
+msgid "Property Type"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:243
+#: includes/class-realteo-submit.php:267
+msgid "Rental Period"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:263
+#: includes/class-realteo-meta-boxes.php:266
+#: includes/class-realteo-submit.php:335
+#: templates/single-partials/single-property-video.php:6
+msgid "Video"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:269
+msgid "URL to oEmbed supported service"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:286
+msgid "Main Details"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:289
+msgid "Listing ID"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:301
+#: includes/class-realteo-search.php:680 includes/class-realteo-search.php:874
+#: includes/class-realteo-submit.php:316
+msgid "Rooms"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:307
+#: includes/class-realteo-submit.php:464
+msgid "Bedrooms"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:313
+#: includes/class-realteo-submit.php:482
+msgid "Bathrooms"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:329 templates/content-property.php:71
+#: templates/single-partials/single-property-details.php:75
+msgid "Details"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:332
+msgid "Building Age"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:338
+#: includes/class-realteo-submit.php:502
+msgid "Parking"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:344
+#: includes/class-realteo-submit.php:513
+msgid "Cooling"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:350
+#: includes/class-realteo-submit.php:523
+msgid "Heating"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:356
+#: includes/class-realteo-submit.php:535
+msgid "Sewer"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:362
+#: includes/class-realteo-submit.php:546
+msgid "Water"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:368
+#: includes/class-realteo-submit.php:556
+msgid "Exercise Room"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:374
+#: includes/class-realteo-submit.php:566
+msgid "Storage Room"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:393
+#: includes/class-realteo-post-types.php:299
+msgid "Address"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:426
+#: includes/class-realteo-meta-boxes.php:427
+msgid "Agent Title"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:439
+#: includes/class-realteo-meta-boxes.php:442
+#: includes/class-realteo-meta-boxes.php:488
+#: includes/class-realteo-meta-boxes.php:491
+#: includes/class-realteo-meta-boxes.php:537
+#: includes/class-realteo-meta-boxes.php:540
+msgid "Social"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:446
+#: includes/class-realteo-meta-boxes.php:447
+#: includes/class-realteo-meta-boxes.php:495
+#: includes/class-realteo-meta-boxes.php:496
+#: includes/class-realteo-meta-boxes.php:544
+#: includes/class-realteo-meta-boxes.php:545
+msgid "<i class=\"fa fa-twitter\"></i> Twitter"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:452
+#: includes/class-realteo-meta-boxes.php:453
+#: includes/class-realteo-meta-boxes.php:501
+#: includes/class-realteo-meta-boxes.php:502
+#: includes/class-realteo-meta-boxes.php:550
+#: includes/class-realteo-meta-boxes.php:551
+msgid "<i class=\"fa fa-facebook-square\"></i> Facebook"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:458
+#: includes/class-realteo-meta-boxes.php:459
+#: includes/class-realteo-meta-boxes.php:507
+#: includes/class-realteo-meta-boxes.php:508
+#: includes/class-realteo-meta-boxes.php:556
+#: includes/class-realteo-meta-boxes.php:557
+msgid "<i class=\"fa fa-google-plus\"></i> Google+"
+msgstr ""
+
+#: includes/class-realteo-meta-boxes.php:465
+#: includes/class-realteo-meta-boxes.php:466
+#: includes/class-realteo-meta-boxes.php:514
+#: includes/class-realteo-meta-boxes.php:515
+#: includes/class-realteo-meta-boxes.php:563
+#: includes/class-realteo-meta-boxes.php:564
+msgid "<i class=\"fa fa-linkedin\"></i> Linkedin"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:126
+#: includes/class-realteo-post-types.php:134
+msgid "Properties"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:127 templates/account/bookmarks.php:27
+#: templates/account/my_properties.php:19
+msgid "Property"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:135
+#: includes/class-realteo-post-types.php:221
+#: includes/class-realteo-post-types.php:262
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:136
+msgid "Add New"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:137
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:138
+#: templates/account/agency_preview.php:15 templates/account/my_agency.php:191
+#: templates/account/my_properties.php:56
+#: templates/account/my_properties.php:63
+#: templates/form-fields/floorplans.php:25
+#: templates/form-fields/floorplans.php:59
+msgid "Edit"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:139
+#: includes/class-realteo-post-types.php:224
+#: includes/class-realteo-post-types.php:265
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:140
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:141
+#: includes/class-realteo-post-types.php:142
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:143
+#: includes/class-realteo-post-types.php:220
+#: includes/class-realteo-post-types.php:261
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:144
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:145
+#, php-format
+msgid "No %s found in trash"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:146
+#: includes/class-realteo-post-types.php:222
+#: includes/class-realteo-post-types.php:263
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:148
+#, php-format
+msgid "This is where you can create and manage %s."
+msgstr ""
+
+#: includes/class-realteo-post-types.php:172
+msgctxt "post status"
+msgid "Preview"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:177
+#, php-format
+msgid "Preview <span class=\"count\">(%s)</span>"
+msgid_plural "Preview <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-realteo-post-types.php:181
+msgctxt "post status"
+msgid "Expired"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:187
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-realteo-post-types.php:191
+msgctxt "post status"
+msgid "Pending Payment"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:196
+#, php-format
+msgid "Pending Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Payment <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-realteo-post-types.php:202
+msgid "Feature"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:203
+#: includes/class-realteo-search.php:542 includes/class-realteo-search.php:722
+#: includes/class-realteo-search.php:903 includes/class-realteo-search.php:1013
+#: templates/single-partials/single-property-features.php:5
+msgid "Features"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:205
+msgctxt "Feature slug - resave permalinks after changing this"
+msgid "property-feature"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:223
+#: includes/class-realteo-post-types.php:264
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:225
+#: includes/class-realteo-post-types.php:266
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:226
+#: includes/class-realteo-post-types.php:267
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:227
+#: includes/class-realteo-post-types.php:268
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:243
+#: includes/class-realteo-post-types.php:298
+#: includes/class-realteo-submit.php:419
+msgid "Region"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:244
+msgid "Regions"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:246
+msgctxt "Region slug - resave permalinks after changing this"
+msgid "region"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:297
+msgid "Type"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:300
+msgid "Posted"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:301
+msgid "Expires"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:302
+msgid "Featured?"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:303
+msgid "Actions"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:354
+msgid "M j, Y"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:355
+msgid "by a guest"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:355
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:366
+msgid "Approve"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:561
+#, php-format
+msgid "Approve %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:562
+#, php-format
+msgid "%s approved"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:566
+#, php-format
+msgid "Expire %s"
+msgstr ""
+
+#: includes/class-realteo-post-types.php:567
+#, php-format
+msgid "%s expired"
+msgstr ""
+
+#: includes/class-realteo-search.php:414 includes/class-realteo-search.php:565
+#: includes/class-realteo-search.php:743 includes/class-realteo-search.php:924
+#: includes/class-realteo-search.php:1034
+msgid "Hidden order"
+msgstr ""
+
+#: includes/class-realteo-search.php:426
+msgid "Address e.g. steet or city"
+msgstr ""
+
+#: includes/class-realteo-search.php:438 includes/class-realteo-search.php:577
+#: includes/class-realteo-search.php:767
+msgid "Any Offer type"
+msgstr ""
+
+#: includes/class-realteo-search.php:452
+msgid "Any Property type"
+msgstr ""
+
+#: includes/class-realteo-search.php:466
+msgid "Any Region"
+msgstr ""
+
+#: includes/class-realteo-search.php:479 includes/class-realteo-search.php:694
+#: includes/class-realteo-search.php:860 includes/class-realteo-search.php:983
+msgid "Beds"
+msgstr ""
+
+#: includes/class-realteo-search.php:494 includes/class-realteo-search.php:708
+#: includes/class-realteo-search.php:888 includes/class-realteo-search.php:998
+msgid "Baths"
+msgstr ""
+
+#: includes/class-realteo-search.php:510 includes/class-realteo-search.php:627
+#: includes/class-realteo-search.php:795 includes/class-realteo-search.php:967
+msgid "Area range"
+msgstr ""
+
+#: includes/class-realteo-search.php:526 includes/class-realteo-search.php:643
+#: includes/class-realteo-search.php:812
+msgid "Price range"
+msgstr ""
+
+#: includes/class-realteo-search.php:591 includes/class-realteo-search.php:781
+#: includes/class-realteo-search.php:936 includes/class-realteo-search.php:1046
+msgid "Any type"
+msgstr ""
+
+#: includes/class-realteo-search.php:605 includes/class-realteo-search.php:755
+#: includes/class-realteo-search.php:1073
+msgid "Enter address e.g. steet, city or state"
+msgstr ""
+
+#: includes/class-realteo-search.php:622 includes/class-realteo-search.php:834
+#: includes/class-realteo-search.php:1192
+#: templates/archive/keyword-search.php:11 templates/archive/search-fw.php:10
+#: templates/single-agency.php:81
+msgid "Search"
+msgstr ""
+
+#: includes/class-realteo-search.php:660 includes/class-realteo-search.php:840
+msgid "Age of Home"
+msgstr ""
+
+#: includes/class-realteo-search.php:671 includes/class-realteo-search.php:851
+#: includes/class-realteo-submit.php:450
+msgid "0 - 1 Years"
+msgstr ""
+
+#: includes/class-realteo-search.php:672 includes/class-realteo-search.php:852
+#: includes/class-realteo-submit.php:451
+msgid "2 - 5 Years"
+msgstr ""
+
+#: includes/class-realteo-search.php:673 includes/class-realteo-search.php:853
+#: includes/class-realteo-submit.php:452
+msgid "6 - 10 Years"
+msgstr ""
+
+#: includes/class-realteo-search.php:674 includes/class-realteo-search.php:854
+#: includes/class-realteo-submit.php:453
+msgid "11 - 20 Years"
+msgstr ""
+
+#: includes/class-realteo-search.php:675 includes/class-realteo-search.php:855
+#: includes/class-realteo-submit.php:454
+msgid "21 - 50 Years"
+msgstr ""
+
+#: includes/class-realteo-search.php:1060
+msgid "Any Status"
+msgstr ""
+
+#: includes/class-realteo-search.php:1102
+#: includes/class-realteo-search.php:1103
+msgid "Additional Features"
+msgstr ""
+
+#: includes/class-realteo-settings.php:70
+#: includes/class-realteo-settings.php:71
+msgid "Realteo Settings"
+msgstr ""
+
+#: includes/class-realteo-settings.php:100
+msgid "Settings"
+msgstr ""
+
+#: includes/class-realteo-settings.php:112
+msgid "Property Options"
+msgstr ""
+
+#: includes/class-realteo-settings.php:113
+msgid "Single property related options"
+msgstr ""
+
+#: includes/class-realteo-settings.php:118
+msgid "Choose a currency."
+msgstr ""
+
+#: includes/class-realteo-settings.php:178
+msgid "Currency symbol postion"
+msgstr ""
+
+#: includes/class-realteo-settings.php:179
+msgid "After or before the price."
+msgstr ""
+
+#: includes/class-realteo-settings.php:186
+msgid "Google Maps API key"
+msgstr ""
+
+#: includes/class-realteo-settings.php:187
+msgid "Generate API key for google maps functionality."
+msgstr ""
+
+#: includes/class-realteo-settings.php:190
+msgid "API key"
+msgstr ""
+
+#: includes/class-realteo-settings.php:195
+msgid "Choose a scale."
+msgstr ""
+
+#: includes/class-realteo-settings.php:308
+msgid "Plugin Settings"
+msgstr ""
+
+#: includes/class-realteo-settings.php:360
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-realteo-settings.php:391
+#: includes/class-realteo-settings.php:400 includes/class-realteo.php:564
+#: includes/class-realteo.php:573
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-realteo-submit.php:115
+msgid "Submit Details"
+msgstr ""
+
+#: includes/class-realteo-submit.php:247
+msgid ""
+"Type title that will also contains an unique feature of your property (e.g. "
+"renovated, air contidioned)"
+msgstr ""
+
+#: includes/class-realteo-submit.php:254
+msgid "Offer"
+msgstr ""
+
+#: includes/class-realteo-submit.php:295
+msgid "Type overall or monthly price if property is for rent"
+msgstr ""
+
+#: includes/class-realteo-submit.php:321 includes/class-realteo-submit.php:469
+#: includes/class-realteo-submit.php:487
+msgid "1"
+msgstr ""
+
+#: includes/class-realteo-submit.php:322 includes/class-realteo-submit.php:470
+#: includes/class-realteo-submit.php:488
+msgid "2"
+msgstr ""
+
+#: includes/class-realteo-submit.php:323 includes/class-realteo-submit.php:471
+#: includes/class-realteo-submit.php:489
+msgid "3"
+msgstr ""
+
+#: includes/class-realteo-submit.php:324 includes/class-realteo-submit.php:472
+#: includes/class-realteo-submit.php:490
+msgid "4"
+msgstr ""
+
+#: includes/class-realteo-submit.php:325 includes/class-realteo-submit.php:473
+msgid "5+"
+msgstr ""
+
+#: includes/class-realteo-submit.php:345 includes/class-realteo-submit.php:352
+msgid "Gallery"
+msgstr ""
+
+#: includes/class-realteo-submit.php:355
+msgid ""
+"By selecting (clicking on a photo) one of the uploaded photos you will set "
+"it as Featured Image for this property (marked by icon with star). Drag and "
+"drop thumbnails to re-order images in gallery."
+msgstr ""
+
+#: includes/class-realteo-submit.php:362
+msgid "Thumbnail ID"
+msgstr ""
+
+#: includes/class-realteo-submit.php:433
+msgid "Detailed Information"
+msgstr ""
+
+#: includes/class-realteo-submit.php:445
+msgid "Building age"
+msgstr ""
+
+#: includes/class-realteo-submit.php:491
+msgid "5"
+msgstr ""
+
+#: includes/class-realteo-submit.php:578
+msgid "Other Features"
+msgstr ""
+
+#: includes/class-realteo-submit.php:749 includes/class-realteo-submit.php:778
+msgid "You must be signed in to post a new listing."
+msgstr ""
+
+#: includes/class-realteo-submit.php:845
+msgid "Submit Property"
+msgstr ""
+
+#: includes/class-realteo-submit.php:887 includes/class-realteo-submit.php:890
+#: includes/class-realteo-submit.php:896
+msgid "Invalid Package"
+msgstr ""
+
+#: includes/class-realteo-submit.php:1292
+msgid "Choose a package"
+msgstr ""
+
+#: includes/class-realteo-submit.php:1450
+msgid "Edit Property"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:222
+msgid "Display a list of featured properties on your site."
+msgstr ""
+
+#: includes/class-realteo-widgets.php:224
+#: includes/class-realteo-widgets.php:228
+msgid "Featured Properties"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:237
+msgid "Number of listings to show"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:322
+msgid "Display a Print and Save buttons for real property."
+msgstr ""
+
+#: includes/class-realteo-widgets.php:324
+msgid "Findeo Buttons"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:329
+msgid "Save button"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:334
+msgid "Print button"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:365
+msgid "Print"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:376
+msgid "Bookmarked"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:381 templates/content-property.php:34
+msgid "Bookmark This Property"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:382
+msgid "Adding To Bookmarks"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:383 templates/content-property.php:36
+msgid "Bookmarked!"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:389 templates/content-property.php:41
+msgid "Login To Bookmark Items"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:407 templates/content-property.php:54
+msgid "Add To Compare"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:408 templates/content-property.php:55
+msgid "Adding To Compare"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:409 templates/content-property.php:56
+msgid "Added To Compare!"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:436
+msgid "Display a Contact form."
+msgstr ""
+
+#: includes/class-realteo-widgets.php:438
+msgid "Findeo Contact Widget"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:443
+msgid "Show phone number"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:448
+msgid "Show email"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:453
+msgid "Show agent description"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:459
+msgid "Choose contact form"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:581
+msgid "Display a Advanced Search Form."
+msgstr ""
+
+#: includes/class-realteo-widgets.php:583
+msgid "Findeo Search Form"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:587
+msgid "Find New Home"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:594
+msgid "Redirect to current page"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:595
+msgid "Redirect to properties archive page"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:597
+msgid "Choose form action"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:630
+#: templates/archive-property-split.php:37 templates/archive/search-fw.php:11
+msgid "Reset Filters"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:658
+msgid "Shows Mortgage Calculator."
+msgstr ""
+
+#: includes/class-realteo-widgets.php:660
+msgid "Realteo Mortgage Calc"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:664
+msgid "Mortgage Calculator"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:670
+msgid "Show only on Properties with offer type \"For Sale\""
+msgstr ""
+
+#: includes/class-realteo-widgets.php:722
+msgid "Sale Price"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:727
+msgid "Down Payment"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:732
+msgid "Loan Term (Years)"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:737
+msgid "Interest Rate"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:741
+msgid "Calculate"
+msgstr ""
+
+#: includes/class-realteo-widgets.php:742
+msgid "Monthly Payment:"
+msgstr ""
+
+#: includes/class-realteo.php:278
+msgid "Drop files here to upload"
+msgstr ""
+
+#: includes/class-realteo.php:279
+msgid "Your browser does not support drag'n'drop file uploads."
+msgstr ""
+
+#: includes/class-realteo.php:280
+msgid ""
+"Please use the fallback form below to upload your files like in the olden "
+"days."
+msgstr ""
+
+#: includes/class-realteo.php:281
+msgid "File is too big ({{filesize}}MiB). Max filesize: {{maxFilesize}}MiB."
+msgstr ""
+
+#: includes/class-realteo.php:282
+msgid "You can't upload files of this type."
+msgstr ""
+
+#: includes/class-realteo.php:283
+msgid "Server responded with {{statusCode}} code."
+msgstr ""
+
+#: includes/class-realteo.php:284
+msgid "Cancel upload"
+msgstr ""
+
+#: includes/class-realteo.php:285
+msgid "Are you sure you want to cancel this upload?"
+msgstr ""
+
+#: includes/class-realteo.php:286 templates/form-fields/file.php:23
+#: templates/form-fields/file.php:26
+msgid "Remove file"
+msgstr ""
+
+#: includes/class-realteo.php:287
+msgid "You can not upload any more files."
+msgstr ""
+
+#: includes/class-realteo.php:288
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/class-realteo.php:369
+msgid "Single property sidebar"
+msgstr ""
+
+#: includes/class-realteo.php:371 includes/class-realteo.php:381
+msgid "Add widgets here."
+msgstr ""
+
+#: includes/class-realteo.php:379
+msgid "Properties sidebar"
+msgstr ""
+
+#: includes/class-realteo.php:615
+msgid "Agent"
+msgstr ""
+
+#: includes/class-realteo.php:630
+msgid "Owner"
+msgstr ""
+
+#: includes/class-realteo.php:644
+msgid "Buyer"
+msgstr ""
+
+#: includes/lib/class-realteo-admin-api.php:159
+msgid "Upload an image"
+msgstr ""
+
+#: includes/lib/class-realteo-admin-api.php:159
+msgid "Use image"
+msgstr ""
+
+#: includes/lib/class-realteo-admin-api.php:159
+msgid "Upload new image"
+msgstr ""
+
+#: includes/lib/class-realteo-admin-api.php:160
+msgid "Remove image"
+msgstr ""
+
+#: includes/paid-properties/class-realteo-paid-properties-cart.php:114
+#: includes/paid-properties/class-realteo-paid-properties-cart.php:133
+#: includes/paid-properties/class-realteo-paid-properties-cart.php:151
+msgid "Property title"
+msgstr ""
+
+#: includes/paid-properties/class-realteo-paid-properties-orders.php:108
+#, php-format
+msgid "%s has been submitted successfully and will be visible once approved."
+msgstr ""
+
+#: includes/paid-properties/class-realteo-paid-properties-orders.php:112
+#, php-format
+msgid ""
+"%s has been submitted successfully and will be visible once payment has been "
+"confirmed."
+msgstr ""
+
+#: includes/paid-properties/class-realteo-paid-properties-orders.php:115
+#, php-format
+msgid "%s has been submitted successfully."
+msgstr ""
+
+#: includes/paid-properties/class-realteo-paid-properties.php:48
+msgid "Property limit"
+msgstr ""
+
+#: includes/paid-properties/class-realteo-paid-properties.php:49
+msgid "The number of properties a user can post with this package."
+msgstr ""
+
+#: includes/paid-properties/class-realteo-paid-properties.php:51
+msgid "Unlimited"
+msgstr ""
+
+#: includes/paid-properties/class-realteo-paid-properties.php:63
+msgid "The number of days that the property will be active."
+msgstr ""
+
+#: includes/paid-properties/class-realteo-paid-properties.php:76
+msgid "Feature Property?"
+msgstr ""
+
+#: includes/paid-properties/class-realteo-paid-properties.php:77
+msgid "Feature this property - it will have a badge and sticky status."
+msgstr ""
+
+#: includes/paid-properties/class-wc-product-property-package.php:13
+msgid "Property Package"
+msgstr ""
+
+#: includes/paid-properties/class-wc-product-property-package.php:94
+msgid "Add to cart"
+msgstr ""
+
+#: includes/paid-properties/class-wc-product-property-package.php:94
+msgid "Read More"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:9 lib/cmb2-tabs/example.php:109
+msgid "Example tabs"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:25 lib/cmb2-tabs/example.php:131
+msgid "Tab 1"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:33 lib/cmb2-tabs/example.php:57
+#: lib/cmb2-tabs/example.php:139 lib/cmb2-tabs/example.php:163
+msgid "Subtitle"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:38 lib/cmb2-tabs/example.php:144
+msgid "Background image"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:49 lib/cmb2-tabs/example.php:155
+msgid "Tab 2"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:65 lib/cmb2-tabs/example.php:171
+msgid "Review {#}"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:66 lib/cmb2-tabs/example.php:172
+msgid "Add review"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:67 lib/cmb2-tabs/example.php:173
+msgid "Remove review"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:72 lib/cmb2-tabs/example.php:178
+msgid "Author name"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:77 lib/cmb2-tabs/example.php:183
+msgid "Author avatar"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:85 lib/cmb2-tabs/example.php:191
+msgid "Comment"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:117 lib/cmb2_old/example-functions.php:117
+msgid "Test Metabox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:130 lib/cmb2/example-functions.php:470
+#: lib/cmb2_old/example-functions.php:130
+#: lib/cmb2_old/example-functions.php:456
+msgid "Test Text"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:143 lib/cmb2_old/example-functions.php:143
+msgid "Test Text Small"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:156 lib/cmb2_old/example-functions.php:156
+msgid "Test Text Medium"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:163 lib/cmb2_old/example-functions.php:163
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:167 lib/cmb2_old/example-functions.php:167
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:176 lib/cmb2_old/example-functions.php:176
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:193 lib/cmb2_old/example-functions.php:193
+msgid "Test Text Email"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:201 lib/cmb2_old/example-functions.php:201
+msgid "Test Time"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:209 lib/cmb2/example-functions.php:210
+#: lib/cmb2_old/example-functions.php:209
+#: lib/cmb2_old/example-functions.php:210
+msgid "Time zone"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:216 lib/cmb2_old/example-functions.php:216
+msgid "Test Date Picker"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:224 lib/cmb2_old/example-functions.php:224
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:232 lib/cmb2_old/example-functions.php:232
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:249 lib/cmb2_old/example-functions.php:249
+msgid "Test Money"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:258 lib/cmb2_old/example-functions.php:258
+msgid "Test Color Picker"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:274 lib/cmb2_old/example-functions.php:271
+msgid "Test Text Area"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:281 lib/cmb2_old/example-functions.php:278
+msgid "Test Text Area Small"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:288 lib/cmb2_old/example-functions.php:285
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:306 lib/cmb2_old/example-functions.php:292
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:307 lib/cmb2_old/example-functions.php:293
+msgid "This is a title description"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:313 lib/cmb2_old/example-functions.php:299
+msgid "Test Select"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:319 lib/cmb2/example-functions.php:332
+#: lib/cmb2/example-functions.php:344 lib/cmb2_old/example-functions.php:305
+#: lib/cmb2_old/example-functions.php:318
+#: lib/cmb2_old/example-functions.php:330
+msgid "Option One"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:320 lib/cmb2/example-functions.php:333
+#: lib/cmb2/example-functions.php:345 lib/cmb2_old/example-functions.php:306
+#: lib/cmb2_old/example-functions.php:319
+#: lib/cmb2_old/example-functions.php:331
+msgid "Option Two"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:321 lib/cmb2/example-functions.php:334
+#: lib/cmb2/example-functions.php:346 lib/cmb2_old/example-functions.php:307
+#: lib/cmb2_old/example-functions.php:320
+#: lib/cmb2_old/example-functions.php:332
+msgid "Option Three"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:326 lib/cmb2_old/example-functions.php:312
+msgid "Test Radio inline"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:339 lib/cmb2_old/example-functions.php:325
+msgid "Test Radio"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:351 lib/cmb2_old/example-functions.php:337
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:360 lib/cmb2_old/example-functions.php:346
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:368 lib/cmb2_old/example-functions.php:354
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:377 lib/cmb2_old/example-functions.php:363
+msgid "Test Checkbox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:384 lib/cmb2_old/example-functions.php:370
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:390 lib/cmb2_old/example-functions.php:376
+msgid "Check One"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:391 lib/cmb2_old/example-functions.php:377
+msgid "Check Two"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:392 lib/cmb2_old/example-functions.php:378
+msgid "Check Three"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:398 lib/cmb2_old/example-functions.php:384
+msgid "Test wysiwyg"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:408 lib/cmb2_old/example-functions.php:394
+msgid "Test Image"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:409 lib/cmb2_old/example-functions.php:395
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:415 lib/cmb2_old/example-functions.php:401
+msgid "Multiple Files"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:416 lib/cmb2_old/example-functions.php:402
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:423 lib/cmb2_old/example-functions.php:409
+msgid "oEmbed"
+msgstr ""
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: lib/cmb2/example-functions.php:426 lib/cmb2_old/example-functions.php:412
+#, php-format
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:459 lib/cmb2_old/example-functions.php:445
+msgid "About Page Metabox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:490 lib/cmb2_old/example-functions.php:476
+msgid "Repeating Field Group"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:498 lib/cmb2_old/example-functions.php:484
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:500 lib/cmb2_old/example-functions.php:486
+msgid "Entry {#}"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:501 lib/cmb2_old/example-functions.php:487
+msgid "Add Another Entry"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:502 lib/cmb2_old/example-functions.php:488
+msgid "Remove Entry"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:515 lib/cmb2_old/example-functions.php:501
+msgid "Entry Title"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:523 lib/cmb2_old/example-functions.php:509
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:529 lib/cmb2_old/example-functions.php:515
+msgid "Entry Image"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:535 lib/cmb2_old/example-functions.php:521
+msgid "Image Caption"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:554 lib/cmb2_old/example-functions.php:540
+msgid "User Profile Metabox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:561 lib/cmb2/example-functions.php:631
+#: lib/cmb2_old/example-functions.php:547
+#: lib/cmb2_old/example-functions.php:617
+msgid "Extra Info"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:569 lib/cmb2_old/example-functions.php:555
+#: templates/my-account.php:103
+msgid "Avatar"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:590 lib/cmb2_old/example-functions.php:576
+msgid "Google+ URL"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:597 lib/cmb2_old/example-functions.php:583
+msgid "Linkedin URL"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:604 lib/cmb2_old/example-functions.php:590
+msgid "User Field"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:624 lib/cmb2_old/example-functions.php:610
+msgid "Category Metabox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:639 lib/cmb2_old/example-functions.php:625
+msgid "Term Image"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:646 lib/cmb2_old/example-functions.php:632
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:665 lib/cmb2_old/example-functions.php:651
+msgid "Theme Options"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:695 lib/cmb2_old/example-functions.php:676
+msgid "Site Background Color"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:732
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:766 lib/cmb2_old/example-functions.php:712
+msgid "REST Test Box"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:775 lib/cmb2_old/example-functions.php:721
+msgid "REST Test Text"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:776 lib/cmb2_old/example-functions.php:722
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:782 lib/cmb2_old/example-functions.php:728
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:783 lib/cmb2_old/example-functions.php:729
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2.php:179 lib/cmb2_old/includes/CMB2.php:174
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2.php:582 lib/cmb2_old/includes/CMB2.php:548
+msgid "Click to toggle"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:75 lib/cmb2_old/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:181 lib/cmb2_old/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: lib/cmb2/includes/CMB2_Ajax.php:189
+#: lib/cmb2/includes/helper-functions.php:105
+#: lib/cmb2_old/includes/CMB2_Ajax.php:189
+#: lib/cmb2_old/includes/helper-functions.php:105
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:456 lib/cmb2_old/includes/CMB2_Base.php:440
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:458 lib/cmb2_old/includes/CMB2_Base.php:442
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:491
+#: lib/cmb2/includes/CMB2_Hookup_Base.php:100
+#: lib/cmb2/includes/CMB2_Options_Hookup.php:341
+#: lib/cmb2/includes/types/CMB2_Type_Base.php:172
+#: lib/cmb2_old/includes/CMB2_Base.php:475
+#: lib/cmb2_old/includes/CMB2_Hookup_Base.php:87
+#: lib/cmb2_old/includes/types/CMB2_Type_Base.php:149
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:506
+#: lib/cmb2/includes/types/CMB2_Type_Base.php:156
+#: lib/cmb2_old/includes/CMB2_Base.php:490
+#: lib/cmb2_old/includes/types/CMB2_Type_Base.php:133
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1296
+#: lib/cmb2_old/includes/CMB2_Field.php:1174
+msgid "Add Group"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1297
+#: lib/cmb2_old/includes/CMB2_Field.php:1175
+msgid "Remove Group"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1328 lib/cmb2/includes/CMB2_Field.php:1332
+#: lib/cmb2_old/includes/CMB2_Field.php:1197
+#: lib/cmb2_old/includes/CMB2_Field.php:1201
+msgid "None"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1443
+#: lib/cmb2_old/includes/CMB2_Field.php:1262
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field_Display.php:432
+#: lib/cmb2/includes/CMB2_JS.php:228
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:79
+#: lib/cmb2_old/includes/CMB2_Field_Display.php:432
+#: lib/cmb2_old/includes/CMB2_JS.php:167
+#: lib/cmb2_old/includes/types/CMB2_Type_File_Base.php:78
+msgid "File:"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Hookup_Base.php:42
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:165 lib/cmb2/includes/CMB2_JS.php:208
+#: lib/cmb2_old/includes/CMB2_JS.php:107 lib/cmb2_old/includes/CMB2_JS.php:147
+msgid "Clear"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:166 lib/cmb2_old/includes/CMB2_JS.php:108
+msgid "Default"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:167 lib/cmb2_old/includes/CMB2_JS.php:109
+msgid "Select Color"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:168 lib/cmb2_old/includes/CMB2_JS.php:110
+msgid "Current Color"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:198 lib/cmb2_old/includes/CMB2_JS.php:137
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:199 lib/cmb2_old/includes/CMB2_JS.php:138
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:200 lib/cmb2_old/includes/CMB2_JS.php:139
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:201 lib/cmb2_old/includes/CMB2_JS.php:140
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:202 lib/cmb2_old/includes/CMB2_JS.php:141
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:203 lib/cmb2_old/includes/CMB2_JS.php:142
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:204 lib/cmb2_old/includes/CMB2_JS.php:143
+#: realteo-template-functions.php:640 templates/archive-property-split.php:20
+#: templates/archive/map.php:22
+msgid "Next"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:205 lib/cmb2_old/includes/CMB2_JS.php:144
+#: templates/archive-property-split.php:19 templates/archive/map.php:21
+msgid "Prev"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:206 lib/cmb2_old/includes/CMB2_JS.php:145
+msgid "Today"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:211 lib/cmb2_old/includes/CMB2_JS.php:150
+msgid "Choose Time"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:212 lib/cmb2_old/includes/CMB2_JS.php:151
+msgid "Time"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:213 lib/cmb2_old/includes/CMB2_JS.php:152
+msgid "Hour"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:214 lib/cmb2_old/includes/CMB2_JS.php:153
+msgid "Minute"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:215 lib/cmb2_old/includes/CMB2_JS.php:154
+msgid "Second"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:216 lib/cmb2_old/includes/CMB2_JS.php:155
+msgid "Now"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:218 lib/cmb2_old/includes/CMB2_JS.php:157
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:224 lib/cmb2_old/includes/CMB2_JS.php:163
+msgid "Use this file"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:225 lib/cmb2_old/includes/CMB2_JS.php:164
+msgid "Use these files"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:226
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:64
+#: lib/cmb2_old/includes/CMB2_JS.php:165
+#: lib/cmb2_old/includes/types/CMB2_Type_File_Base.php:63
+msgid "Remove Image"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:227 lib/cmb2/includes/CMB2_Types.php:412
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:84
+#: lib/cmb2_old/includes/CMB2_JS.php:166
+#: lib/cmb2_old/includes/CMB2_Types.php:412
+#: lib/cmb2_old/includes/types/CMB2_Type_File_Base.php:83
+#: templates/account/bookmarks.php:65 templates/account/my_agency.php:99
+#: templates/account/my_agency.php:166
+msgid "Remove"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:229
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:82
+#: lib/cmb2_old/includes/CMB2_JS.php:168
+#: lib/cmb2_old/includes/types/CMB2_Type_File_Base.php:81
+msgid "Download"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:230 lib/cmb2_old/includes/CMB2_JS.php:169
+msgid "Select / Deselect All"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Options_Hookup.php:131
+#: lib/cmb2_old/includes/CMB2_Options_Hookup.php:113
+msgid "Nothing to update."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Options_Hookup.php:135
+#: lib/cmb2_old/includes/CMB2_Options_Hookup.php:111
+msgid "Settings updated."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:231
+#: lib/cmb2_old/includes/CMB2_Types.php:231
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:349
+#: lib/cmb2_old/includes/CMB2_Types.php:349
+msgid "Add Row"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:412
+#: lib/cmb2_old/includes/CMB2_Types.php:412
+msgid "Remove Row"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_hookup.php:181
+#: lib/cmb2_old/includes/CMB2_hookup.php:163
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_hookup.php:185
+#: lib/cmb2_old/includes/CMB2_hookup.php:167
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_hookup.php:458
+#: lib/cmb2_old/includes/CMB2_hookup.php:437
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: lib/cmb2/includes/helper-functions.php:303
+#: lib/cmb2_old/includes/helper-functions.php:303
+msgid "Save"
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#: lib/cmb2_old/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#. translators: %s: register_routes()
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:35
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:47
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:59
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:71
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:83
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:95
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:107
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:119
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:131
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:143
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:155
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:273
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:272
+msgid "Current page of the collection."
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:281
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:280
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:290
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:289
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:308
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:307
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_File.php:76
+#: lib/cmb2_old/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_File_List.php:41
+#: lib/cmb2_old/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+#: lib/cmb2_old/includes/types/CMB2_Type_Taxonomy_Base.php:99
+msgid "No terms"
+msgstr ""
+
+#: lib/cmb2_old/includes/CMB2_Base.php:406
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%1$s\" "
+"parameter."
+msgstr ""
+
+#: lib/cmb2_old/includes/CMB2_Base.php:410
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%1$s\" parameter."
+msgstr ""
+
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:24
+msgid "The register_routes() method must be overriden"
+msgstr ""
+
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:34
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:46
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:58
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:70
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:82
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:94
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:106
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:118
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:130
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:142
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:154
+#: lib/cmb2_old/includes/shim/WP_REST_Controller.php:167
+#, php-format
+msgid "Method '%s' not implemented. Must be over-ridden in subclass."
+msgstr ""
+
+#: realteo-template-functions.php:334
+msgid "Apartments"
+msgstr ""
+
+#: realteo-template-functions.php:335
+msgid "Houses"
+msgstr ""
+
+#: realteo-template-functions.php:336
+msgid "Commercial"
+msgstr ""
+
+#: realteo-template-functions.php:337
+msgid "Garages"
+msgstr ""
+
+#: realteo-template-functions.php:338
+msgid "Lots"
+msgstr ""
+
+#: realteo-template-functions.php:365
+msgid "Daily"
+msgstr ""
+
+#: realteo-template-functions.php:366
+msgid "Weekly"
+msgstr ""
+
+#: realteo-template-functions.php:367
+msgid "Monthly"
+msgstr ""
+
+#: realteo-template-functions.php:368
+msgid "Yearly"
+msgstr ""
+
+#: realteo-template-functions.php:381
+msgid "For Sale"
+msgstr ""
+
+#: realteo-template-functions.php:385
+msgid "For Rent"
+msgstr ""
+
+#: realteo-template-functions.php:390
+msgid "Sold"
+msgstr ""
+
+#: realteo-template-functions.php:393
+msgid "Rented"
+msgstr ""
+
+#: realteo-template-functions.php:478
+msgid "Any Type"
+msgstr ""
+
+#: realteo-template-functions.php:566
+msgid "--Choose page--"
+msgstr ""
+
+#: realteo-template-functions.php:629
+msgid "Previous"
+msgstr ""
+
+#: realteo-template-functions.php:652
+msgid "Published"
+msgstr ""
+
+#: realteo-template-functions.php:655
+msgid "Pending Payment"
+msgstr ""
+
+#: realteo-template-functions.php:658
+msgid "Expired"
+msgstr ""
+
+#: realteo-template-functions.php:662
+msgid "Pending Approval"
+msgstr ""
+
+#: realteo-template-functions.php:703
+msgid "Never/not set"
+msgstr ""
+
+#: realteo-template-functions.php:734
+msgid "Howdy, "
+msgstr ""
+
+#: realteo-template-functions.php:1113
+#, php-format
+msgid "Uploaded files need to be one of the following file types: %s"
+msgstr ""
+
+#: realteo.php:109
+msgid "CMB2 Plugin is missing CMB2!"
+msgstr ""
+
+#: templates/account/agency_preview.php:5 templates/property-preview.php:1
+msgid "Notice!"
+msgstr ""
+
+#: templates/account/agency_preview.php:5
+msgid ""
+"This is preview of agency you've submitted, please confirm or edit your "
+"submission using buttons at the end of that page."
+msgstr ""
+
+#: templates/account/agency_submit.php:21 templates/property-submit.php:35
+msgid "You are currently editing:"
+msgstr ""
+
+#: templates/account/agency_submit.php:26
+#, php-format
+msgid "You are editing an existing agency. %s"
+msgstr ""
+
+#: templates/account/agency_submit.php:26
+msgid "Add a New Agency"
+msgstr ""
+
+#: templates/account/agency_submit.php:53 templates/property-submit.php:67
+msgid "(optional)"
+msgstr ""
+
+#: templates/account/agency_submit.php:90
+#: templates/account/change_password.php:49 templates/my-account.php:96
+msgid "Save Changes"
+msgstr ""
+
+#: templates/account/agency_submitted.php:9
+msgid "Your agency has been published."
+msgstr ""
+
+#: templates/account/agency_submitted.php:9 templates/property-submitted.php:5
+msgid "View &rarr;"
+msgstr ""
+
+#: templates/account/agency_submitted.php:14
+msgid "Your agency has been saved and is awaiting admin approval"
+msgstr ""
+
+#: templates/account/agency_submitted.php:17
+#: templates/property-submitted.php:15
+msgid "Your changes have been saved."
+msgstr ""
+
+#: templates/account/bookmarks.php:76
+msgid "No bookmarks!"
+msgstr ""
+
+#: templates/account/bookmarks.php:76
+msgid "You haven't saved anything yet!"
+msgstr ""
+
+#: templates/account/change_password.php:7 templates/account/navigation.php:88
+msgid "Change Password"
+msgstr ""
+
+#: templates/account/change_password.php:9
+msgid "Your password has been updated."
+msgstr ""
+
+#: templates/account/change_password.php:17
+msgid "Your current password does not match. Please retry."
+msgstr ""
+
+#: templates/account/change_password.php:20
+msgid "The passwords do not match. Please retry.."
+msgstr ""
+
+#: templates/account/change_password.php:23
+msgid "A bit short as a password, don't you think?"
+msgstr ""
+
+#: templates/account/change_password.php:26
+msgid "Password may not contain the character \"\\\" (backslash)."
+msgstr ""
+
+#: templates/account/change_password.php:29
+msgid "An error occurred while updating your profile. Please retry."
+msgstr ""
+
+#: templates/account/change_password.php:40
+msgid "Current Password"
+msgstr ""
+
+#: templates/account/change_password.php:43
+msgid "New Password"
+msgstr ""
+
+#: templates/account/change_password.php:46
+msgid "Confirm New Password"
+msgstr ""
+
+#: templates/account/change_password.php:58
+msgid "Your password should be at least 12 random characters long to be safe"
+msgstr ""
+
+#: templates/account/login.php:41
+msgid "The email address you entered is not valid."
+msgstr ""
+
+#: templates/account/login.php:44
+msgid "An account exists with this email address."
+msgstr ""
+
+#: templates/account/login.php:47 templates/account/login.php:160
+msgid "Registering new users is currently not allowed."
+msgstr ""
+
+#: templates/account/login.php:50
+msgid "Please check reCAPTCHA checbox to register."
+msgstr ""
+
+#: templates/account/login.php:53
+msgid "You're a bot, aren't you?."
+msgstr ""
+
+#: templates/account/login.php:56
+msgid "Please accept the Privacy Policy to register account."
+msgstr ""
+
+#: templates/account/login.php:85
+#, php-format
+msgid "You have successfully registered to <strong>%s</strong>."
+msgstr ""
+
+#: templates/account/login.php:90
+#, php-format
+msgid ""
+"You have successfully registered to <strong>%s</strong>. We have emailed "
+"your password to the email address you entered."
+msgstr ""
+
+#: templates/account/login.php:109
+msgid "Log In"
+msgstr ""
+
+#: templates/account/login.php:110 templates/account/login.php:233
+msgid "Register"
+msgstr ""
+
+#: templates/account/login.php:130
+msgid "Username/Email:"
+msgstr ""
+
+#: templates/account/login.php:136
+msgid "Password:"
+msgstr ""
+
+#: templates/account/login.php:142
+msgid "Sign In"
+msgstr ""
+
+#: templates/account/login.php:145
+msgid "Remember Me"
+msgstr ""
+
+#: templates/account/login.php:148
+msgid "Lost Your Password?"
+msgstr ""
+
+#: templates/account/login.php:177
+msgid "Password"
+msgstr ""
+
+#: templates/account/login.php:183
+msgid "First name"
+msgstr ""
+
+#: templates/account/login.php:188
+msgid "Last name"
+msgstr ""
+
+#: templates/account/login.php:199
+msgid "User role"
+msgstr ""
+
+#: templates/account/login.php:214
+msgid ""
+"Note: Your password will be generated automatically and sent to your email "
+"address."
+msgstr ""
+
+#: templates/account/login.php:227
+msgid "I agree to the"
+msgstr ""
+
+#: templates/account/login.php:227
+msgid "Privacy Policy"
+msgstr ""
+
+#: templates/account/lost_password.php:26
+msgid "Email Address:"
+msgstr ""
+
+#: templates/account/lost_password.php:34
+#: templates/account/reset_password.php:37
+msgid "Reset Password"
+msgstr ""
+
+#: templates/account/my_agency.php:26
+msgid "You've been invited to the following agencies"
+msgstr ""
+
+#: templates/account/my_agency.php:44
+msgid "Confirm"
+msgstr ""
+
+#: templates/account/my_agency.php:45
+msgid "Reject"
+msgstr ""
+
+#: templates/account/my_agency.php:81
+msgid "You're assigned as agent to the following agencies"
+msgstr ""
+
+#: templates/account/my_agency.php:129
+msgid "Agencies that you can manage"
+msgstr ""
+
+#: templates/account/my_agency.php:176
+msgid "Add New Agent"
+msgstr ""
+
+#: templates/account/my_agency.php:192 templates/account/my_properties.php:74
+msgid "Delete"
+msgstr ""
+
+#: templates/account/my_agency.php:222
+msgid "It seems this agency was removed or is hidden"
+msgstr ""
+
+#: templates/account/my_agency.php:225
+msgid "You can remove yourself as admin"
+msgstr ""
+
+#: templates/account/my_agency.php:236
+msgid "Create agency "
+msgstr ""
+
+#: templates/account/my_orders.php:13
+msgid "Order"
+msgstr ""
+
+#: templates/account/my_orders.php:14
+msgid "Date"
+msgstr ""
+
+#: templates/account/my_orders.php:15
+msgid "Status"
+msgstr ""
+
+#: templates/account/my_orders.php:16
+msgid "Total"
+msgstr ""
+
+#: templates/account/my_orders.php:54
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: templates/account/my_orders.php:66
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/account/my_packages.php:6
+msgid "Package name"
+msgstr ""
+
+#: templates/account/my_packages.php:19
+#: templates/property-submit-package.php:37
+#, php-format
+msgid "You have %1$s properties posted out of %2$d"
+msgid_plural "You have %1$s properties posted out of %2$d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/account/my_packages.php:21
+#: templates/property-submit-package.php:39
+#, php-format
+msgid "You have %s properties posted"
+msgid_plural "You have %s properties posted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/account/my_packages.php:25
+#: templates/property-submit-package.php:43
+#, php-format
+msgid "listed for %s day"
+msgid_plural "listed for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/account/my_packages.php:37
+#, php-format
+msgid ""
+"You haven't bought any packages yet, you can do it while <a href=\"%s"
+"\">adding a property</a> or by visiting <a href=\"%s\">shop</a>"
+msgstr ""
+
+#: templates/account/my_packages.php:40 templates/account/my_properties.php:13
+#: templates/account/my_properties.php:104 templates/account/navigation.php:60
+msgid "Submit New Property"
+msgstr ""
+
+#: templates/account/my_packages.php:43
+msgid "Purchase New Package"
+msgstr ""
+
+#: templates/account/my_properties.php:12
+#, php-format
+msgid ""
+"You haven't submitted any properties yet, you can add your first one <a href="
+"\"%s\">below</a>"
+msgstr ""
+
+#: templates/account/my_properties.php:20
+msgid "Expiration Date"
+msgstr ""
+
+#: templates/account/my_properties.php:57
+msgid "Hide"
+msgstr ""
+
+#: templates/account/my_properties.php:69
+msgid "Renew"
+msgstr ""
+
+#: templates/account/navigation.php:17
+msgid "Manage Account"
+msgstr ""
+
+#: templates/account/navigation.php:22
+msgid "My Profile"
+msgstr ""
+
+#: templates/account/navigation.php:30
+msgid "Bookmarked Listings"
+msgstr ""
+
+#: templates/account/navigation.php:38
+msgid "Agency Management"
+msgstr ""
+
+#: templates/account/navigation.php:45
+msgid "Manage Listings"
+msgstr ""
+
+#: templates/account/navigation.php:51
+msgid "My Properties"
+msgstr ""
+
+#: templates/account/navigation.php:69
+msgid "My Packages"
+msgstr ""
+
+#: templates/account/navigation.php:77
+msgid "My Orders"
+msgstr ""
+
+#: templates/account/navigation.php:92
+msgid "Log Out"
+msgstr ""
+
+#: templates/account/reset_password.php:25
+msgid "New password"
+msgstr ""
+
+#: templates/account/reset_password.php:29
+msgid "Repeat new password"
+msgstr ""
+
+#: templates/archive-property-split.php:19
+msgid "Previous point on map"
+msgstr ""
+
+#: templates/archive-property-split.php:20
+msgid "Next point on map"
+msgstr ""
+
+#: templates/archive-property-split.php:36
+msgid "Find Your Home"
+msgstr ""
+
+#: templates/archive/keyword-search.php:10 templates/single-agency.php:80
+msgid "Enter address e.g. street, city and state or zip"
+msgstr ""
+
+#: templates/archive/map.php:19
+msgid "Enable Scrolling"
+msgstr ""
+
+#: templates/archive/no-found.php:2
+msgid "Nothing found"
+msgstr ""
+
+#: templates/archive/no-found.php:3
+msgid ""
+"We&rsquo;re sorry but we do not have any properties matching your search, "
+"try to change you search settings"
+msgstr ""
+
+#: templates/archive/sorting.php:4
+msgid "Sort by:"
+msgstr ""
+
+#: templates/archive/sorting.php:10
+msgid "Default Order"
+msgstr ""
+
+#: templates/archive/titlebar.php:23
+#, php-format
+msgid ""
+"We've found <em class=\"count_properties\">%s</em> <em class=\"count_text"
+"\">property</em> for you"
+msgid_plural ""
+"We've found <em class=\"count_properties\">%s</em> <em class=\"count_text"
+"\">properties</em> for you"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/compare-properties.php:12
+msgid "No properties to compare"
+msgstr ""
+
+#: templates/compare-properties.php:13
+msgid "Looks like you haven't add anything to compare yet!"
+msgstr ""
+
+#: templates/compare-properties.php:25
+msgid "Check Other Properties"
+msgstr ""
+
+#: templates/compare-side.php:22
+msgid "Compare Properties"
+msgstr ""
+
+#: templates/compare-side.php:24
+msgid "You can compare only 4 properties"
+msgstr ""
+
+#: templates/compare-side.php:75
+msgid "Compare"
+msgstr ""
+
+#: templates/compare-side.php:77
+msgid "Reset"
+msgstr ""
+
+#: templates/content-property.php:35
+msgid "Adding To Bookmarks.."
+msgstr ""
+
+#: templates/content-property.php:81
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: templates/form-fields/files.php:32
+msgid "Click here or drop files to upload"
+msgstr ""
+
+#: templates/form-fields/floorplans.php:30
+#: templates/form-fields/floorplans.php:64
+msgid "Floorplan Title"
+msgstr ""
+
+#: templates/form-fields/floorplans.php:75
+msgid "Add Floorplan"
+msgstr ""
+
+#: templates/my-account.php:19
+msgid "Your profile has been updated."
+msgstr ""
+
+#: templates/my-account.php:22
+msgid "My Account"
+msgstr ""
+
+#: templates/my-account.php:26
+msgid "You must be logged in to edit your profile."
+msgstr ""
+
+#: templates/my-account.php:31
+msgid "First Name"
+msgstr ""
+
+#: templates/my-account.php:34
+msgid "Last Name"
+msgstr ""
+
+#: templates/my-account.php:38
+msgid "About Me"
+msgstr ""
+
+#: templates/my-account.php:111
+msgid "Your Avatar"
+msgstr ""
+
+#: templates/my-account.php:116
+msgid "Upload Avatar"
+msgstr ""
+
+#: templates/property-preview.php:1
+msgid ""
+"This is preview of property you've submitted, please confirm or edit your "
+"submission using buttons at the end of that page."
+msgstr ""
+
+#: templates/property-preview.php:71 templates/single-property.php:89
+msgid "Show More"
+msgstr ""
+
+#: templates/property-preview.php:91
+msgid "Submit Listing"
+msgstr ""
+
+#: templates/property-preview.php:92
+msgid "Edit listing"
+msgstr ""
+
+#: templates/property-sign-in.php:2
+msgid "Don't Have an Account?"
+msgstr ""
+
+#: templates/property-sign-in.php:3
+msgid ""
+"If you don't have an account please register using form below. A password "
+"will be automatically emailed to you."
+msgstr ""
+
+#: templates/property-submit-package.php:26
+msgid "Choose your Package:"
+msgstr ""
+
+#: templates/property-submit-package.php:61
+msgid "Or Purchase New Package:"
+msgstr ""
+
+#: templates/property-submit-package.php:63
+msgid "Choose Package:"
+msgstr ""
+
+#: templates/property-submit-package.php:98
+msgid "Unlimited number of properties"
+msgstr ""
+
+#: templates/property-submit-package.php:102
+msgid "This plan includes "
+msgstr ""
+
+#: templates/property-submit-package.php:102
+#, php-format
+msgid "%d property"
+msgid_plural "%s properties"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/property-submit-package.php:107
+msgid "Properties are visible "
+msgstr ""
+
+#: templates/property-submit-package.php:107
+#, php-format
+msgid "for %s day"
+msgid_plural "for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/property-submit-package.php:119
+msgid "Buy this package"
+msgstr ""
+
+#: templates/property-submit-package.php:130
+msgid "No packages found"
+msgstr ""
+
+#: templates/property-submit.php:9
+msgid "You can't edit that property"
+msgstr ""
+
+#: templates/property-submit.php:41
+#, php-format
+msgid "You are editing an existing property. %s"
+msgstr ""
+
+#: templates/property-submit.php:41
+msgid "Add A New Property"
+msgstr ""
+
+#: templates/property-submitted.php:5
+msgid "Your property has been published."
+msgstr ""
+
+#: templates/property-submitted.php:8
+msgid ""
+"Your property has been saved and is pending payment. It will be published "
+"once the order is completed"
+msgstr ""
+
+#: templates/property-submitted.php:12
+msgid "Your property has been saved and is awaiting admin approval"
+msgstr ""
+
+#: templates/search-form/double-input.php:22
+#: templates/search-form/double-input.php:24
+msgid "Min"
+msgstr ""
+
+#: templates/search-form/double-input.php:37
+#: templates/search-form/double-input.php:39
+msgid "Max"
+msgstr ""
+
+#: templates/single-agency.php:58
+msgid "Our Properties"
+msgstr ""
+
+#: templates/single-agency.php:59
+msgid "Our Agents"
+msgstr ""
+
+#: templates/single-agency.php:87
+msgid "This agency doesn't have any properties yet"
+msgstr ""
+
+#: templates/single-agency.php:131
+msgid "View Profile"
+msgstr ""
+
+#: templates/single-agency.php:171
+msgid "This agency doesn't have any agents yet"
+msgstr ""
+
+#: templates/single-partials/single-property-location.php:16
+msgid "Street View"
+msgstr ""
+
+#: templates/single-partials/single-property-related.php:36
+msgid "Similar Properties"
+msgstr ""
+
+#: templates/single-partials/single-property-walkscore.php:2
+msgid "Walk Score"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Realteo - Real Estate Plugin by Purethemes"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.purethemes.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Real Estate Plugin from Purethemes.net"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Purethemes.net"
+msgstr ""

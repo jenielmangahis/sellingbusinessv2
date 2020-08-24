@@ -1,0 +1,325 @@
+h2 {
+  font-size: x-large;
+  margin: 0
+}
+
+.notitle th {
+  display: none;
+  padding: 0
+}
+
+[type="checkbox"]:checked+span:not(.lever):before {
+  border-right: 2px solid #0073AA;
+  border-bottom: 2px solid #0073AA;
+}
+
+input:not([type]):focus:not([readonly]),
+input[type=text]:not(.browser-default):focus:not([readonly]),
+input[type=password]:not(.browser-default):focus:not([readonly]),
+input[type=email]:not(.browser-default):focus:not([readonly]),
+input[type=url]:not(.browser-default):focus:not([readonly]),
+input[type=time]:not(.browser-default):focus:not([readonly]),
+input[type=date]:not(.browser-default):focus:not([readonly]),
+input[type=datetime]:not(.browser-default):focus:not([readonly]),
+input[type=datetime-local]:not(.browser-default):focus:not([readonly]),
+input[type=tel]:not(.browser-default):focus:not([readonly]),
+input[type=number]:not(.browser-default):focus:not([readonly]),
+input[type=search]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #0073AA;
+  box-shadow: 0 1px 0 0 #0073AA
+}
+
+a:focus {
+  box-shadow: none
+}
+
+a:active,
+a:hover {
+  color: #31313199;
+}
+
+.material-icons:active,
+.material-icons:hover {
+  color: #31313199;
+}
+
+tr {
+  border-bottom: 0
+}
+
+.progress {
+  background-color: #23282d;
+}
+
+.progress .indeterminate {
+  background-color: #0073AA;
+}
+
+.tabs {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  border-radius: 5px 5px 0 0;
+  background-color: #23282d;
+  height: 48px;
+}
+
+.tabs::-webkit-scrollbar {
+  height: 8px;
+}
+
+.tabs::-webkit-scrollbar-thumb {
+  background-color: #005882;
+}
+
+.tabs-content {
+  padding: 25px;
+  background-color: #fff;
+  border-radius: 0 0 5px 5px
+}
+
+.tabs .tab i {
+  position: relative;
+  bottom: -6px;
+  margin-right: 5px
+}
+
+.tabs .tab a {
+  color: #23282d
+}
+
+.tabs .tab a:hover,
+.tabs .tab a.active {
+  color: #212121;
+  background-color: #fff;
+  border-radius: 5px 5px 0 0
+}
+
+.tabs .tab a:focus,
+.tabs .tab a:focus.active {
+  background-color: #fff;
+  outline: none;
+}
+
+.tabs .tab a:not(.active) {
+  color: #fff;
+  background-color: #23282d;
+}
+
+.tabs .indicator {
+  background-color: #0073AA;
+  bottom: -6px;
+  display: none
+}
+
+.switch {
+  margin-left: 1rem;
+}
+
+.switch label input[type=checkbox]:checked+.lever {
+  background-color: #69c;
+}
+
+.switch label input[type=checkbox]:checked+.lever:after {
+  background-color: #0073AA;
+}
+
+.switch label .lever {
+  margin: 0;
+}
+
+.switch label input[type=checkbox] {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  min-width: 0;
+  margin: 0;
+}
+
+.select-wrapper input.select-dropdown:not(.browser-default) {
+  height: 23px;
+  border-bottom: 1px solid #0073AA;
+  margin: 0 0 15px -15px;
+}
+
+.select-wrapper input.select-dropdown:focus {
+  border-bottom: 1px solid #0073AA
+}
+
+.input-field {
+  margin-top: 3rem;
+}
+
+.input-field>input[type=text] {
+  position: relative;
+  top: -15px;
+}
+
+.input-field-cstm .prefix {
+  position: absolute;
+  width: 3rem;
+  font-size: 2rem;
+  transition: color .2s
+}
+
+.red_wp {
+  background-color: #ca4a1f
+}
+
+.btn,
+.btn:hover {
+  color: #fff;
+  background-color: #0073AA
+}
+
+.btn-floating.btn-small {
+  margin: 0 10px;
+  width: 30px;
+  height: 30px;
+  top: -3px;
+}
+
+.btn-floating.btn-small i {
+  line-height: 30px;
+}
+
+.dropdown-content li>a,
+.dropdown-content li>span {
+  color: #0073AA
+}
+
+.input-field .prefix.active {
+  color: #0073AA
+}
+
+.toast {
+  margin-top: 30px;
+  background-color: #323232;
+  color: #fff
+}
+
+.form-table td {
+  margin-bottom: 9px;
+  display: flex;
+}
+
+.responsive-table td {
+  display: table-cell;
+}
+
+.prefix~.select-wrapper {
+  margin-left: 2rem;
+}
+
+.select-wrapper .caret {
+  margin: 0 10px;
+}
+
+textarea {
+  height: 39px;
+  margin: 0 1rem;
+  padding: 0;
+}
+
+input:not([type]),
+input[type=text]:not(.browser-default),
+input[type=password]:not(.browser-default),
+input[type=email]:not(.browser-default),
+input[type=url]:not(.browser-default),
+input[type=time]:not(.browser-default),
+input[type=date]:not(.browser-default),
+input[type=datetime]:not(.browser-default),
+input[type=datetime-local]:not(.browser-default),
+input[type=tel]:not(.browser-default),
+input[type=number]:not(.browser-default),
+input[type=search]:not(.browser-default),
+textarea.materialize-textarea {
+  height: 23px;
+  margin: 0 1rem;
+  padding: 0;
+}
+
+.input-field input[type=text] {
+  height: 3rem;
+  margin: 0 0 0 3rem;
+}
+
+.range-field {
+  width: 100%;
+  top: -9px;
+}
+
+.range-value {
+  position: relative;
+  padding: 0 10px;
+  white-space: nowrap;
+}
+
+input[type=range] {
+  position: relative;
+  background-color: transparent;
+  border: none;
+  width: 100%;
+  margin: 15px;
+  padding: 0 15px 0 0;
+}
+
+input[type=range]+.thumb {
+  background-color: #0073AA;
+}
+
+input[type=range]+.thumb .value {
+  color: #0073AA;
+}
+
+input[type=range]::-webkit-slider-thumb {
+  background-color: #0073AA
+}
+
+input[type=range].focused:focus:not(.active)::-webkit-slider-thumb {
+  -webkit-box-shadow: 0 0 0 10px rgba(0, 115, 170, 0.26);
+  box-shadow: 0 0 0 10px rgba(0, 115, 170, 0.26)
+}
+
+input[type=range]::-moz-range-thumb {
+  background: #0073AA;
+}
+
+input[type=range].focused:focus:not(.active)::-moz-range-thumb {
+  box-shadow: 0 0 0 10px rgba(0, 115, 170, 0.26)
+}
+
+input[type=range]::-ms-thumb {
+  background: #0073AA;
+}
+
+input[type=range].focused:focus:not(.active)::-ms-thumb {
+  box-shadow: 0 0 0 10px rgba(0, 115, 170, 0.26)
+}
+
+.btn:focus,
+.btn-floating:focus {
+  background-color: #005882
+}
+
+.btn {
+  background-color: #0073AA;
+}
+
+.btn:hover {
+  background-color: #00a0eb
+}
+
+.btn-floating {
+  background-color: #0073AA;
+}
+
+.btn-floating:hover {
+  background-color: #0073AA
+}
+
+.small {
+  padding: 0 5px;
+}

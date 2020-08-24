@@ -1,0 +1,61 @@
+<div class="clear"></div>
+
+<br/>
+
+<h2><?php _e('List of CM Custom Reports'); ?> </h2>
+
+<br/>
+<hr>
+
+<?php
+$reports = CM_Custom_Reports_Backend::getReportOptions();
+$listContentArr = array();
+$reportsGroups = array();
+
+if( !empty($reports) )
+{
+    foreach($reports as $slug => $options)
+    {
+        $reportObj = new $options['class'];
+
+        $reportOnList = $reportObj->displayReportOnList();
+        $reportGroups = $reportObj->getGroupsFiltered();
+
+        $reportsGroups = array_merge($reportsGroups, $reportGroups);
+
+        foreach($reportGroups as $key => $label)
+        {
+            $listContentArr[$key][] = $reportOnList;
+        }
+    }
+}
+$reportsGroups = array_merge(array('fav' => 'Favorite'), $reportsGroups);
+$orderedReportsGroups = apply_filters('cmcr_report_groups', $reportsGroups);
+?>
+
+<div class="cmcr_reports_list_wrapper">
+    <?php if( !empty($listContentArr) ) : ?>
+        <?php foreach($orderedReportsGroups as $groupKey => $groupLabel) : ?>
+            <div class="cmcr_reports_group_wrapper">
+                <h3 class="cmcr_reports_group_label">
+                    <?php echo $groupLabel; ?>
+                </h3>
+                <ul class="cmcr_reports_list" id="cm_reports_list_<?php echo $groupKey; ?>">
+                    <?php if( !empty($listContentArr[$groupKey]) ) : ?>
+                        <?php foreach($listContentArr[$groupKey] as $item) : ?>
+                            <li class="cmcr_reports_list_item">
+                                <?php echo $item; ?>
+                            </li>
+                            <?php
+                        endforeach;
+                        ?>
+                    <?php endif; ?>
+                </ul>
+                <div class="clear clearfix"></div>
+            </div>
+            <?php
+        endforeach;
+        ?>
+    <?php endif;
+    ?>
+</div>

@@ -1,0 +1,9 @@
+graph_no_data	No Data Found	Label displayed on the Graph tab when no data is found	Report
+choose_graph_type	Choose graph type:	Label for the graph type select box	Report
+back_to_list	Back to list	Label for "Back to list" button	Report
+unknown_author	Unknown Author	Label for the unknown(deleted from the database preasumly) users	Report
+download_pdf	Download Report as PDF	Title for the button allowing to download PDF file 	Report
+download_csv	Download Report as CSV	Title for the button allowing to download CSV file 	Report
+empty_comment_type	Post comment	Label for post comments on "Comment by type" report 	Report
+unknown_user	Unknown User	Label for the unknown( not logged ) username 	Report
+license_inactive	To use the plugin you have to click the "License" and follow the instructions.	Information about the inactive license. 	General

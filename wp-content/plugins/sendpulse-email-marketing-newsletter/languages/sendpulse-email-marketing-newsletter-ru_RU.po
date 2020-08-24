@@ -1,0 +1,224 @@
+# Copyright (C) 2017 SendPulse Email Marketing Newsletter
+# This file is distributed under the same license as the SendPulse Email Marketing Newsletter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SendPulse Email Marketing Newsletter\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/class-sendpulse-newsletter-ajax.php:35
+msgid "Please, select Address Book"
+msgstr "Пожалуйста, выберите адресную книгу"
+
+#: inc/class-sendpulse-newsletter-ajax.php:39
+msgid "Please, select Users Role"
+msgstr "Пожалуйста, выберите группу пользователей"
+
+#: inc/class-sendpulse-newsletter-ajax.php:44
+msgid "Import start"
+msgstr "Начать импорт"
+
+#: inc/class-sendpulse-newsletter-ajax.php:73
+msgid "Add user"
+msgstr "Добавить пользователя"
+
+#: inc/class-sendpulse-newsletter-ajax.php:79
+msgid "Something went wrong. Import unsuccessful"
+msgstr "Что-то пошло не так"
+
+#: inc/class-sendpulse-newsletter-ajax.php:83
+msgid "Import finished"
+msgstr "Импорт завершен"
+
+#: inc/class-sendpulse-newsletter-settings.php:54
+#, fuzzy
+msgid "Select book for new users and save options"
+msgstr "Выберите адресную книгу по умолчанию и параметры сохранения"
+
+#: inc/class-sendpulse-newsletter-settings.php:105
+msgid "API Settings"
+msgstr "Настройки API"
+
+#: inc/class-sendpulse-newsletter-settings.php:109
+msgid "Import"
+msgstr "Импорт"
+
+#: inc/class-sendpulse-newsletter-settings.php:124,
+#: inc/class-sendpulse-newsletter-settings.php:126
+msgid "Client ID"
+msgstr "Client ID"
+
+#: inc/class-sendpulse-newsletter-settings.php:125,
+#: inc/class-sendpulse-newsletter-settings.php:134
+msgid "Get from https://login.sendpulse.com/settings/"
+msgstr "Можно найти на https://login.sendpulse.com/settings/"
+
+#: inc/class-sendpulse-newsletter-settings.php:133,
+#: inc/class-sendpulse-newsletter-settings.php:135
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: inc/class-sendpulse-newsletter-settings.php:147
+msgid "Subscribe user after register?"
+msgstr "Подписать пользователя после регистрации?"
+
+#: inc/class-sendpulse-newsletter-settings.php:148
+msgid "Add all new Wordpress users to selected list"
+msgstr "Добавить всех новых пользователей Вордпресс в выбранный список"
+
+#: inc/class-sendpulse-newsletter-settings.php:161
+msgid "Address Book for new users"
+msgstr "Адресная книга для новых подписчиков"
+
+#: inc/class-sendpulse-newsletter-settings.php:162
+msgid "Address Book for subscribe user after register"
+msgstr "Адресная книга для новых пользователей"
+
+#: inc/class-sendpulse-newsletter-settings.php:186
+msgid "Import to Address Book"
+msgstr "Ипортировать в адресную книгу"
+
+#: inc/class-sendpulse-newsletter-settings.php:187
+msgid "Address Book for wordpress users import"
+msgstr "Адресная книга для новых подписчиков"
+
+#: inc/class-sendpulse-newsletter-settings.php:194
+msgid "Import Users Group"
+msgstr "Импортировать группу "
+
+#: inc/class-sendpulse-newsletter-settings.php:195
+msgid "Users Group that will be imported"
+msgstr "Группа пользователей для импорта"
+
+#: inc/class-sendpulse-newsletter-settings.php:258
+msgid "Error API. Please try again later"
+msgstr ""
+
+#: inc/class-sendpulse-newsletter-settings.php:270
+msgid "Start import"
+msgstr "Начать импорт"
+
+#: inc/class-sendpulse-newsletter-settings.php:272
+msgid "Import Log"
+msgstr "Журнал импорта"
+
+#: inc/class-sendpulse-newsletter-users.php:79
+msgid "Something went wrong"
+msgstr "Что-то пошло не так"
+
+#: inc/class-senpulse-newsletter-forms.php:34
+msgctxt "Post type general name"
+msgid "SendPulse Forms"
+msgstr "Формы SendPulse"
+
+#: inc/class-senpulse-newsletter-forms.php:35
+msgctxt "Post type singular name"
+msgid "SendPulse Form"
+msgstr "Форма SendPulse"
+
+#: inc/class-senpulse-newsletter-forms.php:36
+msgctxt "Admin Menu text"
+msgid "SendPulse"
+msgstr ""
+
+#: inc/class-senpulse-newsletter-forms.php:37
+msgctxt "Add New on Toolbar"
+msgid "SendPulse Form"
+msgstr "Формy SendPulse"
+
+#: inc/class-senpulse-newsletter-forms.php:38
+msgctxt "Add New SP form"
+msgid "Add Form"
+msgstr "Добавить форму"
+
+#: inc/class-senpulse-newsletter-forms.php:39
+msgid "Add New SendPulse Form"
+msgstr "Добавить новую форму SendPulse"
+
+#: inc/class-senpulse-newsletter-forms.php:40
+msgid "New SendPulse Form"
+msgstr "Новая форма SendPulse"
+
+#: inc/class-senpulse-newsletter-forms.php:41
+msgid "Edit SendPulse Form"
+msgstr "Редактировать форму SendPulse"
+
+#: inc/class-senpulse-newsletter-forms.php:42
+msgid "View SendPulse Form"
+msgstr "Просмотреть форму SendPulse"
+
+#: inc/class-senpulse-newsletter-forms.php:43
+msgid "SendPulse Forms"
+msgstr "Формы SendPulse"
+
+#: inc/class-senpulse-newsletter-forms.php:44
+msgid "Search SendPulse Forms"
+msgstr "Найти форму SendPulse"
+
+#: inc/class-senpulse-newsletter-forms.php:45
+msgid "Parent SendPulse Forms:"
+msgstr "Родительская форма SendPulse"
+
+#: inc/class-senpulse-newsletter-forms.php:46
+msgid "No SendPulse Forms found."
+msgstr "Формы SendPulse не найдены"
+
+#: inc/class-senpulse-newsletter-forms.php:47
+msgid "No SendPulse Forms found in Trash."
+msgstr "В корзине нет форм SendPulse"
+
+#: inc/class-senpulse-newsletter-forms.php:68
+msgid "Constructor Form Code (paste code SendPulse form)"
+msgstr "Код конструктора форм"
+
+#: inc/class-senpulse-newsletter-forms.php:73,
+#: inc/class-senpulse-newsletter-forms.php:153
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: inc/class-senpulse-newsletter-forms.php:83
+msgid "Paste code here"
+msgstr "Вставьте код здесь"
+
+#: inc/class-senpulse-newsletter-forms.php:84
+msgid ""
+"Code from <a href=\"%s\">Constructor Form</a> (<a class=\"%s\" href=\"%s\" "
+"title=\"Open help page in new tab\" target=\"_blank\">Need help?</a>)"
+msgstr ""
+"Код из <a href=\"%s\">Конструктора форм</a> (<a class=\"%s\" href=\"%s\" "
+"title=\"Страница справки откроется в новом окне\" target=\"_blank\">Нужна помощь?</a>)"
+
+#: inc/class-senpulse-newsletter-forms.php:103,
+#: inc/class-senpulse-newsletter-forms.php:170
+msgid "You should paste this shortcode in themes files"
+msgstr "Вы должны вставить это шорткод в файлы темы"
+
+#: inc/class-senpulse-newsletter-forms.php:182,
+#: inc/class-senpulse-newsletter-forms.php:197
+msgid "Saved"
+msgstr "Сохранено"
+
+#: inc/class-senpulse-newsletter-requirement.php:56
+msgid ""
+"We've noticed that you're running an outdated version of PHP and plugin "
+"\"SendPulse Email Marketing Newsletter\" can't run."
+msgstr ""
+"Вы используете устаревшую версию PHP и плагин \"SendPulse Email Marketing "
+"Newsletter\" не может быть запущен"
+
+#: inc/class-senpulse-newsletter-requirement.php:56
+msgid ""
+"Ask you hosting <a href=\"https://wordpress.org/about/requirements/\">update "
+"PHP</a>."
+msgstr ""
+"Попросите своего хостера <a href=\"https://wordpress.org/about/requirements/"
+"\">обновить PHP</a>."

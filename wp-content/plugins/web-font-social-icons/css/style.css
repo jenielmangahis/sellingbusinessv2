@@ -1,0 +1,73 @@
+.ptwsi #socialicons {
+    margin-bottom: 15px
+}
+.ptwsi #socialicons label {
+    display: block;
+    float: left;
+    width: 85px;
+    padding-top: 6px;
+    cursor:hand;
+    cursor:grab;
+    cursor:-moz-grab;
+    cursor:-webkit-grab;
+}
+.ptwsi #socialicons p {
+    cursor: move;
+}
+.ptwsi #socialicons p input {
+    margin: 2px 0px 4px;
+    background: #eee;
+    padding: 3px 6px;
+    width: 195px;
+    border: 1px solid #ddd;
+    box-shadow: 0px 1px 0px rgba(0,0,0,0.2) inset;
+}
+.ptwsi #socialicons.ui-sortable p {
+    margin: 0;
+    color: #000;
+    outline: 0;
+    padding: 10px;
+    margin: 0;
+    background: rgb(78,82,91);
+    background: -moz-linear-gradient(top,  rgb(235,235,235) 0%, rgb(223,223,223) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgb(235,235,235)), color-stop(100%,rgb(223,223,223)));
+    background: -webkit-linear-gradient(top,  rgb(235,235,235) 0%,rgb(223,223,223) 100%);
+    background: -o-linear-gradient(top,  rgb(235,235,235) 0%,rgb(223,223,223) 100%);
+    background: -ms-linear-gradient(top,  rgb(235,235,235) 0%,rgb(223,223,223) 100%);
+    background: linear-gradient(to bottom,  rgb(235,235,235) 0%,rgb(223,223,223) 100%);
+    border-top: 1px solid rgba(255,255,255,.2);
+    border-bottom: 1px solid rgba(0,0,0,.1);
+
+    font-size: 1.1em;
+    position: relative;
+    cursor: pointer;
+}
+
+.ptwsi #socialicons.ui-sortable p.ui-state-highlight {background: #eee; height: 1.5em; line-height: 1.2em; }
+.ptwsi #selector {
+    margin: 0;
+    color: #000;
+    outline: 0;
+    padding: 10px;
+    margin: 0;
+    background: rgb(78,82,91);
+    background: -moz-linear-gradient(top,  rgb(97,220,255) 0%, rgb(31,201,250) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgb(97,220,255)), color-stop(100%,rgb(31,201,250)));
+    background: -webkit-linear-gradient(top,  rgb(97,220,255) 0%,rgb(31,201,250) 100%);
+    background: -o-linear-gradient(top,  rgb(97,220,255) 0%,rgb(31,201,250) 100%);
+    background: -ms-linear-gradient(top,  rgb(97,220,255) 0%,rgb(31,201,250) 100%);
+    background: linear-gradient(to bottom,  rgb(97,220,255) 0%,rgb(31,201,250) 100%);
+    border-top: 1px solid rgba(255,255,255,.2);
+    border-bottom: 1px solid rgba(0,0,0,.1);
+
+    font-size: 1.1em;
+    position: relative;
+    cursor: pointer;
+}
+.ptwsi #selector label {
+    font-weight: bold;
+
+}
+.ptwsi #selector select {
+    margin-top: 5px
+}

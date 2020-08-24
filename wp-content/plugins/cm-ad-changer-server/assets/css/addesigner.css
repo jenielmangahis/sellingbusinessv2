@@ -1,0 +1,120 @@
+@CHARSET "UTF-8";
+
+.cmac_addesigner #wrapper {
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 100%;
+}
+.cmac_addesigner .container {
+    height: auto;
+    float: left;
+    overflow: hidden;
+    width: 49%;
+    display: block;
+}
+
+.cmac_addesigner #right {
+    width: 600px;
+    float: right;
+    text-align: center;
+    padding: 0px;
+}
+
+.cmac_addesigner #left {
+
+    float: left; /* not needed, just for clarification */
+
+    /* the next props are meant to keep this block independent from the other floated one */
+    width: 290px;
+    overflow: hidden;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.cmac_addesigner #center {
+
+    float: left; /* not needed, just for clarification */
+
+    /* the next props are meant to keep this block independent from the other floated one */
+    width: 290px;
+    margin-left: 25px;
+    overflow: hidden;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.cmac_addesigner #previewContainer {
+    position: relative;
+    text-align: justify;
+    border: 1px solid #428bca;
+    padding: 5px;
+    width: 100%;
+    height: 200px;
+    overflow: scroll;
+}
+
+.cmac_addesigner #htmlPreviewContainer {
+    border: 1px solid #428bca;
+}
+
+.cmac_addesigner .row {
+    margin-bottom: 10px;
+    padding-left: 20px;
+    width: 200px;
+}
+
+.cmac_addesigner .row-preview {
+    margin: 5px;
+    width: 100%;
+    float:left;
+}
+
+.cmac_addesigner label span {
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.cmac_addesigner #topContainer {
+    width: 100%;
+}
+
+.cmac_addesigner .opentip-container {
+    max-width: 200px;
+}
+
+.cmac_addesigner #container h3 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.cmac_addesigner #container h4 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight:bold
+}
+
+.cmac_addesigner #cmtts_block {
+    top: 0px;
+    left: 0px;
+    display: none;
+    z-index: 1000;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: url("../images/loader.gif") center center no-repeat;
+}
+
+.cmac_addesigner .panel.panel-default {
+    width: 240px;
+    float: left;
+    margin: 2px;
+}
+
+.cmac_addesigner a.expand {
+    font-weight: bold;
+}
+
+.cmac_addesigner .adcheckbox {
+    float:left;
+}

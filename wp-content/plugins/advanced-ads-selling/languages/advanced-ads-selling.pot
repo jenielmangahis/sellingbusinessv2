@@ -1,0 +1,450 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-21 11:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: admin/admin.php:123 admin/admin.php:141
+msgid "Activate Now"
+msgstr ""
+
+#: admin/admin.php:125 admin/admin.php:143
+msgid "Install Now"
+msgstr ""
+
+#: admin/admin.php:129
+msgid ""
+"<em>Advanced Ads – Selling Ads</em> requires the <strong><a href=\"https:"
+"//wpadvancedads.com\" target=\"_blank\">Advanced Ads</a></strong> plugin to "
+"be installed and activated on your site."
+msgstr ""
+
+#: admin/admin.php:147
+msgid ""
+"<em>Advanced Ads – Selling Ads</em> requires the free <strong>"
+"WooCommerce</strong> to be installed and activated on your site."
+msgstr ""
+
+#: admin/admin.php:192
+msgid "Ad Store"
+msgstr ""
+
+#: admin/admin.php:197
+msgid "Store admin email"
+msgstr ""
+
+#: admin/admin.php:201
+msgid "Store sender email"
+msgstr ""
+
+#: admin/admin.php:205
+msgid "Setup page"
+msgstr ""
+
+#: admin/admin.php:209
+msgid "Hide ad setup"
+msgstr ""
+
+#: admin/admin.php:213
+msgid "WooCommerce fixes"
+msgstr ""
+
+#: classes/notifications.php:58
+#, php-format
+msgid "Edit your ads for order #%d"
+msgstr ""
+
+#: classes/notifications.php:59
+msgid ""
+"Thank you for your order. You can already upload the content of your ads "
+"following the link below."
+msgstr ""
+
+#: classes/notifications.php:61 classes/notifications.php:108
+#: classes/notifications.php:153 classes/notifications.php:198
+#, php-format
+msgid ""
+"Sincerely,\n"
+"Your ad team\n"
+"%s"
+msgstr ""
+
+#: classes/notifications.php:62 classes/notifications.php:154
+#: classes/notifications.php:199
+msgid ""
+"PS: If you want to contact the ad manager directly, just reply to this email."
+msgstr ""
+
+#: classes/notifications.php:104
+#, php-format
+msgid "Ad #%d needs approval"
+msgstr ""
+
+#: classes/notifications.php:106
+#, php-format
+msgid ""
+"The ad content for ad #%d (order #%d) was submitted by the client. You can "
+"review it now using the following link."
+msgstr ""
+
+#: classes/notifications.php:109
+msgid ""
+"PS: If you want to contact the client directly, just reply to this email."
+msgstr ""
+
+#: classes/notifications.php:151
+#, php-format
+msgid "Ad for order #%d was rejected"
+msgstr ""
+
+#: classes/notifications.php:152
+#, php-format
+msgid "The ad content for ad #%s (order #%d) was rejected by the ad manager."
+msgstr ""
+
+#: classes/notifications.php:196
+#, php-format
+msgid "An ad for order #%d was published"
+msgstr ""
+
+#: classes/notifications.php:197
+#, php-format
+msgid "An ad for order #%d was published."
+msgstr ""
+
+#: classes/plugin.php:74
+msgctxt "sales type"
+msgid "flat price"
+msgstr ""
+
+#: classes/plugin.php:75
+msgctxt "sales type"
+msgid "days"
+msgstr ""
+
+#: classes/plugin.php:80
+msgctxt "sales type"
+msgid "impressions"
+msgstr ""
+
+#: classes/plugin.php:81
+msgctxt "sales type"
+msgid "clicks"
+msgstr ""
+
+#: classes/plugin.php:159
+msgid "Advanced Ad"
+msgstr ""
+
+#: public/public.php:300
+#, php-format
+msgid ""
+"You can manage the content of your ads on the <a href=\"%s\">ad setup "
+"page</a>."
+msgstr ""
+
+#: public/public.php:424
+msgid "Extension not allowed, please choose a JPEG, PNG or GIF file."
+msgstr ""
+
+#: public/public.php:428
+#, php-format
+msgid "The allowed file size is %s MB"
+msgstr ""
+
+#: public/public.php:508 public/includes/ajax.php:43
+msgid "Ad content missing."
+msgstr ""
+
+#: public/public.php:523 public/includes/ajax.php:58
+msgid "Error when submitting the ad. Please contact the site admin."
+msgstr ""
+
+#: admin/includes/ad-order-meta-box.php:45
+msgid "Order Data"
+msgstr ""
+
+#: admin/includes/ad-product.php:70
+msgid "Ad Options"
+msgstr ""
+
+#: admin/includes/ad-product.php:90
+msgctxt "ad type"
+msgid "html"
+msgstr ""
+
+#: admin/includes/ad-product.php:91
+msgctxt "ad type"
+msgid "image"
+msgstr ""
+
+#: admin/includes/ad-product.php:98 public/views/product-template.php:54
+msgid "Available ad types"
+msgstr ""
+
+#: admin/includes/ad-product.php:103
+msgid "Customer can buy per …"
+msgstr ""
+
+#: admin/includes/ad-product.php:108
+msgid "Price options"
+msgstr ""
+
+#: admin/includes/ad-product.php:109 admin/includes/ad-product.php:111
+msgid ""
+"define label, value and price separated by |, e.g. 100.000 "
+"impressions|100000|20.00"
+msgstr ""
+
+#: admin/includes/ad-product.php:116
+msgid "Available placements"
+msgstr ""
+
+#: admin/includes/order-page.php:41
+msgid "Ad Data"
+msgstr ""
+
+#: admin/includes/order-page.php:91
+msgid "Ad"
+msgstr ""
+
+#: admin/includes/order-page.php:105 admin/views/ad-order-meta-box.php:7
+msgid "Pricing Value"
+msgstr ""
+
+#: admin/includes/order-page.php:106 admin/views/ad-order-meta-box.php:8
+msgid "Pricing Label"
+msgstr ""
+
+#: admin/includes/order-page.php:107 admin/views/ad-order-meta-box.php:6
+msgid "Sales Type"
+msgstr ""
+
+#: admin/includes/order-page.php:108 admin/views/ad-order-meta-box.php:5
+#: public/views/ad-setup-form.php:29
+msgid "Placement"
+msgstr ""
+
+#: admin/includes/order-page.php:109
+msgid "Ad Types"
+msgstr ""
+
+#: admin/includes/placements.php:49
+#, php-format
+msgid ""
+"When you press “Publish”, this ad will be published in the <strong>"
+"%2$s</strong> placement."
+msgstr ""
+
+#: admin/includes/placements.php:53
+#, php-format
+msgid ""
+"When you press “Publish”, this ad will be swapped against the currently "
+"assigned ad (<strong>%s</strong>) in the <strong>%2$s</strong> placement."
+msgstr ""
+
+#: admin/includes/placements.php:57
+#, php-format
+msgid ""
+"When you press “Publish”, this ad will be added to the group <strong>"
+"%1$s</strong> in the <strong>%2$s</strong> placement."
+msgstr ""
+
+#: admin/includes/placements.php:64
+#, php-format
+msgid ""
+"This ad is going to <strong>expire %d days</strong> after being published."
+msgstr ""
+
+#: admin/views/ad-order-data.php:3
+msgid "Setup URL"
+msgstr ""
+
+#: admin/views/ad-order-meta-box.php:2
+#, php-format
+msgid "Order #%d"
+msgstr ""
+
+#: admin/views/ad-order-meta-box.php:3
+msgid "Public Ad Setup URL"
+msgstr ""
+
+#: admin/views/ad-order-meta-box.php:4
+msgid "Product"
+msgstr ""
+
+#: admin/views/ad-store-widget.php:2
+msgid "New ad purchases"
+msgstr ""
+
+#: admin/views/ad-store-widget.php:11
+msgid "Pending ad purchases"
+msgstr ""
+
+#: admin/views/ad-store-widget.php:20
+msgid "No ad purchases to review"
+msgstr ""
+
+#: admin/views/setting-admin-email.php:2
+msgid "Enter the email used for communication about ads."
+msgstr ""
+
+#: admin/views/setting-hide-ad-setup.php:2
+msgid ""
+"Hide the link to the public ad setup page from the client and don‘t send out "
+"emails about the ad setup process."
+msgstr ""
+
+#: admin/views/setting-sender-email.php:2
+msgid ""
+"Enter the email used as a sender of ad store specific emails. This works "
+"best if the email contains the store domain."
+msgstr ""
+
+#: admin/views/setting-setup-page.php:3
+msgid "(default)"
+msgstr ""
+
+#: admin/views/setting-setup-page.php:9
+msgid ""
+"Choose the page on which you want to show the ad setup for the client after "
+"the purchase. Leave blank for the default layout."
+msgstr ""
+
+#: admin/views/setting-wc-fixes.php:2
+msgid ""
+"Apply general WooCommerce fixes. Especially useful, when you don’t use "
+"WooCommerce for anything else than ads. See the list of changes below."
+msgstr ""
+
+#: admin/views/setting-wc-fixes.php:4
+msgid "Remove product images"
+msgstr ""
+
+#: public/includes/ajax.php:34
+msgid "Invalid request."
+msgstr ""
+
+#: public/includes/order.php:178
+msgid "Please enter a positive number of days."
+msgstr ""
+
+#: public/includes/order.php:293
+msgid "Details"
+msgstr ""
+
+#: public/views/ad-setup-form.php:3
+#, php-format
+msgid "Setup page for order #%d, %s"
+msgstr ""
+
+#: public/views/ad-setup-form.php:3
+#, php-format
+msgid "%d item(s)"
+msgstr ""
+
+#: public/views/ad-setup-form.php:6
+msgid "purchased by"
+msgstr ""
+
+#: public/views/ad-setup-form.php:26
+#, php-format
+msgid "Item #%d"
+msgstr ""
+
+#: public/views/ad-setup-form.php:27
+msgid "Pricing option"
+msgstr ""
+
+#: public/views/ad-setup-form.php:31
+msgid "Status"
+msgstr ""
+
+#: public/views/ad-setup-form.php:34
+msgid ""
+"The content of this ad was already accepted and can no longer be changed."
+msgstr ""
+
+#: public/views/ad-setup-form.php:36
+msgid "This ad is currently in review."
+msgstr ""
+
+#: public/views/ad-setup-form.php:38
+msgid "Please complete the ad details so that we can process your order."
+msgstr ""
+
+#: public/views/ad-setup-form.php:47
+msgid "Ad Type"
+msgstr ""
+
+#: public/views/ad-setup-form.php:58
+msgid "Ad Code"
+msgstr ""
+
+#: public/views/ad-setup-form.php:62
+msgid ""
+"Please enter the ad code. HTML, JavaScript, CSS and plain text are allowed."
+msgstr ""
+
+#: public/views/ad-setup-form.php:69
+msgid "Image Upload"
+msgstr ""
+
+#: public/views/ad-setup-form.php:72
+msgid "Max File Size : 1Mb"
+msgstr ""
+
+#: public/views/ad-setup-form.php:74
+msgid "Target URL"
+msgstr ""
+
+#: public/views/ad-setup-form.php:81
+msgid "submit this ad"
+msgstr ""
+
+#: public/views/ad-setup-form.php:83
+msgid ""
+"The ad could not be submitted. Please try later or contact the site admin."
+msgstr ""
+
+#: public/views/ad-setup-form.php:84
+msgid "The ad was successfully submitted for review."
+msgstr ""
+
+#: public/views/ad-setup-page.php:10
+msgid "Ad Setup"
+msgstr ""
+
+#: public/views/product-template.php:38
+msgid "Select a placement"
+msgstr ""
+
+#: public/views/product-template.php:64
+msgid "You will be able to submit the ad content after the purchase."
+msgstr ""
+
+#. Name of the plugin
+msgid "Advanced Ads – Selling Ads"
+msgstr ""
+
+#. Description of the plugin
+msgid "Let users purchase ads directly in the frontend of your site."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpadvancedads.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Thomas Maier"
+msgstr ""

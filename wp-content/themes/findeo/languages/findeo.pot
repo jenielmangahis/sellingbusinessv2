@@ -1,0 +1,2397 @@
+# <!=Copyright (C) 2018 Purethemes.net
+# This file is distributed under the ThemeForest.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Findeo 1.2.42\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-12-11 13:37:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.1\n"
+
+#: inc/customizer/footer.php:66
+msgid "12"
+msgstr ""
+
+#: 404.php:22
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:45
+msgid "We&rsquo;re sorry, but the page you were looking for doesn&rsquo;t exist.."
+msgstr ""
+
+#: 404.php:46
+msgid "Back to Homepage"
+msgstr ""
+
+#: blog-parts/content-video.php:26
+msgid "View all posts in %s"
+msgstr ""
+
+#: blog-parts/content.php:31 template-parts/related-content.php:30
+msgid "Read More"
+msgstr ""
+
+#: comments.php:39 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:42 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:43 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: envato_setup/envato_setup.php:388 envato_setup/envato_setup.php:393
+msgid "Setup Wizard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:413
+msgid "Introduction"
+msgstr ""
+
+#: envato_setup/envato_setup.php:420
+msgid "Plugins"
+msgstr ""
+
+#: envato_setup/envato_setup.php:432
+msgid "Content"
+msgstr ""
+
+#: envato_setup/envato_setup.php:437 envato_setup/envato_setup.php:2440
+msgid "Logo"
+msgstr ""
+
+#: envato_setup/envato_setup.php:442
+msgid "Customize"
+msgstr ""
+
+#: envato_setup/envato_setup.php:447
+msgid "Support"
+msgstr ""
+
+#: envato_setup/envato_setup.php:452
+msgid "Ready!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:485
+msgid "...verifying"
+msgstr ""
+
+#: envato_setup/envato_setup.php:540
+msgid "Theme &rsaquo; Setup Wizard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:572
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:662 envato_setup/envato_setup.php:673
+#: envato_setup/envato_setup.php:690
+msgid "Welcome to the setup wizard for %s."
+msgstr ""
+
+#: envato_setup/envato_setup.php:663
+msgid ""
+"It looks like you may have recently upgraded to this theme. Great! This "
+"setup wizard will help ensure all the default settings are correct. It will "
+"also show some information about your new website and support options."
+msgstr ""
+
+#: envato_setup/envato_setup.php:666 envato_setup/envato_setup.php:695
+msgid "Let's Go!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:668 envato_setup/envato_setup.php:697
+msgid "Not right now"
+msgstr ""
+
+#: envato_setup/envato_setup.php:674
+msgid ""
+"It looks like you have already run the setup wizard. Below are some "
+"options: "
+msgstr ""
+
+#: envato_setup/envato_setup.php:678
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: envato_setup/envato_setup.php:684
+msgid "Cancel"
+msgstr ""
+
+#: envato_setup/envato_setup.php:691
+msgid ""
+"Thank you for choosing the %s theme from Purethemes. This quick setup "
+"wizard will help you configure your new website. This wizard will install "
+"the required WordPress plugins, default content, logo and tell you a little "
+"about Help &amp; Support options. It should only take 5 minutes."
+msgstr ""
+
+#: envato_setup/envato_setup.php:692
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:741
+msgid ""
+"Options have been reset. Please go to Appearance > Customize in the "
+"WordPress backend."
+msgstr ""
+
+#: envato_setup/envato_setup.php:817
+msgid "Default Plugins"
+msgstr ""
+
+#: envato_setup/envato_setup.php:824
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed or updated:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:849
+msgid ""
+"Good news! All plugins are already installed and up to date. Please "
+"continue."
+msgstr ""
+
+#: envato_setup/envato_setup.php:852
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: envato_setup/envato_setup.php:857 envato_setup/envato_setup.php:1030
+#: envato_setup/envato_setup.php:2409 envato_setup/envato_setup.php:2480
+#: envato_setup/envato_setup.php:2564 envato_setup/envato_setup.php:2634
+#: envato_setup/envato_setup.php:2671
+msgid "Continue"
+msgstr ""
+
+#: envato_setup/envato_setup.php:859 envato_setup/envato_setup.php:1032
+#: envato_setup/envato_setup.php:2411 envato_setup/envato_setup.php:2482
+#: envato_setup/envato_setup.php:2580
+msgid "Skip this step"
+msgstr ""
+
+#: envato_setup/envato_setup.php:869
+msgid "No Slug Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:885
+msgid "Activating Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:900
+msgid "Updating Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:915
+msgid "Installing Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:925
+msgid "Success"
+msgstr ""
+
+#: envato_setup/envato_setup.php:947
+msgid "This will create default %s as seen in the demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:948 envato_setup/envato_setup.php:961
+#: envato_setup/envato_setup.php:971 envato_setup/envato_setup_init.php:67
+msgid "Pending."
+msgstr ""
+
+#: envato_setup/envato_setup.php:949
+msgid "Installing."
+msgstr ""
+
+#: envato_setup/envato_setup.php:950 envato_setup/envato_setup.php:963
+#: envato_setup/envato_setup.php:973 envato_setup/envato_setup_init.php:69
+msgid "Success."
+msgstr ""
+
+#: envato_setup/envato_setup.php:959
+msgid "Widgets"
+msgstr ""
+
+#: envato_setup/envato_setup.php:960
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:962
+msgid "Installing Default Widgets."
+msgstr ""
+
+#: envato_setup/envato_setup.php:969
+msgid "Settings"
+msgstr ""
+
+#: envato_setup/envato_setup.php:970
+msgid "Configure default settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:972
+msgid "Installing Default Settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:990
+msgid "Default Content"
+msgstr ""
+
+#: envato_setup/envato_setup.php:993
+msgid ""
+"It looks like you already have content installed on this website. If you "
+"would like to install the default demo content as well you can select it "
+"below. Otherwise just choose the upgrade option to ensure everything is up "
+"to date."
+msgstr ""
+
+#: envato_setup/envato_setup.php:995
+msgid ""
+"It's time to insert some default content for your new WordPress website. "
+"Choose what you would like inserted below and click Continue. It is "
+"recommended to leave everything selected. Once inserted, this content can "
+"be managed from the WordPress admin dashboard. "
+msgstr ""
+
+#: envato_setup/envato_setup.php:1001
+msgid "Item"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1002
+msgid "Description"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1003 inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1043
+msgid "No content Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1111
+msgid "Error"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2132
+msgid "Remote server did not respond"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2140
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2146
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2152
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2390
+msgid "Site Style"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2392
+msgid "Please choose your site style below."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2442
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG . The logo can be changed at any time from the Appearance > "
+"Customize area in your dashboard. Try %sEnvato Studio%s if you need a new "
+"logo designed."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2462
+msgid "Upload New Logo"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2536
+msgid "Theme Updates"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2569
+msgid ""
+"Please login using your ThemeForest account to enable Theme Updates. We "
+"update themes when a new feature is added or a bug is fixed. It is highly "
+"recommended to enable Theme Updates."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2578
+msgid "Login with Envato"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2699
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2714
+msgid "Next Steps"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2718
+msgid "Follow @purethemes on Twitter"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2721
+msgid "View your new website!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2726
+msgid "More Resources"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2729
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2732
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2735
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2803
+msgid "Something went wrong while trying to retrieve oauth token: %s"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2820
+msgid "Login for %s updates"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2827
+msgid "oAuth Login"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2985
+msgid ""
+"Please activate ThemeForest updates to ensure you have the latest version "
+"of this theme."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2988
+msgid "<a class=\"button button-primary\" href=\"%s\">Activate Updates</a>"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:65
+msgid "Upgrade"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:66
+msgid "Upgrade Content and Settings"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:68
+msgid "Installing Updates."
+msgstr ""
+
+#: functions.php:53
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Top Bar Menu 2"
+msgstr ""
+
+#: functions.php:105
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:107 functions.php:153
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:116
+msgid "Footer 1st Column"
+msgstr ""
+
+#: functions.php:117
+msgid "1st column for widgets in Footer"
+msgstr ""
+
+#: functions.php:125
+msgid "Footer 2nd Column"
+msgstr ""
+
+#: functions.php:126
+msgid "2nd column for widgets in Footer"
+msgstr ""
+
+#: functions.php:134
+msgid "Footer 3rd Column"
+msgstr ""
+
+#: functions.php:135
+msgid "3rd column for widgets in Footer"
+msgstr ""
+
+#: functions.php:143
+msgid "Footer 4th Column"
+msgstr ""
+
+#: functions.php:144
+msgid "4th column for widgets in Footer"
+msgstr ""
+
+#: functions.php:151 inc/customizer/header.php:26
+msgid "Header"
+msgstr ""
+
+#: header-alt.php:125 header.php:162
+msgid "Hi,"
+msgstr ""
+
+#: header-alt.php:129 header.php:167
+msgid "My Profile"
+msgstr ""
+
+#: header-alt.php:134 header.php:172
+msgid "Bookmarks"
+msgstr ""
+
+#: header-alt.php:140 header.php:179
+msgid "My Properties"
+msgstr ""
+
+#: header-alt.php:143 header.php:184
+msgid "Log Out"
+msgstr ""
+
+#: header.php:189 inc/template-tags.php:298
+msgid "Log In / Register"
+msgstr ""
+
+#: header.php:197 inc/widgets/header.php:87
+msgid "Submit Property"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3563
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3481
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3484
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3486
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3490
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3492
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3492
+#: inc/class-tgm-plugin-activation.php:3500
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3492
+#: inc/class-tgm-plugin-activation.php:3500
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3493
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3495
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3500
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer/blog.php:14 inc/customizer/header.php:14
+msgid "--Select slider--"
+msgstr ""
+
+#: inc/customizer/blog.php:26
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/blog.php:27
+msgid "Blog related settings"
+msgstr ""
+
+#: inc/customizer/blog.php:31
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer/blog.php:32
+msgid "Blog related options"
+msgstr ""
+
+#: inc/customizer/blog.php:44
+msgid "Blog layout"
+msgstr ""
+
+#: inc/customizer/blog.php:45
+msgid "Choose the sidebar side for blog"
+msgstr ""
+
+#: inc/customizer/blog.php:60
+msgid "Post meta informations on single post"
+msgstr ""
+
+#: inc/customizer/blog.php:61
+msgid "Set which elements of posts meta data you want to display"
+msgstr ""
+
+#: inc/customizer/blog.php:66 inc/customizer/blog.php:98
+msgid "Author"
+msgstr ""
+
+#: inc/customizer/blog.php:67 inc/customizer/blog.php:99
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/blog.php:68 inc/customizer/blog.php:100
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/blog.php:69 inc/customizer/blog.php:101
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/blog.php:76
+msgid "Share buttons on single post"
+msgstr ""
+
+#: inc/customizer/blog.php:77
+msgid "Set which share buttons you want to display on single blog post"
+msgstr ""
+
+#: inc/customizer/blog.php:82 inc/customizer/header.php:114
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/blog.php:83 inc/customizer/header.php:112
+#: template-parts/content-single.php:34
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/blog.php:84 inc/customizer/header.php:125
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer/blog.php:85 inc/customizer/header.php:128
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/blog.php:92
+msgid "Post meta informations on blog post"
+msgstr ""
+
+#: inc/customizer/blog.php:93
+msgid ""
+"Set which elements of posts meta data you want to display on blog and "
+"archive pages"
+msgstr ""
+
+#: inc/customizer/blog.php:102
+msgid "Comments"
+msgstr ""
+
+#: inc/customizer/blog.php:110
+msgid "Blog Header"
+msgstr ""
+
+#: inc/customizer/blog.php:111 inc/customizer/header.php:27
+msgid "Header settings"
+msgstr ""
+
+#: inc/customizer/blog.php:121
+msgid "Blog page title"
+msgstr ""
+
+#: inc/customizer/blog.php:130
+msgid "Blog page subtitle"
+msgstr ""
+
+#: inc/customizer/footer.php:3
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/footer.php:4
+msgid "Footer related options"
+msgstr ""
+
+#: inc/customizer/footer.php:14
+msgid "Switching it to ON will globally enable sticky footer for all pages and post"
+msgstr ""
+
+#: inc/customizer/footer.php:16 inc/customizer/header.php:48
+msgid "Can be set individually on single pages and posts"
+msgstr ""
+
+#: inc/customizer/footer.php:20 inc/customizer/header.php:52
+#: inc/customizer/header.php:181 inc/customizer/header.php:207
+#: inc/customizer/header.php:219
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/footer.php:21 inc/customizer/header.php:53
+#: inc/customizer/header.php:182 inc/customizer/header.php:208
+#: inc/customizer/header.php:220 inc/meta-boxes.php:164 inc/meta-boxes.php:176
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/footer.php:28
+msgid "Footer style"
+msgstr ""
+
+#: inc/customizer/footer.php:33 inc/meta-boxes.php:151
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/footer.php:34 inc/meta-boxes.php:152
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/footer.php:42
+msgid "Copyrights text"
+msgstr ""
+
+#: inc/customizer/footer.php:51
+msgid "Footer widgets layout"
+msgstr ""
+
+#: inc/customizer/footer.php:52
+msgid ""
+"Total width of footer is 16 columns, here you can decide layout based on "
+"columns number for each widget area in footer"
+msgstr ""
+
+#: inc/customizer/footer.php:57
+msgid "6 | 6"
+msgstr ""
+
+#: inc/customizer/footer.php:58
+msgid "3 | 3 | 3 | 3"
+msgstr ""
+
+#: inc/customizer/footer.php:59
+msgid "6 | 3 | 3 "
+msgstr ""
+
+#: inc/customizer/footer.php:60
+msgid "5 | 4 | 3 "
+msgstr ""
+
+#: inc/customizer/footer.php:61
+msgid "3 | 6 | 3"
+msgstr ""
+
+#: inc/customizer/footer.php:62
+msgid "3 | 3 | 6"
+msgstr ""
+
+#: inc/customizer/footer.php:63
+msgid "4 | 4 | 4"
+msgstr ""
+
+#: inc/customizer/footer.php:64
+msgid "4 | 8"
+msgstr ""
+
+#: inc/customizer/footer.php:65
+msgid "8 | 4"
+msgstr ""
+
+#: inc/customizer/general.php:4
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer/general.php:5
+msgid "General options"
+msgstr ""
+
+#: inc/customizer/general.php:15
+msgid "Sidebar generator"
+msgstr ""
+
+#: inc/customizer/general.php:23
+msgid "Sidebar name"
+msgstr ""
+
+#: inc/customizer/general.php:24
+msgid "This will be name of sidebar"
+msgstr ""
+
+#: inc/customizer/general.php:29
+msgid "Sidebar ID"
+msgstr ""
+
+#: inc/customizer/general.php:30
+msgid "Replace x with a number"
+msgstr ""
+
+#: inc/customizer/header.php:35
+msgid "Top Header"
+msgstr ""
+
+#: inc/customizer/header.php:36
+msgid "Top Header settings"
+msgstr ""
+
+#: inc/customizer/header.php:46
+msgid "Switching it to ON will globally enable topbar for all pages and post"
+msgstr ""
+
+#: inc/customizer/header.php:60
+msgid "Phone number"
+msgstr ""
+
+#: inc/customizer/header.php:61 inc/customizer/header.php:70
+msgid "Set empty to hide"
+msgstr ""
+
+#: inc/customizer/header.php:69 woocommerce/myaccount/form-login.php:86
+msgid "Email address"
+msgstr ""
+
+#: inc/customizer/header.php:78
+msgid "Dropdown menu title"
+msgstr ""
+
+#: inc/customizer/header.php:79
+msgid "Set empty to hide menu"
+msgstr ""
+
+#: inc/customizer/header.php:87
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/header.php:94
+msgid "Social Icon"
+msgstr ""
+
+#: inc/customizer/header.php:100
+msgid "URL"
+msgstr ""
+
+#: inc/customizer/header.php:101
+msgid "This will be the link of the icon"
+msgstr ""
+
+#: inc/customizer/header.php:107
+msgid "Social Service"
+msgstr ""
+
+#: inc/customizer/header.php:108
+msgid "Choose site"
+msgstr ""
+
+#: inc/customizer/header.php:111
+msgid "--Choose icon--"
+msgstr ""
+
+#: inc/customizer/header.php:113
+msgid "WordPress"
+msgstr ""
+
+#: inc/customizer/header.php:115
+msgid "LinkedIN"
+msgstr ""
+
+#: inc/customizer/header.php:116
+msgid "Steam"
+msgstr ""
+
+#: inc/customizer/header.php:117
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer/header.php:118
+msgid "GitHub"
+msgstr ""
+
+#: inc/customizer/header.php:119
+msgid "Delicious"
+msgstr ""
+
+#: inc/customizer/header.php:120
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/header.php:121
+msgid "Xing"
+msgstr ""
+
+#: inc/customizer/header.php:122
+msgid "Amazon"
+msgstr ""
+
+#: inc/customizer/header.php:123
+msgid "Dropbox"
+msgstr ""
+
+#: inc/customizer/header.php:124
+msgid "PayPal"
+msgstr ""
+
+#: inc/customizer/header.php:126
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/customizer/header.php:127
+msgid "Yahoo"
+msgstr ""
+
+#: inc/customizer/header.php:129
+msgid "Dribbble"
+msgstr ""
+
+#: inc/customizer/header.php:130
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer/header.php:131
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer/header.php:132
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer/header.php:133
+msgid "Spotify"
+msgstr ""
+
+#: inc/customizer/header.php:134
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer/header.php:135
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer/header.php:136
+msgid "Blogger"
+msgstr ""
+
+#: inc/customizer/header.php:137
+msgid "Evernote"
+msgstr ""
+
+#: inc/customizer/header.php:138
+msgid "Digg"
+msgstr ""
+
+#: inc/customizer/header.php:139
+msgid "500px"
+msgstr ""
+
+#: inc/customizer/header.php:140
+msgid "Forrst"
+msgstr ""
+
+#: inc/customizer/header.php:141
+msgid "AppStore"
+msgstr ""
+
+#: inc/customizer/header.php:142
+msgid "LastFM"
+msgstr ""
+
+#: inc/customizer/header.php:151
+msgid "General Header"
+msgstr ""
+
+#: inc/customizer/header.php:152
+msgid "General Header settings"
+msgstr ""
+
+#: inc/customizer/header.php:162
+msgid "Header layout"
+msgstr ""
+
+#: inc/customizer/header.php:167
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/header.php:168
+msgid "Full-width"
+msgstr ""
+
+#: inc/customizer/header.php:175
+msgid "Switching it to ON will globally enable sticky header for all pages and post"
+msgstr ""
+
+#: inc/customizer/header.php:189
+msgid "Header style"
+msgstr ""
+
+#: inc/customizer/header.php:194
+msgid "Standard"
+msgstr ""
+
+#: inc/customizer/header.php:195
+msgid "Alternative"
+msgstr ""
+
+#: inc/customizer/header.php:202
+msgid "Display \"My account\" button in header"
+msgstr ""
+
+#: inc/customizer/header.php:214
+msgid "Display \"Submit Property\" button in header"
+msgstr ""
+
+#: inc/customizer/home.php:6
+msgid "Home Page Options"
+msgstr ""
+
+#: inc/customizer/home.php:7
+msgid "Options for Page with Search"
+msgstr ""
+
+#: inc/customizer/home.php:16
+msgid "Search Banner Title"
+msgstr ""
+
+#: inc/customizer/home.php:17
+msgid "Text above search form "
+msgstr ""
+
+#: inc/customizer/home.php:19
+msgid "Find Your Dream Home"
+msgstr ""
+
+#: inc/customizer/home.php:26
+msgid "Background for search banner on homepage"
+msgstr ""
+
+#: inc/customizer/home.php:27
+msgid "Set image for search banner, should be 1920px wide"
+msgstr ""
+
+#: inc/customizer/home.php:36
+msgid "Banner opacity"
+msgstr ""
+
+#: inc/customizer/home.php:50
+msgid "Color for the image overlay on homepage search banner"
+msgstr ""
+
+#: inc/customizer/home.php:59
+msgid "Video Poster"
+msgstr ""
+
+#: inc/customizer/home.php:68
+msgid "Upload webm file"
+msgstr ""
+
+#: inc/customizer/home.php:77
+msgid "Upload mp4 file"
+msgstr ""
+
+#: inc/customizer/home.php:88
+msgid "Video overlay color and opacity"
+msgstr ""
+
+#: inc/customizer/properties.php:5
+msgid "Properties & Agencies"
+msgstr ""
+
+#: inc/customizer/properties.php:6
+msgid "Properties settings"
+msgstr ""
+
+#: inc/customizer/properties.php:10
+msgid "Properties Archive Options"
+msgstr ""
+
+#: inc/customizer/properties.php:11 inc/customizer/properties.php:134
+msgid "Archive page related options"
+msgstr ""
+
+#: inc/customizer/properties.php:21
+msgid "Properties archive title"
+msgstr ""
+
+#: inc/customizer/properties.php:30
+msgid "Properties archive subtitle"
+msgstr ""
+
+#: inc/customizer/properties.php:39
+msgid "Gallery in thumbnails"
+msgstr ""
+
+#: inc/customizer/properties.php:40
+msgid "On properties list, show gallery slider instead of thumbnail"
+msgstr ""
+
+#: inc/customizer/properties.php:45
+msgid "Single Featured Image"
+msgstr ""
+
+#: inc/customizer/properties.php:46
+msgid "Gallery slider (if set)"
+msgstr ""
+
+#: inc/customizer/properties.php:54
+msgid "Properties archive general layout"
+msgstr ""
+
+#: inc/customizer/properties.php:55
+msgid "Choose the general archive  layout"
+msgstr ""
+
+#: inc/customizer/properties.php:60
+msgid "Standard titlebar"
+msgstr ""
+
+#: inc/customizer/properties.php:61
+msgid "Map on top"
+msgstr ""
+
+#: inc/customizer/properties.php:62
+msgid "Full Width Search form "
+msgstr ""
+
+#: inc/customizer/properties.php:63
+msgid "Split Map/Content"
+msgstr ""
+
+#: inc/customizer/properties.php:64
+msgid "Disable titlebar"
+msgstr ""
+
+#: inc/customizer/properties.php:71
+msgid "Map content type"
+msgstr ""
+
+#: inc/customizer/properties.php:72
+msgid "How the markers are added to map"
+msgstr ""
+
+#: inc/customizer/properties.php:77
+msgid "Map shows only markers based on currently displayed properties"
+msgstr ""
+
+#: inc/customizer/properties.php:78
+msgid "Map shows all markers ignoring the search form"
+msgstr ""
+
+#: inc/customizer/properties.php:93
+msgid "Properties content layout"
+msgstr ""
+
+#: inc/customizer/properties.php:94
+msgid "Choose the general archive content  layout"
+msgstr ""
+
+#: inc/customizer/properties.php:99
+msgid "List"
+msgstr ""
+
+#: inc/customizer/properties.php:100
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/properties.php:101
+msgid "Grid 3 columns"
+msgstr ""
+
+#: inc/customizer/properties.php:102
+msgid "Compact Grid"
+msgstr ""
+
+#: inc/customizer/properties.php:109
+msgid "Sidebar side"
+msgstr ""
+
+#: inc/customizer/properties.php:110
+msgid "Applies if the choosen layout has sidebar"
+msgstr ""
+
+#: inc/customizer/properties.php:125
+msgid "Header image"
+msgstr ""
+
+#: inc/customizer/properties.php:126
+msgid "Used on Properties archive page. Set image for header, should be 1920px wide"
+msgstr ""
+
+#: inc/customizer/properties.php:133
+msgid "Agencies archive Options"
+msgstr ""
+
+#: inc/customizer/properties.php:144
+msgid "Agencies archive title"
+msgstr ""
+
+#: inc/customizer/properties.php:153
+msgid "Agencies archive subtitle"
+msgstr ""
+
+#: inc/customizer/shop.php:3
+msgid "WooCommerce Options"
+msgstr ""
+
+#: inc/customizer/shop.php:4
+msgid "Shop related options"
+msgstr ""
+
+#: inc/customizer/shop.php:14
+msgid "Shop layout"
+msgstr ""
+
+#: inc/customizer/shop.php:15
+msgid "Choose the sidebar side for shop"
+msgstr ""
+
+#: inc/customizer/shop.php:30
+msgid "Show/hide results count and order select on shop page"
+msgstr ""
+
+#: inc/customizer/shop.php:36
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/shop.php:37
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/typography.php:5
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/typography.php:6
+msgid "Fonts options"
+msgstr ""
+
+#: inc/customizer/typography.php:16
+msgid "Body font"
+msgstr ""
+
+#: inc/customizer/typography.php:40
+msgid "Text logo font"
+msgstr ""
+
+#: inc/customizer/typography.php:64
+msgid "h1..h6 font"
+msgstr ""
+
+#: inc/customizer/typography.php:83
+msgid "Menu font"
+msgstr ""
+
+#: inc/customizer/var.php:6
+msgid "Logo image"
+msgstr ""
+
+#: inc/customizer/var.php:7
+msgid "Upload logo for your website"
+msgstr ""
+
+#: inc/customizer/var.php:26
+msgid "Logo Max Height (px)"
+msgstr ""
+
+#: inc/customizer/var.php:47
+msgid "Alternative header Sticky Logo image"
+msgstr ""
+
+#: inc/customizer/var.php:48
+msgid "Upload logo used in sticky header"
+msgstr ""
+
+#: inc/customizer/var.php:74
+msgid "Select main theme color"
+msgstr ""
+
+#: inc/meta-boxes.php:11
+msgid "Additional Informations"
+msgstr ""
+
+#: inc/meta-boxes.php:16
+msgid "Company"
+msgstr ""
+
+#: inc/meta-boxes.php:41
+msgid "Findeo Property Options"
+msgstr ""
+
+#: inc/meta-boxes.php:47 inc/meta-boxes.php:247
+msgid "Selected Sidebar"
+msgstr ""
+
+#: inc/meta-boxes.php:54
+msgid "Slider Image field"
+msgstr ""
+
+#: inc/meta-boxes.php:55
+msgid ""
+"Upload an image that will be used in Properties slider (recomended min "
+"1920px wide). If not set, Post Thumbnail will be used instead."
+msgstr ""
+
+#: inc/meta-boxes.php:88
+msgid "Page Options"
+msgstr ""
+
+#: inc/meta-boxes.php:94
+msgid "Page Top Section"
+msgstr ""
+
+#: inc/meta-boxes.php:95 inc/meta-boxes.php:224
+msgid "Select page layout, default is full-width"
+msgstr ""
+
+#: inc/meta-boxes.php:100
+msgid "Regular Titlebar"
+msgstr ""
+
+#: inc/meta-boxes.php:101
+msgid "Parallax image background"
+msgstr ""
+
+#: inc/meta-boxes.php:102
+msgid "Disable top section"
+msgstr ""
+
+#: inc/meta-boxes.php:108
+msgid "Top bar header"
+msgstr ""
+
+#: inc/meta-boxes.php:109
+msgid "Enable top bar header on that page"
+msgstr ""
+
+#: inc/meta-boxes.php:114 inc/meta-boxes.php:136 inc/meta-boxes.php:150
+#: inc/meta-boxes.php:163 inc/meta-boxes.php:175
+msgid "Use Global setting from Customizer"
+msgstr ""
+
+#: inc/meta-boxes.php:115
+msgid "Hide top bar no matter what"
+msgstr ""
+
+#: inc/meta-boxes.php:116
+msgid "Show top bar, always"
+msgstr ""
+
+#: inc/meta-boxes.php:122
+msgid "\"Glue\" footer to content"
+msgstr ""
+
+#: inc/meta-boxes.php:123
+msgid "Removes the top margin from footer section,"
+msgstr ""
+
+#: inc/meta-boxes.php:130
+msgid "Sticky footer"
+msgstr ""
+
+#: inc/meta-boxes.php:131
+msgid "Enables sticky footer for this page, even if it disabled in global settings"
+msgstr ""
+
+#: inc/meta-boxes.php:137
+msgid "Disable sticky footer"
+msgstr ""
+
+#: inc/meta-boxes.php:138
+msgid "Enable sticky footer"
+msgstr ""
+
+#: inc/meta-boxes.php:144
+msgid "Footer color style"
+msgstr ""
+
+#: inc/meta-boxes.php:145
+msgid "Sets footer color style, ignoring global settings"
+msgstr ""
+
+#: inc/meta-boxes.php:157
+msgid "Sticky header"
+msgstr ""
+
+#: inc/meta-boxes.php:158
+msgid "Enables sticky header for this page, even if it disabled in global settings"
+msgstr ""
+
+#: inc/meta-boxes.php:165 inc/meta-boxes.php:177
+msgid "Enable, always"
+msgstr ""
+
+#: inc/meta-boxes.php:170
+msgid "Full-width header"
+msgstr ""
+
+#: inc/meta-boxes.php:171
+msgid ""
+"Enables full-width header for this page, even if it disabled in global "
+"settings"
+msgstr ""
+
+#: inc/meta-boxes.php:189
+msgid "Parallax background for header"
+msgstr ""
+
+#: inc/meta-boxes.php:190
+msgid "If added, titlebar will use parallax effect"
+msgstr ""
+
+#: inc/meta-boxes.php:196
+msgid "Overlay color"
+msgstr ""
+
+#: inc/meta-boxes.php:197
+msgid "For Parallax or Titlebar section"
+msgstr ""
+
+#: inc/meta-boxes.php:206
+msgid "Parallax overlay opacity"
+msgstr ""
+
+#: inc/meta-boxes.php:207
+msgid "Set your value"
+msgstr ""
+
+#: inc/meta-boxes.php:223
+msgid "Page Layout"
+msgstr ""
+
+#: inc/meta-boxes.php:229
+msgid "Full width"
+msgstr ""
+
+#: inc/meta-boxes.php:230
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/meta-boxes.php:231
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/meta-boxes.php:237
+msgid "Subtitle"
+msgstr ""
+
+#: inc/meta-boxes.php:238
+msgid "If added, displayed under page title (if applicable)"
+msgstr ""
+
+#: inc/template-tags.php:20 inc/template-tags.php:55
+msgid "By"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:83
+msgid "With 0 comments"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:83
+msgid "With 1 comment"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:83
+msgid "With % comments"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:83
+msgid "Comments are off"
+msgstr ""
+
+#: inc/template-tags.php:99 inc/template-tags.php:105
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:101
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:107
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:114
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:121
+#. translators: %s: Name of current post
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:148
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:148
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:158
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:159
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr ""
+
+#: inc/template-tags.php:333
+msgid "View all posts by"
+msgstr ""
+
+#: inc/template-tags.php:372
+msgid "Related Posts"
+msgstr ""
+
+#: inc/tgmpa.php:163
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgmpa.php:168
+msgid "Contact Form 7 - Dynamic Text Extension"
+msgstr ""
+
+#: inc/widgets/header.php:26
+msgid "Findeo Header Widget"
+msgstr ""
+
+#: inc/widgets/header.php:27
+msgid "Use in Header Section"
+msgstr ""
+
+#: inc/widgets/header.php:161
+msgid "First box title:"
+msgstr ""
+
+#: inc/widgets/header.php:165
+msgid "First box subtitle:"
+msgstr ""
+
+#: inc/widgets/header.php:169
+msgid "First box icon:"
+msgstr ""
+
+#: inc/widgets/header.php:179
+msgid "Second box title:"
+msgstr ""
+
+#: inc/widgets/header.php:183
+msgid "Second box subtitle:"
+msgstr ""
+
+#: inc/widgets/header.php:187
+msgid "Second box icon:"
+msgstr ""
+
+#: inc/widgets/header.php:197
+msgid "Submit property button:"
+msgstr ""
+
+#: inc/widgets/header.php:199
+msgid "Enable this option to show a button \"Submit Property\""
+msgstr ""
+
+#: inc/widgets/list.php:35
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: inc/widgets/list.php:38
+msgid "Findeo Recent Posts"
+msgstr ""
+
+#: inc/widgets/list.php:57
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/list.php:148
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/list.php:151
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/list.php:155
+msgid "Display post date?"
+msgstr ""
+
+#: inc/woocommerce.php:34 woocommerce/content-product.php:84
+msgid "Unlimited number of properties"
+msgstr ""
+
+#: inc/woocommerce.php:38 woocommerce/content-product.php:88
+#: woocommerce/single-product/tabs/description.php:42
+#: woocommerce/single-product/tabs/description.php:66
+msgid "This plan includes "
+msgstr ""
+
+#: inc/woocommerce.php:38 woocommerce/content-product.php:88
+msgid "%d property"
+msgid_plural "%s properties"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:44
+msgid "Properties are published "
+msgstr ""
+
+#: inc/woocommerce.php:44 woocommerce/content-product.php:93
+#: woocommerce/single-product/tabs/description.php:49
+#: woocommerce/single-product/tabs/description.php:73
+msgid "for %s day"
+msgid_plural "for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:84 woocommerce/cart/cart.php:117
+msgid "Remove this item"
+msgstr ""
+
+#: inc/wsl.php:15
+msgid "Sign in with"
+msgstr ""
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+msgid "To search type and hit enter"
+msgstr ""
+
+#: single.php:87
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:88
+msgid "Next Post"
+msgstr ""
+
+#: single.php:89
+msgid "Post navigation"
+msgstr ""
+
+#: template-agents.php:52
+msgid "Type an agent name or location"
+msgstr ""
+
+#: template-agents.php:54 template-properties-search-wide.php:24
+#: template-search-form.php:78
+msgid "Search"
+msgstr ""
+
+#: template-agents.php:144
+msgid "View Profile"
+msgstr ""
+
+#: template-agents.php:193
+msgid "&laquo; Previous"
+msgstr ""
+
+#: template-agents.php:194
+msgid "Next &raquo;"
+msgstr ""
+
+#: template-landingpage.php:65 template-parts/content-page.php:46
+#: template-parts/content-single.php:17 template-parts/content.php:38
+#: template-properties-all-map.php:53 template-properties-map.php:52
+#: template-properties-search-map.php:80 template-properties-search-wide.php:54
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/author-content-none.php:14
+msgid "This agent doesn't have any properties available right now."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content.php:33
+#. translators: %s: Name of current post.
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/header-parallax.php:33
+msgid ""
+"We've found <em class=\"count_properties\">%s</em> <em "
+"class=\"count_text\">property</em> for you"
+msgid_plural ""
+"We've found <em class=\"count_properties\">%s</em> <em "
+"class=\"count_text\">properties</em> for you"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-properties-all-map.php:27 template-properties-map.php:26
+#: template-properties-search-map.php:27
+msgid "Enable or disable scrolling on map"
+msgstr ""
+
+#: template-properties-all-map.php:27 template-properties-map.php:26
+#: template-properties-search-map.php:27
+msgid "Enable Scrolling"
+msgstr ""
+
+#: template-properties-all-map.php:29 template-properties-map.php:28
+#: template-properties-search-map.php:29 template-split-map.php:32
+msgid "Previous point on map"
+msgstr ""
+
+#: template-properties-all-map.php:29 template-properties-map.php:28
+#: template-properties-search-map.php:29 template-split-map.php:32
+msgid "Prev"
+msgstr ""
+
+#: template-properties-all-map.php:30 template-properties-map.php:29
+#: template-properties-search-map.php:30 template-split-map.php:33
+msgid "Next point on map"
+msgstr ""
+
+#: template-properties-all-map.php:30 template-properties-map.php:29
+#: template-properties-search-map.php:30 template-split-map.php:33
+msgid "Next"
+msgstr ""
+
+#: template-properties-search-map.php:41 template-search-banner.php:40
+msgid "Advanced Search"
+msgstr ""
+
+#: template-properties-search-wide.php:25 template-split-map.php:51
+msgid "Reset Filters"
+msgstr ""
+
+#: template-search-banner.php:40
+msgid "Need more search options?"
+msgstr ""
+
+#: template-search-banner.php:46
+msgid "We have  %s properties for you!"
+msgstr ""
+
+#: template-search-form.php:46
+msgid "Any Status"
+msgstr ""
+
+#: template-search-form.php:75
+msgid "Enter address e.g. street, city and state or zip"
+msgstr ""
+
+#: template-search-form.php:83
+msgid "More Options"
+msgstr ""
+
+#: template-search-form.php:83
+msgid "Less Options"
+msgstr ""
+
+#: template-split-map.php:30
+msgid "Your location"
+msgstr ""
+
+#: template-split-map.php:50
+msgid "Find Your Home"
+msgstr ""
+
+#: vc_templates/vc_toggle.php:4
+msgid "Click to toggle"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:61
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:81
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:87
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:105
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:27
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41 woocommerce/checkout/thankyou.php:82
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:62
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:68
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/content-product.php:67
+msgid "Featured"
+msgstr ""
+
+#: woocommerce/content-product.php:93
+msgid "Properties are visible "
+msgstr ""
+
+#: woocommerce/content-product.php:107
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+#: woocommerce/myaccount/form-login.php:51
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:53
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:103
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:36
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:40
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:37
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:46
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:52
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:38
+msgid "Unlimited number of jobs"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:42
+msgid "%d job"
+msgid_plural "%s jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/tabs/description.php:49
+msgid "Jobs are posted "
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:62
+msgid "Unlimited number of Resumes"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:66
+msgid "%d resume"
+msgid_plural "%s resumes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/tabs/description.php:73
+msgid "Resumes are posted "
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+#. translators: 1: reviews count 2: product name
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+#: woocommerce/single-product-reviews.php:68
+msgid "Add Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:114
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Findeo"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeforest.net/item/findeo-real-estate-wordpress-theme/20697875"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Real Estate WordPress Theme by Purethemes"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Purethemes.net"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://purethemes.net/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Agents list"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Icons List (demo only)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Landing Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Properties with All Markers Map"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Properties With Map"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Properties Search With Map On Top"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Properties Search Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page with Search Banner"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page with Search Form"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Properties With Map - Split Page"
+msgstr ""
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "Comments %1$s"
+msgid_plural " Comments %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""

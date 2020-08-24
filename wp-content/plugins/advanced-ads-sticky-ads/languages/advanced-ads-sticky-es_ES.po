@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Ads – Sticky Ads\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-25 14:41+0000\n"
+"PO-Revision-Date: 2018-04-25 14:42+0000\n"
+"Last-Translator: Thomas Maier <post@webzunft.de>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/admin.php:78
+msgid "Activate Now"
+msgstr ""
+
+#: admin/admin.php:80
+msgid "Install Now"
+msgstr ""
+
+#: admin/admin.php:84
+#, php-format
+msgid ""
+"<strong>%s</strong> requires the <strong><a href=\"https://wpadvancedads."
+"com\" target=\"_blank\">Advanced Ads</a></strong> plugin to be installed and "
+"activated on your site."
+msgstr ""
+
+#: admin/admin.php:219
+msgid "Check browser capability"
+msgstr "Chequear la capacidad del navegador"
+
+#: admin/admin.php:250
+msgid "Settings for the Sticky Ads add-on"
+msgstr "Configuraciones para el add-on de Anuncios Pegajosos"
+
+#: admin/admin.php:262
+msgid ""
+"Activate this if you experience problems with sticky ads and/or a lot of "
+"your visitors use old mobile devices. It will check browser capability and "
+"position the ad inline after scrolling. Technically speaking: removes <em>"
+"position: fixed</em>, if not supported."
+msgstr ""
+"Activa esto si experimentas problemas con los anuncios pegajosos y/o muchos "
+"de tus visitantes utilizan dispositivos móviles antiguos. Chequeará la "
+"capacidad del browser y posicionará el anuncio en-línea después de un "
+"desplazamiento. Técnicamente hablando: remueve el atributo <em>position: "
+"fixed</em>, si no está soportado."
+
+#: admin/admin.php:276
+msgid "Header Bar"
+msgstr "Barra del Encabezado"
+
+#: admin/admin.php:277
+msgid "Fixed header bar."
+msgstr "Barra fija del encabezado."
+
+#: admin/admin.php:282
+msgid "Footer Bar"
+msgstr "Barra del Pie de Página"
+
+#: admin/admin.php:283
+msgid "Fixed footer bar."
+msgstr "Barra fija del pie de página."
+
+#: admin/admin.php:288
+msgid "Left Sidebar"
+msgstr "Barra Lateral Izquierda"
+
+#: admin/admin.php:289
+msgid "Sidebar on the left side of the content wrapper."
+msgstr "Barra lateral al lado izquierdo del Wrapper del contenido."
+
+#: admin/admin.php:294
+msgid "Right Sidebar"
+msgstr "Barra Lateral Derecha"
+
+#: admin/admin.php:295
+msgid "Sidebar on the right side of the content wrapper."
+msgstr "Barra lateral al lado derecho del Wrapper del contenido."
+
+#: admin/admin.php:300
+msgid "Left Bar"
+msgstr "Barra Izquierda"
+
+#: admin/admin.php:301
+msgid "Bar on the left side of the window."
+msgstr "Barra al lado izquierdo de la ventana."
+
+#: admin/admin.php:306
+msgid "Right Bar"
+msgstr "Barra Derecha"
+
+#: admin/admin.php:307
+msgid "Bar on the right side of the window."
+msgstr "Barra al lado derecho de la ventana."
+
+#: admin/admin.php:333
+msgid "It is against the AdSense policy to use them in a fixed positions."
+msgstr ""
+
+#: admin/admin.php:363
+msgid ""
+"When selecting a background color, the sticky bar will cover the whole "
+"screen width."
+msgstr ""
+"Al seleccionar un color de fondo, la barra pegajosa cubrirá el ancho entero "
+"de la pantalla."
+
+#: admin/admin.php:368
+msgid "background"
+msgstr "fondo"
+
+#: admin/admin.php:378 admin/admin.php:427 admin/admin.php:505
+msgid "show the ad"
+msgstr "Mostrar el anuncio"
+
+#: admin/admin.php:388 admin/admin.php:437 admin/admin.php:515
+msgid "effect"
+msgstr "Efecto"
+
+#: admin/admin.php:398 admin/admin.php:475 admin/admin.php:538
+msgid "close button"
+msgstr "Cerrar botón"
+
+#: admin/admin.php:411 admin/admin.php:488 admin/admin.php:551
+msgid "size"
+msgstr "Tamaño"
+
+#: admin/admin.php:444 admin/admin.php:522
+msgid "fix to window position"
+msgstr "fijar a la posición de la ventana"
+
+#: admin/admin.php:450 admin/admin.php:528 admin/views/close-button.php:16
+msgid "Position"
+msgstr "Posición"
+
+#: admin/admin.php:458
+msgid "select position"
+msgstr "seleccionar posición"
+
+#: admin/admin.php:460
+msgid ""
+"Use <a href=\"https://api.jquery.com/category/selectors/\" target=\"_blank\">"
+"jQuery selectors</a> to select a custom parent element or if automatic "
+"wrapper detection doesn’t work, e.g. #container_id, .container_class"
+msgstr ""
+"Utilizar <a href=\"https://api.jquery.com/category/selectors/\" "
+"target=\"_blank\">selectores jQuery</a> para seleccionar un elemento "
+"principal personalizado o si la detección automática del Wrapper no funciona,"
+" ej. #container_id, .container_class"
+
+#: admin/admin.php:465
+msgid "parent element"
+msgstr "Elemento madre"
+
+#: public/public.php:716
+msgid "close"
+msgstr "cerrar"
+
+#: admin/views/close-button.php:14
+msgid "add close button"
+msgstr "Añadir cerrar botón"
+
+#: admin/views/close-button.php:17
+msgid "outside"
+msgstr "afuera"
+
+#: admin/views/close-button.php:18
+msgid "inside"
+msgstr "adentro"
+
+#: admin/views/close-button.php:20 admin/views/metabox.php:40
+msgid "left"
+msgstr "izquierda"
+
+#: admin/views/close-button.php:21 admin/views/metabox.php:42
+msgid "right"
+msgstr "derecha"
+
+#: admin/views/close-button.php:22
+msgid "enable timeout"
+msgstr "habilitar cuenta regresiva"
+
+#: admin/views/close-button.php:24
+msgid "close the ad for …"
+msgstr "cierra el anuncio por…"
+
+#: admin/views/close-button.php:26
+msgid "days, 0 = after current session"
+msgstr "días, 0 = después de la sesión actual"
+
+#: admin/views/effects.php:6
+msgid "Show"
+msgstr "Mostrar"
+
+#: admin/views/effects.php:7
+msgid "Fade in"
+msgstr "Difuminar"
+
+#: admin/views/effects.php:8
+msgid "Slide in"
+msgstr "Deslizar"
+
+#: admin/views/effects.php:9
+msgid "Type of effect when the ad is being displayed"
+msgstr "Tipo de efecto que debe aparecer cuando el anuncio se está mostrando"
+
+#: admin/views/effects.php:12
+msgid "Duration of the effect (in milliseconds)."
+msgstr "Duración del efecto (en milisegundos)."
+
+#: admin/views/metabox.php:1
+#, php-format
+msgid ""
+"These settings are deprecated. Sticky ads are now managed through <a "
+"href=\"%s\">placements</a>. Please convert your settings as soon as possible."
+msgstr ""
+"Estas configuraciones están depreciadas. Los anuncios pegajosos ahora se "
+"gestionan a través de las <a href=\"%s\">Ubicaciones</a>. Por favor, "
+"convierte tus configuraciones lo más rápido posible."
+
+#: admin/views/metabox.php:3
+msgid "Stick ad to a specific position on the screen"
+msgstr "Fija un anuncio a una posición específica de la pantalla"
+
+#: admin/views/metabox.php:6
+msgid "Select a position"
+msgstr "Selecciona una posición"
+
+#: admin/views/metabox.php:7
+msgid "Choose a position on the screen."
+msgstr "Selecciona una posición en la pantalla."
+
+#: admin/views/metabox.php:11
+msgid "top left"
+msgstr "superior izquierda"
+
+#: admin/views/metabox.php:12
+msgid "top center"
+msgstr "superior centro"
+
+#: admin/views/metabox.php:13
+msgid "top right"
+msgstr "superior derecha"
+
+#: admin/views/metabox.php:16
+msgid "center left"
+msgstr "centro izquierda"
+
+#: admin/views/metabox.php:17
+msgid "center"
+msgstr "centro"
+
+#: admin/views/metabox.php:18
+msgid "center right"
+msgstr "centro derecha"
+
+#: admin/views/metabox.php:21
+msgid "bottom left"
+msgstr "inferior izquierda"
+
+#: admin/views/metabox.php:22
+msgid "bottom center"
+msgstr "inferior centro"
+
+#: admin/views/metabox.php:23
+msgid "bottom right"
+msgstr "inferior derecha"
+
+#: admin/views/metabox.php:26
+msgid "Enter banner width to correctly center the ad."
+msgstr "Ingresa el ancho del banner para centrar correctamente el anuncio."
+
+#: admin/views/metabox.php:27
+msgid "banner width"
+msgstr "ancho del banner"
+
+#: admin/views/metabox.php:31
+msgid "Define position manually"
+msgstr "Definir la posición manualmente"
+
+#: admin/views/metabox.php:32
+msgid ""
+"Use numbers in every field you want to be considered for positioning (top, "
+"left, right, bottom of the page). Leave a field empty to not set a position "
+"for this side. The number is considered to be in pixels."
+msgstr ""
+"Utiliza números en cada campo que desees considerar para posicionamiento "
+"(arriba, izquierda, derecha, abajo de la página). Deja un campo vacío para "
+"no definir ninguna posición en este lugar específico. El número se considera "
+"que está en píxeles."
+
+#: admin/views/metabox.php:36
+msgid "top"
+msgstr "arriba"
+
+#: admin/views/metabox.php:46
+msgid "bottom"
+msgstr "abajo"
+
+#: admin/views/size.php:3
+msgid "width"
+msgstr "Ancho"
+
+#: admin/views/size.php:7
+msgid "height"
+msgstr "Alto"
+
+#: admin/views/size.php:11
+msgid "Needed in case the ad does not center correctly"
+msgstr "Se necesita en caso que el anuncio no se centre correctamente"
+
+#: admin/views/trigger.php:7
+msgid "right away"
+msgstr "inmediatamente"
+
+#: admin/views/trigger.php:8
+msgid "right away with effect"
+msgstr "inmediatamente con efectos"
+
+#: admin/views/trigger.php:11
+#, php-format
+msgid "after %s seconds"
+msgstr "después de %s segundos"
+
+#: admin/views/vertical-center.php:3
+msgid "center vertically"
+msgstr "centrar verticalmente"
+
+#. Name of the plugin
+msgid "Advanced Ads – Sticky Ads"
+msgstr "Advanced Ads – Anuncios Pegajosos"
+
+#. Description of the plugin
+msgid "Advanced ad positioning."
+msgstr "Posicionamiento avanzado de anuncios."
+
+#. URI of the plugin
+msgid "http://wpadvancedads.com/add-ons/sticky-ads/"
+msgstr "http://wpadvancedads.com/add-ons/sticky-ads/"
+
+#. Author of the plugin
+msgid "Thomas Maier"
+msgstr "Thomas Maier"
+
+#. Author URI of the plugin
+msgid "http://wpadvancedads.com"
+msgstr "http://wpadvancedads.com"

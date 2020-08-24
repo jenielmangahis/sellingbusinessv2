@@ -1,0 +1,13 @@
+{default $title = [], $data = []}
+<table n:attr="$attr" id="{$attr['name']}">
+  <thead>
+    <tr n:inner-foreach="$title as $sTitle">
+      <td>{$sTitle|noescape}</td>
+    </tr>
+  </thead>
+  <tbody n:inner-foreach="$data as $aRow">
+    <tr n:inner-foreach="$aRow as $sData">
+      <td>{$sData|noescape}</td>
+    </tr>
+  </tbody>
+</table>

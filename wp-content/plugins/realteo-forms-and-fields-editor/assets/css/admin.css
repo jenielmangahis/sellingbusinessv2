@@ -1,0 +1,319 @@
+/*Clearfix for floating elements*/
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after{
+	clear: both;
+}
+.realteo-forms-builder {
+	width: 95%;
+}
+
+.form-editor-container {
+	padding-top: 20px;
+}
+/*page item itself*/
+
+.form-editor-available-elements-container {
+    overflow: auto;
+    max-height: 500px;
+    border: 1px solid #ddd;
+    padding: 15px;
+}
+
+.form-editor-available-elements-container .form_item,
+.form-editor-container .form_item{
+    outline: none;
+    font-size: 15px;
+    color: #808080;
+    margin: 0 0 16px 0;
+    padding: 12px;
+    width: 90%;
+    box-sizing: border-box;
+    display: block;
+    background-color: #fff;
+    box-shadow: 4px 4px 1px #ededed;
+    font-weight: 500;
+    opacity: 1;
+    border-radius: 3px;
+  
+    position: relative;
+}
+.form-editor-available-elements-container .form_item {
+    width: 100%;
+}
+.form-editor-available-elements-container .form_item .options  {
+    margin-left: 104px;
+    margin-top: 10px;
+}
+
+
+.form-editor-available-elements-container .form_item .handle,
+.form-editor-container .form_item .handle {
+    color:#000;
+    font-size: 16px;
+    float: left;
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.form-editor-available-elements-container .element_title_edit,
+.form-editor-available-elements-container .remove_item {
+    display: none;
+}
+
+.realteo-forms-builder-left {
+	float: left;
+	width: 60%
+}
+.realteo-forms-builder-right {
+	float: right;
+    width: 40%
+}
+
+
+.realteo-forms-builder-right .reset {
+	float: right;
+}
+
+.add_new_item {
+	border: 1px solid #274abb;
+    color: #274abb;
+    background: #eaecf2;
+   	width: 120px;
+    border-radius: 3px;
+    padding: 15px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0px 0px 30px 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/*removing an item from related pages*/
+.form_item .remove_item{
+
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	height: 100%;
+	line-height: 40px;
+	padding: 0px 10px;
+	box-sizing: border-box;
+	background: #fafafa;
+	width: 80px;
+	text-align: center;
+	cursor: pointer;
+}
+.form_item .remove_item.active{
+	display: block;
+}
+
+/*page item while dragging*/
+.form-editor-container .form_item.ui-draggable-dragging,
+.form-editor-container .form_item.ui-sortable-helper {
+	border: solid 1px #dadada;
+	background: #fff;
+}
+
+/*dragging item over droppable zone*/
+.right_container.hover-over-draggable{
+	border: solid 1px #dadada;
+}
+
+/*placeholder text for sorting items*/
+.form-editor-container .my-placeholder{
+	height: 40px;
+	border: dashed 1px #dadada;
+	margin-bottom: 10px;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 90%;
+}
+/*placeholder for when hovering over droppable*/
+.form-editor-container .droppable-helper{
+	width: 90%;
+	height: 40px;
+	border: dashed 1px #dadada;
+	margin-bottom: 10px;
+	display: none;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.droppable-helper.active{
+	display: block;
+}
+
+.edit-form-field {
+padding: 1px 0 15px 0;
+padding-left: 30px;
+margin-top: 20px;
+}
+
+
+.edit-form-field label {
+	display: inline-block;
+    width: 115px;
+    vertical-align: top;
+    margin-top: 3px;
+}
+   
+.edit-form-field small { 
+    display: block;
+    margin-left: 120px;
+} 
+
+
+
+.clearfix {
+    zoom: 1
+}
+.clearfix:after,
+.clearfix:before {
+    content: "";
+    display: table
+}
+.clear,
+.clearfix:after {
+    clear: both
+}
+.nobr {
+    white-space: nowrap
+}
+.realteo-form-editor .nav-tab-wrapper {
+    margin-bottom: 15px
+}
+.realteo-form-editor table th {
+    padding: 1em 0 1em 1em
+}
+.realteo-form-editor table td {
+    overflow: visible;
+    padding: 1em 0 1em 1em;
+    vertical-align: middle
+}
+.realteo-form-editor table td input.input-text,
+.realteo-form-editor table td select {
+    width: 90%;
+    min-width: 100px
+}
+.realteo-form-editor table td .na {
+    display: block;
+    color: #ccc;
+    text-align: center
+}
+.realteo-form-editor table td:last-child,
+.realteo-form-editor table th:last-child {
+    padding-right: 1em
+}
+.realteo-form-editor table tr:nth-child(odd) td {
+    background-color: #F9F9F9
+}
+.realteo-forms_page_realteo-fields-builder #wpfooter {
+    display: none;
+}
+.form_item  .field-options-predefined,
+.realteo-forms_page_realteo-fields-builder .field-options-predefined {
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+.realteo-forms-builder-bottom {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+    overflow: hidden;
+    width: 90%
+}
+
+.reset.button-secondary {
+    float: right;
+    margin-right: 80px;
+}
+
+.realteo-form-editor .main-options table {
+    width: 50%;
+    margin-top: 20px;
+}
+.realteo-forms-editor-bottom {
+    width: 50%;
+    margin-top:25px;
+}
+
+.form-editor-container .form_item_order {
+    height: 0px;
+    opacity: 0;
+    pointer-events: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+.form-editor-available-elements-container .element_title, .form-editor-container .element_title {
+    cursor: pointer;
+}
+
+.form-editor-container .element_title_edit {
+    display: inline-block;
+    float: right;
+    cursor: pointer;
+    margin-right: 85px;
+}
+
+.form-editor-container label .dashicons,
+.form-editor-available-elements-container label .dashicons  {
+    cursor: help    
+}
+.placement-container {
+    margin-bottom: 20px;
+}
+.field-options.options-container {
+    margin-top: 20px;
+}
+
+#realteo-fafe-forms-editor .name-container {
+    display: none;
+}
+.field-options-custom {
+    margin-top: 20px;
+
+}
+.form_item.form_item_realteo_order {
+    display: none;
+}
+
+.field-options.options-container {
+margin-top: 20px;
+margin-right: 110px;
+}
+
+.form-editor-container input.options { width: 100%;}
+
+#realteo_home_search_options .desc {
+    font-weight: normal;
+    font-size: 11px;
+
+}
+.form-editor-available-elements-container .form_item_header .handle, .form-editor-container .form_item_header .handle,
+.form-editor-available-elements-container .form_item_header, .form-editor-container .form_item_header{
+    background: #666;
+    color:#fff;
+
+}
+.form_item.form_item_header .remove_item {
+    background: #888;
+    color: #fff
+}
+
+.step-error-too-many,
+.step-error-exceed {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    padding: 5px;
+}
+tbody td {
+    cursor: move;
+}
+tbody .remove_row { color: red; cursor: pointer;}

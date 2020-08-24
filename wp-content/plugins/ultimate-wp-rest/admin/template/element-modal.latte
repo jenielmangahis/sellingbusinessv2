@@ -1,0 +1,9 @@
+<div class="modal" n:attr="$attr">
+    <div class="modal-content">
+      <h5>{$title}</h5>
+      {$content|noescape}
+    </div>
+    <div class="modal-footer" n:inner-foreach="$button as $btn">
+      <button class="modal-close waves-effect btn btn-flat" n:attr="$btn['attr']">{$btn['label']}</button>
+    </div>
+</div>

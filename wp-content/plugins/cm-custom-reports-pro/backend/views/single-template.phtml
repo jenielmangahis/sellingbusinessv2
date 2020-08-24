@@ -1,0 +1,43 @@
+<div class="clear"></div>
+
+<br/>
+
+<h2 class="cmcr-template-name"><?php echo apply_filters('cmcr-single-template-title', 'Template - ' . $template->name); ?> </h2>
+
+<a href="<?php echo CMCR_Email_Templates_List_Table::getListUrl(); ?>" class="button-primary"><?php echo CMCR_Labels::getLocalized('back_to_list') ?></a>
+<br/>
+<hr>
+
+<div class="cmcr_single_template_wrapper">
+    <form method="post">
+        <?php
+        echo wp_nonce_field('cmcr-single-template', '_cmcr-nonce');
+        if(!empty($template->id))
+        {
+            echo '<input type="hidden" name="cmcr_template_id" value="'.$template->id.'" />';
+        }
+        ?>
+        <div class="block">
+            <table class="floated-form-table form-table">
+                <tr valign="top">
+                    <th scope="row">Name:</th>
+                    <td><input type="text" placeholder="" name="cmcr_template_name" value="<?php echo !empty($template->name) ? $template->name : CM_Custom_Reports::__('New'); ?>" /></td>
+                    <td colspan="2" class="cmcr_field_help_container">Name of the template.</td>
+                </tr>
+                <tr valign="top">
+                    <th scope="row">Subject:</th>
+                    <td><input type="text" placeholder="" name="cmcr_template_subject" value="<?php echo !empty($template->subject) ? $template->subject : CMCR_Email_Templates_List_Table::getDefaultEmailSubject(); ?>" /></td>
+                    <td colspan="2" class="cmcr_field_help_container">Subject of the e-mail</td>
+                </tr>
+                <tr valign="top">
+                    <th scope="row">Content:</th>
+                    <td>
+                        <textarea rows="5" cols="50" name="cmcr_template_content"><?php echo !empty($template->content) ? $template->content : CMCR_Email_Templates_List_Table::getDefaultEmailContent(); ?></textarea>
+                    </td>
+                    <td colspan="2" class="cmcr_field_help_container">Content of the e-mail, use [report_link] to place the link to the report.</td>
+                </tr>
+            </table>
+        </div>
+        <input type="submit" class="button button-primary" value="Save" />
+    </form>
+</div>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CM Custom Reports - Preview</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <?php
+        wp_enqueue_style('colors');
+        wp_enqueue_style('ie');
+        wp_enqueue_script('utils');
+        wp_enqueue_script('svg-painter');
+        ?>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <?php
+        /**
+         * Fires when styles are printed for all admin pages.
+         *
+         * @since 2.6.0
+         */
+        do_action('admin_print_styles');
+
+        /**
+         * Fires when scripts are printed for all admin pages.
+         *
+         * @since 2.1.0
+         */
+        do_action('admin_print_scripts');
+        ?>
+    </head>
+    <body class="wp-admin wp-core-ui" style="background-color: white">
+
+        <div class="cmcr-preview-container">
+
+            <h2 class="cmcr-report-name"><?php echo $report->getReportNameFiltered($args['name_filter_args']); ?> </h2>
+
+            <div class="cmcr-report-description">
+                <?php echo $report->getReportDescription(); ?>
+            </div>
+
+            <br/>
+            <hr>
+            <?php
+            echo $reportContent;
+            wp_footer();
+            ?>
+        </div>
+    </body>
+</html>

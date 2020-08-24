@@ -1,0 +1,34 @@
+<div class="wrap">
+	{('settings_fields'|php:'seotool-settings-group')}
+  <!-- notice -->
+  <div class="row">
+    <div class="col s12">
+      {('settings_errors'|php)}
+    </div>
+   </div>
+  <!-- panel -->
+  <div class="row">
+    <div class="col s1"></div>
+    <div class="col s10">
+      <ul class="tabs" n:inner-foreach="$data as $sPage => $aData">
+        <li class="tab col" n:attr="$aData['attr']">
+          <a href="#{$aData['hash']}" class="{$aData['hash'] == $active ? 'active'}">
+          <i class="material-icons">{$aData['icon']}</i>{$aData['title']}</a>
+        </li>
+      </ul>
+      <div class="tabs-content">
+        <form action="options.php" method="post" id="optionsForm">
+        	{foreach $data as $sPage => $aData}
+          <div id="{$aData['hash']}">
+            {('do_settings_sections'|php:$sPage)}
+          </div>
+          {/foreach}
+          <button class="waves-effect waves-light btn">
+          	{('__'|php:'Save Settings','UTM_WP_REST_TEXTDOMAIN')}
+          </button>
+        </form>
+      </div>
+    </div>
+    <div class="col s1"></div>
+  </div>
+</div>

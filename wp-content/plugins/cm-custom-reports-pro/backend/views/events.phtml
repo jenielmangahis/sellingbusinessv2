@@ -1,0 +1,23 @@
+
+<div class="clear"></div>
+<?php do_action('CMCR_show_messages'); ?>
+<?php
+if( !empty($messages) ):
+    foreach($messages as $message):
+        ?><div class="updated"><p><?php echo $message; ?></p></div><?php
+    endforeach;
+endif;
+?>
+
+
+<h2 class="cmcr-email-events-list-title"><?php echo apply_filters('cmcr-email-events-list-title', CM_Custom_Reports::__('Events')); ?> </h2>
+
+<?php
+$eventsTable = new CMCR_Event_Log_List_Table();
+$eventsTable->prepare_items();
+?>
+
+<form id="cmcr-email-events-table" method="GET">
+    <input type="hidden" name="page" value="<?php echo $_REQUEST['page'] ?>"/>
+    <?php $eventsTable->display() ?>
+</form>
